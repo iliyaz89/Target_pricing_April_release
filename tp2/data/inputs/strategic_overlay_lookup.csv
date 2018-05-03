@@ -1,0 +1,756 @@
+Product,DominantIndustry,DistrictName,Bid_District,Box,VolIncrement
+GND_Com,Other,Florida,40,6,0
+GND_Resi,Other,Florida,40,6,0
+GND_Com,Apparel and Consumer Goods,Mid Atlantic,32,2,0
+GND_Resi,Apparel and Consumer Goods,Mid Atlantic,32,2,0
+GND_Com,Unclassified,North Atlantic,20,-9999,0
+GND_Resi,Unclassified,North Atlantic,20,-9999,0
+GND_Com,Unclassified,Northwest,76,-9999,0
+GND_Resi,Unclassified,Northwest,76,-9999,0
+GND_Com,Professional Services,North Atlantic,20,1,0
+GND_Resi,Professional Services,North Atlantic,20,1,0
+GND_Com,Industrial Products,Red River,12,4,0
+GND_Resi,Industrial Products,Red River,12,4,0
+GND_USPS,Industrial Products,Red River,12,4,0
+GND_Com,Apparel and Consumer Goods,Northeast,36,2,0
+GND_Resi,Apparel and Consumer Goods,Northeast,36,2,0
+GND_Com,Industrial Products,Desert Mountain,95,4,0
+GND_Resi,Industrial Products,Desert Mountain,95,4,0
+GND_Com,Other,South California,92,6,0
+GND_Resi,Other,South California,92,6,0
+GND_Com,Unclassified,Mid Atlantic,32,-9999,0
+GND_Resi,Unclassified,Mid Atlantic,32,-9999,0
+GND_USPS,Unclassified,Mid Atlantic,32,-9999,0
+GND_Com,Professional Services,Northeast,36,6,0
+GND_Resi,Professional Services,Northeast,36,6,0
+GND_Com,Other,Northwest,76,6,0
+GND_Resi,Other,Northwest,76,6,0
+GND_Com,High Tech,North Atlantic,20,2,0
+GND_Com,Apparel and Consumer Goods,Illinois,46,5,0
+GND_Resi,Apparel and Consumer Goods,Illinois,46,5,0
+GND_Com,Diversified Vehicles & Parts,Northeast,36,6,0
+GND_Resi,Diversified Vehicles & Parts,Northeast,36,6,0
+GND_Com,Unclassified,Northeast,36,-9999,0
+GND_Resi,Unclassified,Northeast,36,-9999,0
+GND_Com,Apparel and Consumer Goods,Desert Mountain,95,4,0
+GND_Resi,Apparel and Consumer Goods,Desert Mountain,95,4,0
+GND_Com,Unclassified,Red River,12,-9999,0
+GND_Resi,Unclassified,Red River,12,-9999,0
+GND_Com,Unclassified,South Atlantic,45,-9999,0
+GND_Resi,Unclassified,South Atlantic,45,-9999,0
+GND_Com,Industrial Products,South California,92,5,0
+GND_Resi,Industrial Products,South California,92,5,0
+GND_Com,Apparel and Consumer Goods,South California,92,6,0
+GND_Resi,Apparel and Consumer Goods,South California,92,6,0
+GND_Com,Industrial Products,Great Lakes,64,1,0
+GND_Resi,Industrial Products,Great Lakes,64,1,0
+GND_Com,Other,Northern Plains,56,1,0
+GND_Resi,Other,Northern Plains,56,1,0
+GND_Com,Healthcare,South California,92,6,0
+GND_Resi,Healthcare,South California,92,6,0
+GND_Com,Apparel and Consumer Goods,Chesapeake,33,1,0
+GND_Resi,Apparel and Consumer Goods,Chesapeake,33,1,0
+GND_Com,Industrial Products,Mid Atlantic,32,2,0
+GND_Resi,Industrial Products,Mid Atlantic,32,2,0
+GND_Com,Apparel and Consumer Goods,Northwest,76,6,0
+GND_Resi,Apparel and Consumer Goods,Northwest,76,6,0
+GND_Com,Industrial Products,Central Plains,55,3,0
+GND_Resi,Industrial Products,Central Plains,55,3,0
+GND_Com,High Tech,Ohio Valley,49,4,0
+GND_Resi,High Tech,Ohio Valley,49,4,0
+GND_Com,Industrial Products,Ohio Valley,49,6,0
+GND_Resi,Industrial Products,Ohio Valley,49,6,0
+GND_Com,Healthcare,South Atlantic,45,4,0
+GND_Resi,Healthcare,South Atlantic,45,4,0
+GND_Com,Apparel and Consumer Goods,Great Lakes,64,3,0
+GND_Resi,Apparel and Consumer Goods,Great Lakes,64,3,0
+GND_Com,Industrial Products,Florida,40,2,0
+GND_Resi,Industrial Products,Florida,40,2,0
+GND_Com,High Tech,Florida,40,5,0
+GND_Resi,High Tech,Florida,40,5,0
+GND_Com,Unclassified,South California,92,-9999,0
+GND_Resi,Unclassified,South California,92,-9999,0
+GND_Com,High Tech,Red River,12,3,0
+GND_Resi,High Tech,Red River,12,3,0
+GND_Com,Professional Services,Desert Mountain,95,5,0
+GND_Resi,Professional Services,Desert Mountain,95,5,0
+GND_Com,Diversified Vehicles & Parts,North California,86,4,0
+GND_Resi,Diversified Vehicles & Parts,North California,86,4,0
+GND_Com,High Tech,Desert Mountain,95,6,0
+GND_Com,Industrial Products,South Atlantic,45,5,0
+GND_Resi,Industrial Products,South Atlantic,45,5,0
+GND_USPS,Apparel and Consumer Goods,Desert Mountain,95,6,0
+GND_Com,Professional Services,Illinois,46,4,0
+GND_Resi,Professional Services,Illinois,46,4,0
+GND_Com,Apparel and Consumer Goods,Red River,12,6,0
+GND_Resi,Apparel and Consumer Goods,Red River,12,6,0
+GND_USPS,Apparel and Consumer Goods,Red River,12,3,0
+GND_Com,Unclassified,Chesapeake,33,-9999,0
+GND_Resi,Unclassified,Chesapeake,33,-9999,0
+GND_Com,Diversified Vehicles & Parts,South California,92,5,0
+GND_Resi,Diversified Vehicles & Parts,South California,92,5,0
+GND_Com,Professional Services,Great Lakes,64,6,0
+GND_Resi,Professional Services,Great Lakes,64,6,0
+GND_Com,Industrial Products,Illinois,46,5,0
+GND_Resi,Industrial Products,Illinois,46,5,0
+GND_Com,Healthcare,North California,86,5,0
+GND_Resi,Healthcare,North California,86,5,0
+GND_Com,Professional Services,Mid Atlantic,32,6,0
+GND_Resi,Professional Services,Mid Atlantic,32,6,0
+GND_Com,Unclassified,Central Plains,55,-9999,0
+GND_Resi,Unclassified,Central Plains,55,-9999,0
+GND_Com,Diversified Vehicles & Parts,Chesapeake,33,4,0
+GND_Resi,Diversified Vehicles & Parts,Chesapeake,33,4,0
+GND_Com,Industrial Products,Northeast,36,5,0
+GND_Resi,Industrial Products,Northeast,36,5,0
+GND_Com,High Tech,South California,92,4,0
+GND_Resi,High Tech,South California,92,4,0
+GND_Com,Diversified Vehicles & Parts,Mid Atlantic,32,5,0
+GND_Resi,Diversified Vehicles & Parts,Mid Atlantic,32,5,0
+GND_USPS,Diversified Vehicles & Parts,Mid Atlantic,32,2,0
+GND_Com,High Tech,Northern Plains,56,3,0
+GND_Com,Healthcare,Mid Atlantic,32,4,0
+GND_Com,Other,Red River,12,3,0
+GND_Resi,Other,Red River,12,3,0
+GND_Com,Other,Northeast,36,3,0
+GND_Resi,Other,Northeast,36,3,0
+GND_Com,Apparel and Consumer Goods,South Atlantic,45,1,0
+GND_Resi,Apparel and Consumer Goods,South Atlantic,45,1,0
+GND_Com,High Tech,Great Lakes,64,5,0
+GND_Resi,High Tech,Great Lakes,64,5,0
+GND_Com,Healthcare,Ohio Valley,49,1,0
+GND_Resi,Healthcare,Ohio Valley,49,1,0
+GND_Com,Apparel and Consumer Goods,Ohio Valley,49,4,0
+GND_Resi,Apparel and Consumer Goods,Ohio Valley,49,4,0
+GND_USPS,Apparel and Consumer Goods,Ohio Valley,49,6,0
+GND_Com,Professional Services,Mid South,44,1,0
+GND_Resi,Professional Services,Mid South,44,1,0
+GND_Com,Apparel and Consumer Goods,North Atlantic,20,4,0
+GND_Resi,Apparel and Consumer Goods,North Atlantic,20,4,0
+GND_Resi,High Tech,Northern Plains,56,3,0
+GND_Com,Other,South Atlantic,45,1,0
+GND_Resi,Other,South Atlantic,45,1,0
+GND_Com,Diversified Vehicles & Parts,Red River,12,5,0
+GND_Resi,Diversified Vehicles & Parts,Red River,12,5,0
+GND_USPS,Industrial Products,South California,92,6,0
+GND_Com,High Tech,Mid Atlantic,32,1,0
+GND_Resi,High Tech,Mid Atlantic,32,1,0
+GND_Com,Professional Services,South Atlantic,45,6,0
+GND_Resi,Professional Services,South Atlantic,45,6,0
+GND_Com,Healthcare,Northern Plains,56,1,0
+GND_Resi,Healthcare,Northern Plains,56,1,0
+GND_Com,Other,Chesapeake,33,6,0
+GND_Resi,Other,Chesapeake,33,6,0
+GND_Com,Apparel and Consumer Goods,Central Plains,55,3,0
+GND_Resi,Apparel and Consumer Goods,Central Plains,55,3,0
+GND_Com,High Tech,Central Plains,55,5,0
+GND_Resi,High Tech,Central Plains,55,5,0
+GND_Com,Other,Ohio Valley,49,3,0
+GND_Resi,Other,Ohio Valley,49,3,0
+GND_Com,High Tech,Illinois,46,3,0
+GND_Resi,High Tech,Illinois,46,3,0
+GND_USPS,Diversified Vehicles & Parts,North California,86,6,0
+GND_Com,Industrial Products,Mid South,44,5,0
+GND_Resi,Industrial Products,Mid South,44,5,0
+GND_USPS,Industrial Products,Mid South,44,5,0
+GND_Com,Industrial Products,North California,86,6,0
+GND_Resi,Industrial Products,North California,86,6,0
+GND_Com,Industrial Products,Northern Plains,56,1,0
+GND_Resi,Industrial Products,Northern Plains,56,1,0
+GND_Resi,Healthcare,Mid Atlantic,32,4,0
+GND_Com,Diversified Vehicles & Parts,North Atlantic,20,2,0
+GND_Resi,Diversified Vehicles & Parts,North Atlantic,20,2,0
+GND_Com,Other,North Atlantic,20,6,0
+GND_Resi,Other,North Atlantic,20,6,0
+GND_Com,High Tech,Northeast,36,2,0
+GND_Resi,High Tech,Northeast,36,2,0
+GND_Com,Healthcare,Great Lakes,64,6,0
+GND_Resi,Healthcare,Great Lakes,64,6,0
+GND_Com,Professional Services,South California,92,5,0
+GND_Resi,Professional Services,South California,92,5,0
+GND_Resi,High Tech,Desert Mountain,95,6,0
+GND_Com,Healthcare,Red River,12,4,0
+GND_Resi,Healthcare,Red River,12,4,0
+GND_Com,Healthcare,Desert Mountain,95,6,0
+GND_Resi,Healthcare,Desert Mountain,95,6,0
+GND_Com,Healthcare,Central Plains,55,5,0
+GND_Resi,Healthcare,Central Plains,55,5,0
+GND_Com,Other,Central Plains,55,3,0
+GND_Resi,Other,Central Plains,55,3,0
+GND_Com,Apparel and Consumer Goods,Northern Plains,56,3,0
+GND_Resi,Apparel and Consumer Goods,Northern Plains,56,3,0
+GND_USPS,Other,South California,92,6,0
+GND_USPS,Apparel and Consumer Goods,Northeast,36,3,0
+GND_Com,Professional Services,Red River,12,4,0
+GND_Resi,Professional Services,Red River,12,4,0
+GND_Com,Unclassified,Illinois,46,-9999,0
+GND_Resi,Unclassified,Illinois,46,-9999,0
+GND_USPS,Unclassified,Illinois,46,-9999,0
+GND_USPS,High Tech,South California,92,1,0
+GND_USPS,Unclassified,Northwest,76,-9999,0
+GND_USPS,Industrial Products,Northeast,36,3,0
+GND_Com,Other,Desert Mountain,95,2,0
+GND_Resi,Other,Desert Mountain,95,2,0
+GND_Com,Industrial Products,North Atlantic,20,6,0
+GND_Resi,Industrial Products,North Atlantic,20,6,0
+GND_Com,High Tech,North California,86,3,0
+GND_Resi,High Tech,North California,86,3,0
+GND_USPS,Unclassified,Central Plains,55,-9999,0
+GND_Com,Healthcare,Mid South,44,6,0
+GND_Resi,Healthcare,Mid South,44,6,0
+GND_USPS,Healthcare,Mid South,44,5,0
+GND_USPS,Apparel and Consumer Goods,Chesapeake,33,3,0
+GND_Com,Diversified Vehicles & Parts,Florida,40,6,0
+GND_Resi,Diversified Vehicles & Parts,Florida,40,6,0
+GND_Com,Industrial Products,Northwest,76,4,0
+GND_Resi,Industrial Products,Northwest,76,4,0
+GND_Com,Diversified Vehicles & Parts,Desert Mountain,95,4,0
+GND_Resi,Diversified Vehicles & Parts,Desert Mountain,95,4,0
+GND_USPS,Industrial Products,Desert Mountain,95,4,0
+GND_Com,Healthcare,Chesapeake,33,6,0
+GND_Resi,Healthcare,Chesapeake,33,6,0
+GND_USPS,Healthcare,Northern Plains,56,6,0
+GND_Com,High Tech,Mid South,44,5,0
+GND_Resi,High Tech,Mid South,44,5,0
+GND_Resi,High Tech,North Atlantic,20,2,0
+GND_Com,Healthcare,Northeast,36,2,0
+GND_Resi,Healthcare,Northeast,36,2,0
+GND_Com,Other,Mid Atlantic,32,3,0
+GND_Resi,Other,Mid Atlantic,32,3,0
+GND_Com,Apparel and Consumer Goods,Florida,40,6,0
+GND_Resi,Apparel and Consumer Goods,Florida,40,6,0
+GND_Com,Healthcare,Illinois,46,6,0
+GND_Resi,Healthcare,Illinois,46,6,0
+GND_USPS,Professional Services,North Atlantic,20,1,0
+GND_Com,Unclassified,Desert Mountain,95,-9999,0
+GND_Resi,Unclassified,Desert Mountain,95,-9999,0
+GND_USPS,Industrial Products,Northern Plains,56,4,0
+GND_USPS,Apparel and Consumer Goods,North Atlantic,20,2,0
+GND_Com,Government,South California,92,1,0
+GND_Resi,Government,South California,92,1,0
+GND_Com,High Tech,Northwest,76,6,0
+GND_Resi,High Tech,Northwest,76,6,0
+GND_Com,Healthcare,Florida,40,2,0
+GND_Resi,Healthcare,Florida,40,2,0
+GND_Com,Apparel and Consumer Goods,Mid South,44,6,0
+GND_Resi,Apparel and Consumer Goods,Mid South,44,6,0
+GND_Com,Unclassified,Mid South,44,-9999,0
+GND_Resi,Unclassified,Mid South,44,-9999,0
+GND_Com,Professional Services,Ohio Valley,49,1,0
+GND_Com,Diversified Vehicles & Parts,Great Lakes,64,4,0
+GND_Resi,Diversified Vehicles & Parts,Great Lakes,64,4,0
+GND_Com,Professional Services,Northern Plains,56,3,0
+GND_Resi,Professional Services,Northern Plains,56,3,0
+GND_Com,Diversified Vehicles & Parts,Northwest,76,4,0
+GND_Resi,Diversified Vehicles & Parts,Northwest,76,4,0
+GND_Com,Professional Services,Northwest,76,6,0
+GND_Resi,Professional Services,Northwest,76,6,0
+GND_USPS,Apparel and Consumer Goods,Mid South,44,6,0
+GND_Com,Unclassified,Northern Plains,56,-9999,0
+GND_Resi,Unclassified,Northern Plains,56,-9999,0
+GND_USPS,Apparel and Consumer Goods,South Atlantic,45,6,0
+GND_USPS,Healthcare,Florida,40,6,0
+GND_Com,Diversified Vehicles & Parts,Northern Plains,56,6,0
+GND_Resi,Diversified Vehicles & Parts,Northern Plains,56,6,0
+GND_Com,Unclassified,Florida,40,-9999,0
+GND_Resi,Unclassified,Florida,40,-9999,0
+GND_USPS,Unclassified,Florida,40,-9999,0
+GND_Com,Healthcare,Northwest,76,4,0
+GND_Resi,Healthcare,Northwest,76,4,0
+GND_Com,Professional Services,North California,86,4,0
+GND_Resi,Professional Services,North California,86,4,0
+GND_Com,Other,North California,86,3,0
+GND_Resi,Other,North California,86,3,0
+GND_Com,Professional Services,Florida,40,6,0
+GND_Resi,Professional Services,Florida,40,6,0
+GND_Com,Apparel and Consumer Goods,North California,86,5,0
+GND_Resi,Apparel and Consumer Goods,North California,86,5,0
+GND_USPS,Apparel and Consumer Goods,North California,86,2,0
+GND_Com,Other,Great Lakes,64,6,0
+GND_Resi,Other,Great Lakes,64,6,0
+GND_USPS,Professional Services,Mid South,44,4,0
+GND_USPS,Apparel and Consumer Goods,Central Plains,55,1,0
+GND_USPS,Unclassified,North Atlantic,20,-9999,0
+GND_USPS,Apparel and Consumer Goods,Northwest,76,1,0
+GND_Com,High Tech,South Atlantic,45,2,0
+GND_Resi,High Tech,South Atlantic,45,2,0
+GND_USPS,Unclassified,Red River,12,-9999,0
+GND_USPS,Unclassified,Northeast,36,-9999,0
+GND_USPS,Healthcare,South Atlantic,45,6,0
+GND_Com,Diversified Vehicles & Parts,Ohio Valley,49,1,0
+GND_Resi,Diversified Vehicles & Parts,Ohio Valley,49,1,0
+GND_Com,Other,Illinois,46,2,0
+GND_Resi,Other,Illinois,46,2,0
+GND_Com,Other,Mid South,44,6,0
+GND_Resi,Other,Mid South,44,6,0
+GND_Com,Diversified Vehicles & Parts,Central Plains,55,6,0
+GND_Resi,Diversified Vehicles & Parts,Central Plains,55,6,0
+GND_Com,Industrial Products,Chesapeake,33,4,0
+GND_Resi,Industrial Products,Chesapeake,33,4,0
+GND_USPS,Industrial Products,Chesapeake,33,3,0
+GND_Com,Professional Services,Central Plains,55,2,0
+GND_Resi,Professional Services,Central Plains,55,2,0
+GND_Com,Unclassified,Ohio Valley,49,-9999,0
+GND_Resi,Unclassified,Ohio Valley,49,-9999,0
+GND_Com,Unclassified,Great Lakes,64,-9999,0
+GND_Resi,Unclassified,Great Lakes,64,-9999,0
+GND_Com,Unclassified,North California,86,-9999,0
+GND_Resi,Unclassified,North California,86,-9999,0
+GND_Com,Professional Services,Chesapeake,33,6,0
+GND_Resi,Professional Services,Chesapeake,33,6,0
+GND_Com,Diversified Vehicles & Parts,Mid South,44,3,0
+GND_Resi,Diversified Vehicles & Parts,Mid South,44,3,0
+GND_USPS,Apparel and Consumer Goods,Mid Atlantic,32,6,0
+GND_Resi,Professional Services,Ohio Valley,49,1,0
+GND_Com,High Tech,Chesapeake,33,5,0
+GND_Resi,High Tech,Chesapeake,33,5,0
+GND_USPS,Apparel and Consumer Goods,South California,92,1,0
+GND_Com,Healthcare,North Atlantic,20,2,0
+GND_Resi,Healthcare,North Atlantic,20,2,0
+GND_USPS,Unclassified,South California,92,-9999,0
+GND_USPS,Other,Central Plains,55,3,0
+GND_USPS,Diversified Vehicles & Parts,South California,92,1,0
+GND_USPS,High Tech,Illinois,46,3,0
+GND_USPS,Unclassified,Desert Mountain,95,-9999,0
+GND_USPS,Healthcare,Central Plains,55,3,0
+GND_USPS,Healthcare,Ohio Valley,49,5,0
+GND_Com,Diversified Vehicles & Parts,South Atlantic,45,4,0
+GND_Resi,Diversified Vehicles & Parts,South Atlantic,45,4,0
+GND_USPS,Healthcare,Desert Mountain,95,2,0
+GND_USPS,Professional Services,Mid Atlantic,32,5,0
+GND_USPS,High Tech,Mid South,44,2,0
+GND_USPS,High Tech,Red River,12,4,0
+GND_USPS,Apparel and Consumer Goods,Florida,40,5,0
+GND_USPS,Unclassified,Mid South,44,-9999,0
+GND_USPS,Professional Services,Red River,12,2,0
+GND_USPS,Diversified Vehicles & Parts,Red River,12,3,0
+GND_USPS,Other,Chesapeake,33,5,0
+GND_USPS,Unclassified,North California,86,-9999,0
+GND_USPS,Industrial Products,Mid Atlantic,32,4,0
+GND_USPS,Unclassified,Chesapeake,33,-9999,0
+GND_USPS,Professional Services,Northern Plains,56,3,0
+GND_USPS,Apparel and Consumer Goods,Illinois,46,3,0
+GND_USPS,Other,Great Lakes,64,3,0
+GND_USPS,Professional Services,South Atlantic,45,4,0
+GND_USPS,Healthcare,Red River,12,3,0
+GND_USPS,Industrial Products,Ohio Valley,49,1,0
+GND_Com,Government,North Atlantic,20,6,0
+GND_Resi,Government,North Atlantic,20,6,0
+GND_USPS,Industrial Products,South Atlantic,45,2,0
+GND_USPS,Other,Northwest,76,2,0
+GND_USPS,High Tech,Great Lakes,64,6,0
+GND_USPS,Diversified Vehicles & Parts,Northern Plains,56,5,0
+GND_USPS,Unclassified,South Atlantic,45,-9999,0
+GND_USPS,Other,Ohio Valley,49,6,0
+GND_USPS,Other,North Atlantic,20,3,0
+GND_USPS,High Tech,North Atlantic,20,6,0
+GND_Com,Diversified Vehicles & Parts,Illinois,46,5,0
+GND_Resi,Diversified Vehicles & Parts,Illinois,46,5,0
+GND_USPS,Industrial Products,Illinois,46,3,0
+GND_USPS,Apparel and Consumer Goods,Northern Plains,56,1,0
+GND_Com,Government,Great Lakes,64,1,0
+GND_Resi,Government,Great Lakes,64,1,0
+GND_USPS,Healthcare,South California,92,3,0
+GND_USPS,Healthcare,Great Lakes,64,6,0
+GND_USPS,Industrial Products,Great Lakes,64,1,0
+GND_USPS,Other,Red River,12,6,0
+GND_USPS,High Tech,Northern Plains,56,2,0
+GND_USPS,Diversified Vehicles & Parts,Northwest,76,6,0
+GND_USPS,High Tech,Northeast,36,6,0
+GND_USPS,High Tech,Northwest,76,1,0
+GND_USPS,Diversified Vehicles & Parts,Chesapeake,33,5,0
+GND_USPS,High Tech,Central Plains,55,3,0
+GND_USPS,Unclassified,Northern Plains,56,-9999,0
+GND_USPS,Professional Services,South California,92,6,0
+GND_USPS,Unclassified,Great Lakes,64,-9999,0
+GND_USPS,Professional Services,Great Lakes,64,6,0
+GND_USPS,High Tech,Mid Atlantic,32,6,0
+GND_USPS,Apparel and Consumer Goods,Great Lakes,64,6,0
+GND_USPS,High Tech,Florida,40,5,0
+GND_USPS,Healthcare,North Atlantic,20,4,0
+GND_USPS,Other,Desert Mountain,95,3,0
+GND_USPS,Healthcare,Northeast,36,6,0
+GND_USPS,Healthcare,Mid Atlantic,32,5,0
+GND_USPS,High Tech,Ohio Valley,49,5,0
+GND_USPS,Professional Services,Florida,40,4,0
+GND_USPS,Industrial Products,Florida,40,4,0
+GND_USPS,Diversified Vehicles & Parts,South Atlantic,45,4,0
+GND_USPS,Other,Mid South,44,2,0
+GND_USPS,High Tech,Desert Mountain,95,6,0
+GND_USPS,Industrial Products,North Atlantic,20,1,0
+GND_USPS,Diversified Vehicles & Parts,Central Plains,55,6,0
+GND_USPS,Healthcare,Illinois,46,2,0
+GND_USPS,Other,South Atlantic,45,2,0
+GND_USPS,Other,Northeast,36,6,0
+GND_USPS,Professional Services,Ohio Valley,49,5,0
+GND_USPS,Professional Services,Central Plains,55,3,0
+GND_Com,Government,Central Plains,55,5,0
+GND_Resi,Government,Central Plains,55,5,0
+GND_USPS,Professional Services,Northeast,36,2,0
+GND_USPS,Industrial Products,Northwest,76,1,0
+GND_USPS,Diversified Vehicles & Parts,Great Lakes,64,2,0
+GND_USPS,Diversified Vehicles & Parts,Desert Mountain,95,6,0
+GND_USPS,Healthcare,Chesapeake,33,5,0
+GND_USPS,Other,Illinois,46,2,0
+GND_USPS,Professional Services,Desert Mountain,95,2,0
+GND_Com,Government,Northern Plains,56,6,0
+GND_Resi,Government,Northern Plains,56,6,0
+GND_USPS,Unclassified,Ohio Valley,49,-9999,0
+GND_USPS,Other,Northern Plains,56,6,0
+GND_USPS,Other,Mid Atlantic,32,3,0
+GND_USPS,Professional Services,Chesapeake,33,4,0
+GND_Com,Government,Mid South,44,4,0
+GND_Resi,Government,Mid South,44,4,0
+GND_USPS,Professional Services,Northwest,76,5,0
+GND_USPS,Industrial Products,Central Plains,55,1,0
+GND_USPS,Diversified Vehicles & Parts,Illinois,46,4,0
+GND_USPS,Diversified Vehicles & Parts,Ohio Valley,49,6,0
+GND_USPS,Diversified Vehicles & Parts,North Atlantic,20,3,0
+GND_USPS,Diversified Vehicles & Parts,Florida,40,3,0
+GND_Com,Government,Red River,12,4,0
+GND_Resi,Government,Red River,12,4,0
+GND_USPS,Diversified Vehicles & Parts,Mid South,44,2,0
+GND_USPS,High Tech,North California,86,6,0
+GND_Com,Government,Chesapeake,33,2,0
+GND_Resi,Government,Chesapeake,33,2,0
+GND_USPS,High Tech,South Atlantic,45,4,0
+GND_USPS,Diversified Vehicles & Parts,Northeast,36,1,0
+1DA,Other,Florida,40,3,0
+2DA,Other,Florida,40,2,0
+3DA,Unclassified,Florida,40,-9999,0
+1DA,Apparel and Consumer Goods,Mid Atlantic,32,6,0
+2DA,Apparel and Consumer Goods,Mid Atlantic,32,6,0
+1DA,Unclassified,North Atlantic,20,-9999,0
+2DA,Unclassified,North Atlantic,20,-9999,0
+3DA,Unclassified,North Atlantic,20,-9999,0
+1DA,Apparel and Consumer Goods,South California,92,6,0
+2DA,Apparel and Consumer Goods,South California,92,3,0
+3DA,Unclassified,South California,92,-9999,0
+1DA,Industrial Products,Red River,12,6,0
+2DA,Industrial Products,Red River,12,4,0
+3DA,Unclassified,Red River,12,-9999,0
+1DA,Apparel and Consumer Goods,Northeast,36,1,0
+2DA,Apparel and Consumer Goods,Northeast,36,2,0
+1DA,Industrial Products,Desert Mountain,95,6,0
+2DA,Industrial Products,Desert Mountain,95,4,0
+3DA,Unclassified,Desert Mountain,95,-9999,0
+1DA,Diversified Vehicles & Parts,Desert Mountain,95,6,0
+1DA,Unclassified,Mid Atlantic,32,-9999,0
+2DA,Unclassified,Mid Atlantic,32,-9999,0
+3DA,Unclassified,Mid Atlantic,32,-9999,0
+1DA,Professional Services,Northeast,36,1,0
+2DA,Professional Services,Northeast,36,1,0
+1DA,Other,Northwest,76,6,0
+2DA,Other,Northwest,76,2,0
+3DA,Unclassified,Northwest,76,-9999,0
+1DA,High Tech,North Atlantic,20,4,0
+2DA,High Tech,North Atlantic,20,6,0
+1DA,Apparel and Consumer Goods,Illinois,46,4,0
+2DA,Apparel and Consumer Goods,Illinois,46,5,0
+3DA,Unclassified,Illinois,46,-9999,0
+1DA,Diversified Vehicles & Parts,Northeast,36,2,0
+2DA,Diversified Vehicles & Parts,Northeast,36,5,0
+3DA,Unclassified,Northeast,36,-9999,0
+1DA,Unclassified,Northeast,36,-9999,0
+2DA,Unclassified,Northeast,36,-9999,0
+1DA,Apparel and Consumer Goods,Desert Mountain,95,5,0
+2DA,Apparel and Consumer Goods,Desert Mountain,95,6,0
+1DA,Unclassified,Red River,12,-9999,0
+2DA,Unclassified,Red River,12,-9999,0
+1DA,Unclassified,South Atlantic,45,-9999,0
+2DA,Unclassified,South Atlantic,45,-9999,0
+3DA,Unclassified,South Atlantic,45,-9999,0
+1DA,Industrial Products,South California,92,2,0
+2DA,Industrial Products,South California,92,1,0
+1DA,High Tech,South California,92,6,0
+2DA,High Tech,South California,92,1,0
+1DA,Industrial Products,Great Lakes,64,3,0
+1DA,Other,Northern Plains,56,2,0
+2DA,Other,Northern Plains,56,2,0
+3DA,Unclassified,Northern Plains,56,-9999,0
+1DA,Healthcare,South California,92,4,0
+2DA,Healthcare,South California,92,6,0
+1DA,Apparel and Consumer Goods,Chesapeake,33,3,0
+2DA,Apparel and Consumer Goods,Chesapeake,33,1,0
+3DA,Unclassified,Chesapeake,33,-9999,0
+1DA,Other,Chesapeake,33,6,0
+2DA,Other,Chesapeake,33,5,0
+1DA,Diversified Vehicles & Parts,Illinois,46,5,0
+2DA,Diversified Vehicles & Parts,Illinois,46,3,0
+1DA,Industrial Products,Mid Atlantic,32,5,0
+2DA,Industrial Products,Mid Atlantic,32,1,0
+1DA,Apparel and Consumer Goods,Northwest,76,2,0
+2DA,Apparel and Consumer Goods,Northwest,76,2,0
+1DA,Industrial Products,Central Plains,55,6,0
+2DA,Industrial Products,Central Plains,55,5,0
+3DA,Unclassified,Central Plains,55,-9999,0
+1DA,High Tech,Ohio Valley,49,6,0
+2DA,High Tech,Ohio Valley,49,6,0
+3DA,Unclassified,Ohio Valley,49,-9999,0
+1DA,Apparel and Consumer Goods,North Atlantic,20,6,0
+2DA,Apparel and Consumer Goods,North Atlantic,20,2,0
+1DA,Other,Mid South,44,2,0
+2DA,Other,Mid South,44,6,0
+1DA,Industrial Products,Ohio Valley,49,5,0
+2DA,Industrial Products,Ohio Valley,49,6,0
+1DA,Healthcare,South Atlantic,45,4,0
+2DA,Healthcare,South Atlantic,45,5,0
+1DA,Apparel and Consumer Goods,Great Lakes,64,3,0
+2DA,Apparel and Consumer Goods,Great Lakes,64,6,0
+1DA,Industrial Products,Florida,40,6,0
+2DA,Industrial Products,Florida,40,2,0
+1DA,Professional Services,Illinois,46,4,0
+2DA,Professional Services,Illinois,46,2,0
+1DA,High Tech,Florida,40,2,0
+2DA,High Tech,Florida,40,2,0
+1DA,Unclassified,South California,92,-9999,0
+2DA,Unclassified,South California,92,-9999,0
+1DA,Unclassified,Illinois,46,-9999,0
+2DA,Unclassified,Illinois,46,-9999,0
+1DA,High Tech,Red River,12,6,0
+2DA,High Tech,Red River,12,2,0
+1DA,Professional Services,Desert Mountain,95,1,0
+2DA,Professional Services,Desert Mountain,95,6,0
+1DA,High Tech,Desert Mountain,95,5,0
+2DA,High Tech,Desert Mountain,95,5,0
+1DA,Apparel and Consumer Goods,Red River,12,3,0
+2DA,Apparel and Consumer Goods,Red River,12,5,0
+1DA,Unclassified,Chesapeake,33,-9999,0
+2DA,Unclassified,Chesapeake,33,-9999,0
+1DA,Diversified Vehicles & Parts,South California,92,3,0
+2DA,Diversified Vehicles & Parts,South California,92,1,0
+1DA,Professional Services,Great Lakes,64,3,0
+2DA,Professional Services,Great Lakes,64,4,0
+3DA,Unclassified,Great Lakes,64,-9999,0
+1DA,Industrial Products,Illinois,46,6,0
+2DA,Industrial Products,Illinois,46,1,0
+1DA,Healthcare,North California,86,6,0
+2DA,Healthcare,North California,86,4,0
+3DA,Unclassified,North California,86,-9999,0
+1DA,Professional Services,Mid Atlantic,32,2,0
+1DA,Professional Services,South Atlantic,45,4,0
+2DA,Professional Services,South Atlantic,45,3,0
+1DA,Unclassified,Central Plains,55,-9999,0
+2DA,Unclassified,Central Plains,55,-9999,0
+1DA,Diversified Vehicles & Parts,Chesapeake,33,5,0
+2DA,Diversified Vehicles & Parts,Chesapeake,33,1,0
+1DA,Industrial Products,Northeast,36,4,0
+2DA,Industrial Products,Northeast,36,6,0
+1DA,High Tech,Northern Plains,56,5,0
+2DA,High Tech,Northern Plains,56,5,0
+1DA,Diversified Vehicles & Parts,Mid Atlantic,32,2,0
+2DA,Diversified Vehicles & Parts,Mid Atlantic,32,1,0
+1DA,Industrial Products,Chesapeake,33,6,0
+2DA,Industrial Products,Chesapeake,33,2,0
+2DA,Industrial Products,Great Lakes,64,1,0
+1DA,Other,Red River,12,6,0
+2DA,Other,Red River,12,3,0
+1DA,Other,Northeast,36,6,0
+2DA,Other,Northeast,36,5,0
+1DA,Apparel and Consumer Goods,South Atlantic,45,6,0
+2DA,Apparel and Consumer Goods,South Atlantic,45,1,0
+1DA,High Tech,Great Lakes,64,3,0
+2DA,High Tech,Great Lakes,64,6,0
+1DA,Healthcare,Ohio Valley,49,2,0
+2DA,Healthcare,Ohio Valley,49,5,0
+1DA,Apparel and Consumer Goods,Ohio Valley,49,5,0
+2DA,Apparel and Consumer Goods,Ohio Valley,49,3,0
+1DA,Professional Services,Mid South,44,3,0
+2DA,Professional Services,Mid South,44,6,0
+3DA,Unclassified,Mid South,44,-9999,0
+1DA,Other,South Atlantic,45,2,0
+2DA,Other,South Atlantic,45,6,0
+1DA,Industrial Products,North California,86,3,0
+2DA,Industrial Products,North California,86,6,0
+1DA,Diversified Vehicles & Parts,Red River,12,6,0
+2DA,Diversified Vehicles & Parts,Red River,12,2,0
+1DA,Apparel and Consumer Goods,Florida,40,2,0
+2DA,Apparel and Consumer Goods,Florida,40,5,0
+1DA,High Tech,Mid Atlantic,32,6,0
+2DA,High Tech,Mid Atlantic,32,1,0
+1DA,Diversified Vehicles & Parts,Great Lakes,64,3,0
+2DA,Diversified Vehicles & Parts,Great Lakes,64,6,0
+1DA,Apparel and Consumer Goods,Central Plains,55,5,0
+2DA,Apparel and Consumer Goods,Central Plains,55,5,0
+1DA,High Tech,Central Plains,55,5,0
+2DA,High Tech,Central Plains,55,5,0
+1DA,Other,Ohio Valley,49,3,0
+2DA,Other,Ohio Valley,49,3,0
+1DA,High Tech,Illinois,46,1,0
+2DA,High Tech,Illinois,46,1,0
+1DA,Diversified Vehicles & Parts,North California,86,6,0
+2DA,Diversified Vehicles & Parts,North California,86,4,0
+1DA,Industrial Products,Mid South,44,4,0
+2DA,Industrial Products,Mid South,44,6,0
+1DA,Industrial Products,Northern Plains,56,5,0
+2DA,Industrial Products,Northern Plains,56,4,0
+1DA,Healthcare,Mid Atlantic,32,5,0
+2DA,Healthcare,Mid Atlantic,32,1,0
+2DA,Diversified Vehicles & Parts,North Atlantic,20,4,0
+1DA,Other,North Atlantic,20,3,0
+1DA,High Tech,Northeast,36,6,0
+2DA,High Tech,Northeast,36,4,0
+1DA,Healthcare,Great Lakes,64,6,0
+2DA,Healthcare,Great Lakes,64,2,0
+1DA,Professional Services,South California,92,6,0
+2DA,Professional Services,South California,92,5,0
+1DA,Diversified Vehicles & Parts,North Atlantic,20,1,0
+1DA,Healthcare,Red River,12,2,0
+2DA,Healthcare,Red River,12,6,0
+1DA,Healthcare,Desert Mountain,95,5,0
+2DA,Healthcare,Desert Mountain,95,6,0
+1DA,Healthcare,Central Plains,55,6,0
+2DA,Healthcare,Central Plains,55,2,0
+1DA,Other,Central Plains,55,6,0
+2DA,Other,Central Plains,55,3,0
+1DA,Apparel and Consumer Goods,Northern Plains,56,6,0
+2DA,Apparel and Consumer Goods,Northern Plains,56,6,0
+1DA,Unclassified,Northwest,76,-9999,0
+2DA,Unclassified,Northwest,76,-9999,0
+1DA,Unclassified,Great Lakes,64,-9999,0
+2DA,Unclassified,Great Lakes,64,-9999,0
+1DA,Healthcare,Florida,40,5,0
+2DA,Healthcare,Florida,40,4,0
+1DA,Other,Desert Mountain,95,3,0
+2DA,Other,Desert Mountain,95,2,0
+1DA,Industrial Products,North Atlantic,20,2,0
+2DA,Industrial Products,North Atlantic,20,6,0
+1DA,High Tech,North California,86,6,0
+2DA,High Tech,North California,86,6,0
+1DA,Other,South California,92,3,0
+2DA,Other,South California,92,3,0
+1DA,High Tech,South Atlantic,45,5,0
+2DA,High Tech,South Atlantic,45,5,0
+1DA,Unclassified,Florida,40,-9999,0
+2DA,Unclassified,Florida,40,-9999,0
+1DA,Other,Great Lakes,64,3,0
+2DA,Other,Great Lakes,64,4,0
+1DA,Diversified Vehicles & Parts,Florida,40,6,0
+2DA,Diversified Vehicles & Parts,Florida,40,3,0
+1DA,Industrial Products,Northwest,76,2,0
+2DA,Industrial Products,Northwest,76,4,0
+2DA,Diversified Vehicles & Parts,Desert Mountain,95,2,0
+1DA,Healthcare,Chesapeake,33,2,0
+2DA,Healthcare,Chesapeake,33,1,0
+1DA,Healthcare,Northern Plains,56,1,0
+2DA,Healthcare,Northern Plains,56,6,0
+1DA,High Tech,Mid South,44,3,0
+2DA,High Tech,Mid South,44,4,0
+1DA,Professional Services,Red River,12,5,0
+2DA,Professional Services,Red River,12,3,0
+1DA,Diversified Vehicles & Parts,Central Plains,55,4,0
+2DA,Diversified Vehicles & Parts,Central Plains,55,5,0
+1DA,Healthcare,Mid South,44,5,0
+2DA,Healthcare,Mid South,44,3,0
+1DA,Other,Mid Atlantic,32,3,0
+2DA,Other,Mid Atlantic,32,2,0
+1DA,Healthcare,Northeast,36,3,0
+2DA,Healthcare,Northeast,36,5,0
+1DA,High Tech,Northwest,76,2,0
+2DA,High Tech,Northwest,76,3,0
+1DA,Healthcare,Illinois,46,4,0
+2DA,Healthcare,Illinois,46,4,0
+1DA,Professional Services,North Atlantic,20,6,0
+2DA,Professional Services,North Atlantic,20,4,0
+1DA,Unclassified,Ohio Valley,49,-9999,0
+2DA,Unclassified,Ohio Valley,49,-9999,0
+1DA,Unclassified,Desert Mountain,95,-9999,0
+2DA,Unclassified,Desert Mountain,95,-9999,0
+1DA,Government,South California,92,6,0
+2DA,Government,South California,92,4,0
+1DA,Apparel and Consumer Goods,Mid South,44,2,0
+1DA,Unclassified,Mid South,44,-9999,0
+2DA,Unclassified,Mid South,44,-9999,0
+1DA,Professional Services,Ohio Valley,49,6,0
+2DA,Professional Services,Ohio Valley,49,6,0
+1DA,Professional Services,Northern Plains,56,5,0
+2DA,Professional Services,Northern Plains,56,6,0
+1DA,Diversified Vehicles & Parts,Northwest,76,1,0
+2DA,Diversified Vehicles & Parts,Northwest,76,6,0
+1DA,Professional Services,Northwest,76,4,0
+2DA,Professional Services,Northwest,76,6,0
+2DA,Apparel and Consumer Goods,Mid South,44,2,0
+1DA,Professional Services,Central Plains,55,2,0
+2DA,Professional Services,Central Plains,55,6,0
+1DA,Unclassified,Northern Plains,56,-9999,0
+2DA,Unclassified,Northern Plains,56,-9999,0
+2DA,Professional Services,Mid Atlantic,32,2,0
+1DA,Diversified Vehicles & Parts,Northern Plains,56,5,0
+1DA,Healthcare,Northwest,76,4,0
+2DA,Healthcare,Northwest,76,6,0
+1DA,Industrial Products,South Atlantic,45,5,0
+2DA,Industrial Products,South Atlantic,45,5,0
+1DA,Apparel and Consumer Goods,North California,86,2,0
+2DA,Apparel and Consumer Goods,North California,86,5,0
+1DA,Professional Services,North California,86,1,0
+2DA,Professional Services,North California,86,6,0
+2DA,Diversified Vehicles & Parts,Northern Plains,56,1,0
+1DA,Professional Services,Florida,40,6,0
+2DA,Professional Services,Florida,40,3,0
+1DA,Other,North California,86,4,0
+2DA,Other,North California,86,3,0
+2DA,Other,North Atlantic,20,6,0
+1DA,Diversified Vehicles & Parts,Ohio Valley,49,3,0
+2DA,Diversified Vehicles & Parts,Ohio Valley,49,5,0
+1DA,Other,Illinois,46,2,0
+2DA,Other,Illinois,46,3,0
+1DA,Diversified Vehicles & Parts,South Atlantic,45,6,0
+2DA,Diversified Vehicles & Parts,South Atlantic,45,5,0
+1DA,Professional Services,Chesapeake,33,6,0
+2DA,Professional Services,Chesapeake,33,2,0
+1DA,Unclassified,North California,86,-9999,0
+2DA,Unclassified,North California,86,-9999,0
+1DA,Diversified Vehicles & Parts,Mid South,44,1,0
+2DA,Diversified Vehicles & Parts,Mid South,44,1,0
+1DA,High Tech,Chesapeake,33,3,0
+2DA,High Tech,Chesapeake,33,4,0
+1DA,Healthcare,North Atlantic,20,3,0
+2DA,Healthcare,North Atlantic,20,4,0
+1DA,Government,North Atlantic,20,6,0
+2DA,Government,North Atlantic,20,3,0
+1DA,Government,Central Plains,55,6,0
+2DA,Government,Central Plains,55,4,0
+1DA,Government,Great Lakes,64,6,0
+2DA,Government,Great Lakes,64,5,0
+1DA,Government,Northern Plains,56,1,0
+2DA,Government,Northern Plains,56,1,0
+1DA,Government,Northwest,76,6,0
+2DA,Government,Northwest,76,5,0
+1DA,Government,Mid South,44,4,0
+2DA,Government,Mid South,44,4,0
+1DA,Government,Red River,12,6,0
+2DA,Government,Red River,12,5,0
+Export,Unclassified,Florida,40,-9999,0
+Export,Unclassified,North Atlantic,20,-9999,0
+Export,Unclassified,Northwest,76,-9999,0
+Import,Unclassified,Northwest,76,-9999,0
+Export,Unclassified,South California,92,-9999,0
+Import,Unclassified,South California,92,-9999,0
+Import,Unclassified,North Atlantic,20,-9999,0
+Export,Unclassified,Northeast,36,-9999,0
+Import,Unclassified,Northeast,36,-9999,0
+Export,Unclassified,Desert Mountain,95,-9999,0
+Import,Unclassified,Desert Mountain,95,-9999,0
+Export,Unclassified,Mid Atlantic,32,-9999,0
+Import,Unclassified,Mid Atlantic,32,-9999,0
+Export,Unclassified,Ohio Valley,49,-9999,0
+Import,Unclassified,Ohio Valley,49,-9999,0
+Export,Unclassified,Illinois,46,-9999,0
+Import,Unclassified,Illinois,46,-9999,0
+Export,Unclassified,Red River,12,-9999,0
+Import,Unclassified,Red River,12,-9999,0
+Export,Unclassified,South Atlantic,45,-9999,0
+Import,Unclassified,South Atlantic,45,-9999,0
+Export,Unclassified,Chesapeake,33,-9999,0
+Export,Unclassified,Great Lakes,64,-9999,0
+Export,Unclassified,Northern Plains,56,-9999,0
+Import,Unclassified,Northern Plains,56,-9999,0
+Import,Unclassified,Chesapeake,33,-9999,0
+Export,Unclassified,Central Plains,55,-9999,0
+Import,Unclassified,Central Plains,55,-9999,0
+Export,Unclassified,Mid South,44,-9999,0
+Import,Unclassified,Florida,40,-9999,0
+Import,Unclassified,Great Lakes,64,-9999,0
+Export,Unclassified,North California,86,-9999,0
+Import,Unclassified,North California,86,-9999,0
+Import,Unclassified,Mid South,44,-9999,0

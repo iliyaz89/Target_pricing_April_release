@@ -1,0 +1,915 @@
+2018-04-25,00:36:49.823000 Consumer started
+2018-04-25,00:36:49.823000 cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_April\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/consumer2producer/init is accessible
+Oracle connection successfully made.
+
+2018-04-25,00:36:49.823000 **********Started function main, memory in MB=85.546875
+2018-04-25,00:36:49.823000 Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/
+2018-04-25,00:36:49.823000 Loading air_logit_fit.p model...
+2018-04-25,00:36:50.370000 Loading air_market_incentive.p model...
+2018-04-25,00:36:50.495000 Loading air_mpt_reg.p model...
+2018-04-25,00:36:51.417000 Loading data_prep.p model...
+2018-04-25,00:36:51.620000 Loading data_preprocess.p model...
+2018-04-25,00:36:51.620000 Loading eff_to_offer_air.p model...
+2018-04-25,00:36:51.682000 Loading eff_to_offer_gnd.p model...
+2018-04-25,00:36:51.729000 Loading eff_to_offer_impexp.p model...
+2018-04-25,00:36:51.761000 Loading gnd_market_incentive.p model...
+2018-04-25,00:36:51.870000 Loading gnd_mpt_reg.p model...
+2018-04-25,00:36:52.839000 Loading ground_logit_fit.p model...
+2018-04-25,00:36:52.995000 Loading ie_market_incentive.p model...
+2018-04-25,00:36:53.120000 Loading impexp_logit_fit.p model...
+2018-04-25,00:36:53.151000 Loading impexp_mpt_reg.p model...
+2018-04-25,00:36:53.917000 All models loaded
+2018-04-25,00:36:53.917000 ******************Exiting function main_Consumer
+2018-04-25,00:36:53.917000 **********Started function run, memory in MB=2195.90625
+2018-04-25,00:36:53.917000 IPC folders cleaned
+2018-04-25,00:36:53.933000 **********Started function OptimalIncentives, memory in MB=2198.3203125
+2018-04-25,00:36:53.948000 Consumer up and running
+2018-04-25,00:36:53.948000 ******************Middle of function run_Consumer
+2018-04-25,00:36:55.526000 Consumer is running
+2018-04-25,00:36:55.526000 Validation Scoring:added to producer to run
+2018-04-25,00:36:55.526000 **********Started function main, memory in MB=56.2421875
+2018-04-25,00:36:55.526000 Processing bid: P220031238
+2018-04-25,00:36:55.526000 **********Started function get_data, memory in MB=56.25
+2018-04-25,00:36:55.526000 **********Started function pullData, memory in MB=56.25390625
+2018-04-25,00:36:58.089000 ******************Exiting function PullData
+2018-04-25,00:36:58.089000 **********Started function transformData, memory in MB=72.921875
+2018-04-25,00:36:58.167000 ******************Exiting function transformData
+2018-04-25,00:36:58.167000 **********Started function create_prod_base_tables, memory in MB=73.7578125
+2018-04-25,00:36:58.167000 **********Started function generate_base_tables, memory in MB=73.7578125
+2018-04-25,00:36:58.167000 **********Started function clean_bid_account, memory in MB=74.1015625
+2018-04-25,00:36:58.167000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:36:58.167000 **********Started function clean_bid_service, memory in MB=74.23828125
+2018-04-25,00:36:58.183000 ******************Exiting function clean_bid_service
+2018-04-25,00:36:58.183000 **********Started function generate_product_initial, memory in MB=74.25390625
+2018-04-25,00:36:58.230000 ******************Exiting function clean_bid_service
+2018-04-25,00:36:58.230000 **********Started function generate_bid_master, memory in MB=74.40625
+2018-04-25,00:36:58.261000 ******************generate_bid_master
+2018-04-25,00:36:58.261000 ******************Exiting function generate_base_tables
+2018-04-25,00:36:58.261000 **********Started function zone_weight_table, memory in MB=74.42578125
+2018-04-25,00:36:58.324000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:36:58.324000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:36:58.324000 **********Started function final_output, memory in MB=74.9296875
+2018-04-25,00:36:58.339000 ******************Exiting function final_output
+2018-04-25,00:36:58.339000 ******************Exiting function get_data
+2018-04-25,00:36:58.339000 **********Started function enqueue, memory in MB=74.93359375
+2018-04-25,00:36:58.339000 **********Started function send_request, memory in MB=74.93359375
+2018-04-25,00:36:58.339000 Found request ['1116ca53-4b1b-41a2-a870-2958c6566d42']
+2018-04-25,00:36:58.339000 **********Started function extract_data_ipc_file, memory in MB=2198.42578125
+2018-04-25,00:36:58.355000 ******************Exiting function send_request
+2018-04-25,00:36:58.355000 Scoring bid# P220031238 from file 1116ca53-4b1b-41a2-a870-2958c6566d42
+2018-04-25,00:36:58.386000 **********Started function run_calculator_production, memory in MB=2198.9453125
+2018-04-25,00:36:58.402000 **********Started function run_calculator, memory in MB=2199.26953125
+2018-04-25,00:36:58.402000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2199.26953125
+2018-04-25,00:37:03.839000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:37:03.855000 **********Started function add_ceiling, memory in MB=2206.09375
+2018-04-25,00:37:03.855000 ******************Exiting function add_Ceiling
+2018-04-25,00:37:03.855000 **********Started function add_elasticity_alpha_gamma, memory in MB=2206.12890625
+2018-04-25,00:37:03.886000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:37:03.902000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2206.4375
+2018-04-25,00:37:03.949000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:37:03.949000 **********Started function applyStrategicOverlay, memory in MB=2206.5703125
+2018-04-25,00:37:03.964000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:37:04.011000 ******************Exiting function run_calculator
+2018-04-25,00:37:04.011000 **********Started function apply_eff_to_freight, memory in MB=2206.765625
+2018-04-25,00:37:04.152000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:37:04.168000 **********Started function deal_scoring_additional_output, memory in MB=2208.859375
+2018-04-25,00:37:04.214000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:37:04.230000 ******************Exiting function run_calculator_production
+2018-04-25,00:37:04.230000 **********Started function post_processing, memory in MB=2208.86328125
+2018-04-25,00:37:04.246000 ******************Exiting function post_processing
+2018-04-25,00:37:04.261000 **********Started function accessorials, memory in MB=2209.65234375
+2018-04-25,00:37:05.027000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:37:05.043000 Time elapsed: 0:00:06.657000
+2018-04-25,00:37:05.246000 **********Started function extract_data_ipc_file, memory in MB=75.3125
+2018-04-25,00:37:05.355000 **********Started function send_results, memory in MB=75.46484375
+2018-04-25,00:37:05.371000 ******************Exiting function send_results
+2018-04-25,00:37:05.371000 **********Started function put_data, memory in MB=75.6640625
+2018-04-25,00:37:05.386000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:37:05.402000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:37:05.402000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:37:05.402000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:37:05.402000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:37:05.402000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:37:05.402000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:37:05.402000 ******************Exiting function put_data
+2018-04-25,00:37:05.402000 **********Started function pushData, memory in MB=75.6640625
+2018-04-25,00:37:05.402000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:37:05.402000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:37:05.402000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:37:05.402000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:37:05.402000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:37:05.402000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:37:05.402000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:37:05.402000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:37:05.402000 ******************Exiting function PushData
+2018-04-25,00:37:05.402000 Bid P220031238 successfully scored.
+2018-04-25,00:37:05.402000 ******************Exiting function main_Producer
+2018-04-25,00:37:52.436000 Consumer is running
+2018-04-25,00:37:52.436000 Validation Scoring:added to producer to run
+2018-04-25,00:37:52.436000 **********Started function main, memory in MB=55.88671875
+2018-04-25,00:37:52.436000 Processing bid: P220031238
+2018-04-25,00:37:52.436000 **********Started function get_data, memory in MB=55.89453125
+2018-04-25,00:37:52.436000 **********Started function pullData, memory in MB=55.8984375
+2018-04-25,00:37:55.061000 ******************Exiting function PullData
+2018-04-25,00:37:55.061000 **********Started function transformData, memory in MB=72.79296875
+2018-04-25,00:37:55.140000 ******************Exiting function transformData
+2018-04-25,00:37:55.140000 **********Started function create_prod_base_tables, memory in MB=73.62890625
+2018-04-25,00:37:55.140000 **********Started function generate_base_tables, memory in MB=73.62890625
+2018-04-25,00:37:55.155000 **********Started function clean_bid_account, memory in MB=73.98046875
+2018-04-25,00:37:55.155000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:37:55.155000 **********Started function clean_bid_service, memory in MB=74.1171875
+2018-04-25,00:37:55.155000 ******************Exiting function clean_bid_service
+2018-04-25,00:37:55.155000 **********Started function generate_product_initial, memory in MB=74.1328125
+2018-04-25,00:37:55.218000 ******************Exiting function clean_bid_service
+2018-04-25,00:37:55.218000 **********Started function generate_bid_master, memory in MB=74.28515625
+2018-04-25,00:37:55.233000 ******************generate_bid_master
+2018-04-25,00:37:55.233000 ******************Exiting function generate_base_tables
+2018-04-25,00:37:55.233000 **********Started function zone_weight_table, memory in MB=74.3046875
+2018-04-25,00:37:55.280000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:37:55.296000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:37:55.296000 **********Started function final_output, memory in MB=74.81640625
+2018-04-25,00:37:55.296000 ******************Exiting function final_output
+2018-04-25,00:37:55.296000 ******************Exiting function get_data
+2018-04-25,00:37:55.311000 **********Started function enqueue, memory in MB=74.8203125
+2018-04-25,00:37:55.311000 **********Started function send_request, memory in MB=74.8203125
+2018-04-25,00:37:55.311000 Found request ['615fe806-ae09-4049-ae12-9d2f0563d11d']
+2018-04-25,00:37:55.311000 **********Started function extract_data_ipc_file, memory in MB=2213.9765625
+2018-04-25,00:37:55.311000 ******************Exiting function send_request
+2018-04-25,00:37:55.311000 Scoring bid# P220031238 from file 615fe806-ae09-4049-ae12-9d2f0563d11d
+2018-04-25,00:37:55.343000 **********Started function run_calculator_production, memory in MB=2214.0234375
+2018-04-25,00:37:55.358000 **********Started function run_calculator, memory in MB=2214.06640625
+2018-04-25,00:37:55.358000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2214.06640625
+2018-04-25,00:37:56.608000 Consumer is running
+2018-04-25,00:37:56.608000 Validation Scoring:added to producer to run
+2018-04-25,00:37:56.608000 **********Started function main, memory in MB=55.890625
+2018-04-25,00:37:56.608000 Processing bid: P220031238
+2018-04-25,00:37:56.608000 **********Started function get_data, memory in MB=55.8984375
+2018-04-25,00:37:56.608000 **********Started function pullData, memory in MB=55.90234375
+2018-04-25,00:37:59.124000 ******************Exiting function PullData
+2018-04-25,00:37:59.124000 **********Started function transformData, memory in MB=72.80859375
+2018-04-25,00:37:59.202000 ******************Exiting function transformData
+2018-04-25,00:37:59.202000 **********Started function create_prod_base_tables, memory in MB=73.64453125
+2018-04-25,00:37:59.202000 **********Started function generate_base_tables, memory in MB=73.64453125
+2018-04-25,00:37:59.202000 **********Started function clean_bid_account, memory in MB=74.0
+2018-04-25,00:37:59.218000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:37:59.218000 **********Started function clean_bid_service, memory in MB=74.13671875
+2018-04-25,00:37:59.218000 ******************Exiting function clean_bid_service
+2018-04-25,00:37:59.218000 **********Started function generate_product_initial, memory in MB=74.1484375
+2018-04-25,00:37:59.265000 ******************Exiting function clean_bid_service
+2018-04-25,00:37:59.265000 **********Started function generate_bid_master, memory in MB=74.3125
+2018-04-25,00:37:59.280000 ******************generate_bid_master
+2018-04-25,00:37:59.280000 ******************Exiting function generate_base_tables
+2018-04-25,00:37:59.280000 **********Started function zone_weight_table, memory in MB=74.32421875
+2018-04-25,00:37:59.327000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:37:59.327000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:37:59.327000 **********Started function final_output, memory in MB=74.8359375
+2018-04-25,00:37:59.327000 ******************Exiting function final_output
+2018-04-25,00:37:59.343000 ******************Exiting function get_data
+2018-04-25,00:37:59.343000 **********Started function enqueue, memory in MB=74.84375
+2018-04-25,00:37:59.343000 **********Started function send_request, memory in MB=74.84375
+2018-04-25,00:37:59.343000 ******************Exiting function send_request
+2018-04-25,00:38:01.437000 Consumer is running
+2018-04-25,00:38:01.437000 Validation Scoring:added to producer to run
+2018-04-25,00:38:01.437000 **********Started function main, memory in MB=56.234375
+2018-04-25,00:38:01.437000 Processing bid: P220031238
+2018-04-25,00:38:01.437000 **********Started function get_data, memory in MB=56.2421875
+2018-04-25,00:38:01.437000 **********Started function pullData, memory in MB=56.24609375
+2018-04-25,00:38:01.468000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:38:01.484000 **********Started function add_ceiling, memory in MB=2216.0078125
+2018-04-25,00:38:01.484000 ******************Exiting function add_Ceiling
+2018-04-25,00:38:01.484000 **********Started function add_elasticity_alpha_gamma, memory in MB=2216.0078125
+2018-04-25,00:38:01.515000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:38:01.515000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2216.0078125
+2018-04-25,00:38:01.562000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:38:01.577000 **********Started function applyStrategicOverlay, memory in MB=2216.0390625
+2018-04-25,00:38:01.577000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:38:01.609000 ******************Exiting function run_calculator
+2018-04-25,00:38:01.609000 **********Started function apply_eff_to_freight, memory in MB=2216.046875
+2018-04-25,00:38:01.749000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:38:01.765000 **********Started function deal_scoring_additional_output, memory in MB=2216.078125
+2018-04-25,00:38:01.827000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:38:01.843000 ******************Exiting function run_calculator_production
+2018-04-25,00:38:01.843000 **********Started function post_processing, memory in MB=2216.078125
+2018-04-25,00:38:01.859000 ******************Exiting function post_processing
+2018-04-25,00:38:01.874000 **********Started function accessorials, memory in MB=2216.1015625
+2018-04-25,00:38:02.015000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:38:02.031000 Time elapsed: 0:00:06.688000
+2018-04-25,00:38:02.031000 Found request ['44423a89-83e5-46da-8615-49579f71de94']
+2018-04-25,00:38:02.031000 **********Started function extract_data_ipc_file, memory in MB=2216.1015625
+2018-04-25,00:38:02.031000 Scoring bid# P220031238 from file 44423a89-83e5-46da-8615-49579f71de94
+2018-04-25,00:38:02.062000 **********Started function run_calculator_production, memory in MB=2216.109375
+2018-04-25,00:38:02.077000 **********Started function run_calculator, memory in MB=2216.11328125
+2018-04-25,00:38:02.077000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2216.11328125
+2018-04-25,00:38:02.202000 **********Started function extract_data_ipc_file, memory in MB=75.203125
+2018-04-25,00:38:02.312000 **********Started function send_results, memory in MB=75.35546875
+2018-04-25,00:38:02.327000 ******************Exiting function send_results
+2018-04-25,00:38:02.327000 **********Started function put_data, memory in MB=75.5546875
+2018-04-25,00:38:02.343000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:02.343000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:02.343000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:02.343000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:02.343000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:02.343000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:02.343000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:02.343000 ******************Exiting function put_data
+2018-04-25,00:38:02.343000 **********Started function pushData, memory in MB=75.5546875
+2018-04-25,00:38:02.343000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:38:02.343000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:02.343000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:02.343000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:02.343000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:02.343000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:02.343000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:02.343000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:02.359000 ******************Exiting function PushData
+2018-04-25,00:38:02.359000 Bid P220031238 successfully scored.
+2018-04-25,00:38:02.359000 ******************Exiting function main_Producer
+2018-04-25,00:38:04.374000 ******************Exiting function PullData
+2018-04-25,00:38:04.374000 **********Started function transformData, memory in MB=72.890625
+2018-04-25,00:38:04.453000 ******************Exiting function transformData
+2018-04-25,00:38:04.453000 **********Started function create_prod_base_tables, memory in MB=73.66796875
+2018-04-25,00:38:04.453000 **********Started function generate_base_tables, memory in MB=73.66796875
+2018-04-25,00:38:04.453000 **********Started function clean_bid_account, memory in MB=74.015625
+2018-04-25,00:38:04.468000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:38:04.468000 **********Started function clean_bid_service, memory in MB=74.15234375
+2018-04-25,00:38:04.468000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:04.468000 **********Started function generate_product_initial, memory in MB=74.16796875
+2018-04-25,00:38:04.515000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:04.515000 **********Started function generate_bid_master, memory in MB=74.328125
+2018-04-25,00:38:04.531000 ******************generate_bid_master
+2018-04-25,00:38:04.531000 ******************Exiting function generate_base_tables
+2018-04-25,00:38:04.531000 **********Started function zone_weight_table, memory in MB=74.34375
+2018-04-25,00:38:04.562000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:38:04.578000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:38:04.578000 **********Started function final_output, memory in MB=74.85546875
+2018-04-25,00:38:04.578000 ******************Exiting function final_output
+2018-04-25,00:38:04.578000 ******************Exiting function get_data
+2018-04-25,00:38:04.578000 **********Started function enqueue, memory in MB=74.86328125
+2018-04-25,00:38:04.593000 **********Started function send_request, memory in MB=74.86328125
+2018-04-25,00:38:04.593000 ******************Exiting function send_request
+2018-04-25,00:38:05.671000 Consumer is running
+2018-04-25,00:38:05.671000 Validation Scoring:added to producer to run
+2018-04-25,00:38:05.671000 **********Started function main, memory in MB=56.484375
+2018-04-25,00:38:05.671000 Processing bid: P220031238
+2018-04-25,00:38:05.671000 **********Started function get_data, memory in MB=56.4921875
+2018-04-25,00:38:05.671000 **********Started function pullData, memory in MB=56.49609375
+2018-04-25,00:38:08.203000 ******************Exiting function PullData
+2018-04-25,00:38:08.203000 **********Started function transformData, memory in MB=73.015625
+2018-04-25,00:38:08.281000 ******************Exiting function transformData
+2018-04-25,00:38:08.281000 **********Started function create_prod_base_tables, memory in MB=73.74609375
+2018-04-25,00:38:08.281000 **********Started function generate_base_tables, memory in MB=73.74609375
+2018-04-25,00:38:08.281000 **********Started function clean_bid_account, memory in MB=74.09375
+2018-04-25,00:38:08.297000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:38:08.297000 **********Started function clean_bid_service, memory in MB=74.23046875
+2018-04-25,00:38:08.297000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:08.297000 **********Started function generate_product_initial, memory in MB=74.24609375
+2018-04-25,00:38:08.343000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:08.343000 **********Started function generate_bid_master, memory in MB=74.43359375
+2018-04-25,00:38:08.359000 ******************generate_bid_master
+2018-04-25,00:38:08.359000 ******************Exiting function generate_base_tables
+2018-04-25,00:38:08.359000 **********Started function zone_weight_table, memory in MB=74.453125
+2018-04-25,00:38:08.406000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:38:08.406000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:38:08.406000 **********Started function final_output, memory in MB=75.06640625
+2018-04-25,00:38:08.422000 ******************Exiting function final_output
+2018-04-25,00:38:08.422000 ******************Exiting function get_data
+2018-04-25,00:38:08.422000 **********Started function enqueue, memory in MB=75.07421875
+2018-04-25,00:38:08.422000 **********Started function send_request, memory in MB=75.07421875
+2018-04-25,00:38:08.422000 ******************Exiting function send_request
+2018-04-25,00:38:08.468000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:38:08.468000 **********Started function add_ceiling, memory in MB=2216.39453125
+2018-04-25,00:38:08.484000 ******************Exiting function add_Ceiling
+2018-04-25,00:38:08.484000 **********Started function add_elasticity_alpha_gamma, memory in MB=2216.39453125
+2018-04-25,00:38:08.515000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:38:08.531000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2216.39453125
+2018-04-25,00:38:08.578000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:38:08.578000 **********Started function applyStrategicOverlay, memory in MB=2216.39453125
+2018-04-25,00:38:08.594000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:38:08.625000 ******************Exiting function run_calculator
+2018-04-25,00:38:08.625000 **********Started function apply_eff_to_freight, memory in MB=2216.40625
+2018-04-25,00:38:08.750000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:38:08.765000 **********Started function deal_scoring_additional_output, memory in MB=2216.40625
+2018-04-25,00:38:08.812000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:38:08.828000 ******************Exiting function run_calculator_production
+2018-04-25,00:38:08.828000 **********Started function post_processing, memory in MB=2216.40625
+2018-04-25,00:38:08.843000 ******************Exiting function post_processing
+2018-04-25,00:38:08.859000 **********Started function accessorials, memory in MB=2216.40625
+2018-04-25,00:38:08.937000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:38:08.937000 Time elapsed: 0:00:06.875000
+2018-04-25,00:38:08.937000 Found request ['6b34d3e5-664d-42cb-bb7a-729f706d98a9', 'cc84faca-938b-4580-91d2-c7da40bfc8c8']
+2018-04-25,00:38:08.937000 **********Started function extract_data_ipc_file, memory in MB=2216.40625
+2018-04-25,00:38:08.953000 Scoring bid# P220031238 from file 6b34d3e5-664d-42cb-bb7a-729f706d98a9
+2018-04-25,00:38:08.969000 **********Started function run_calculator_production, memory in MB=2216.40625
+2018-04-25,00:38:08.984000 **********Started function run_calculator, memory in MB=2216.40625
+2018-04-25,00:38:08.984000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2216.40625
+2018-04-25,00:38:09.078000 **********Started function extract_data_ipc_file, memory in MB=75.2265625
+2018-04-25,00:38:09.187000 **********Started function send_results, memory in MB=75.29296875
+2018-04-25,00:38:09.203000 ******************Exiting function send_results
+2018-04-25,00:38:09.203000 **********Started function put_data, memory in MB=75.58203125
+2018-04-25,00:38:09.219000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:09.219000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:09.219000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:09.219000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:09.219000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:09.219000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:09.219000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:09.219000 ******************Exiting function put_data
+2018-04-25,00:38:09.219000 **********Started function pushData, memory in MB=75.6171875
+2018-04-25,00:38:09.219000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:38:09.219000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:09.219000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:09.219000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:09.219000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:09.219000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:09.219000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:09.219000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:09.219000 ******************Exiting function PushData
+2018-04-25,00:38:09.219000 Bid P220031238 successfully scored.
+2018-04-25,00:38:09.219000 ******************Exiting function main_Producer
+2018-04-25,00:38:11.469000 Consumer is running
+2018-04-25,00:38:11.469000 Validation Scoring:added to producer to run
+2018-04-25,00:38:11.469000 **********Started function main, memory in MB=55.9609375
+2018-04-25,00:38:11.469000 Processing bid: P220031238
+2018-04-25,00:38:11.469000 **********Started function get_data, memory in MB=55.96875
+2018-04-25,00:38:11.469000 **********Started function pullData, memory in MB=55.97265625
+2018-04-25,00:38:15.000000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:38:15.016000 **********Started function add_ceiling, memory in MB=2216.62109375
+2018-04-25,00:38:15.016000 ******************Exiting function add_Ceiling
+2018-04-25,00:38:15.031000 **********Started function add_elasticity_alpha_gamma, memory in MB=2216.62109375
+2018-04-25,00:38:15.047000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:38:15.063000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2216.62109375
+2018-04-25,00:38:15.125000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:38:15.125000 **********Started function applyStrategicOverlay, memory in MB=2216.62109375
+2018-04-25,00:38:15.141000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:38:15.172000 ******************Exiting function run_calculator
+2018-04-25,00:38:15.172000 **********Started function apply_eff_to_freight, memory in MB=2216.625
+2018-04-25,00:38:15.172000 ******************Exiting function PullData
+2018-04-25,00:38:15.172000 **********Started function transformData, memory in MB=73.23828125
+2018-04-25,00:38:15.235000 ******************Exiting function transformData
+2018-04-25,00:38:15.235000 **********Started function create_prod_base_tables, memory in MB=74.015625
+2018-04-25,00:38:15.235000 **********Started function generate_base_tables, memory in MB=74.015625
+2018-04-25,00:38:15.250000 **********Started function clean_bid_account, memory in MB=74.375
+2018-04-25,00:38:15.250000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:38:15.250000 **********Started function clean_bid_service, memory in MB=74.51171875
+2018-04-25,00:38:15.250000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:15.250000 **********Started function generate_product_initial, memory in MB=74.52734375
+2018-04-25,00:38:15.281000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:38:15.297000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:15.297000 **********Started function generate_bid_master, memory in MB=74.68359375
+2018-04-25,00:38:15.297000 **********Started function deal_scoring_additional_output, memory in MB=2216.625
+2018-04-25,00:38:15.313000 ******************generate_bid_master
+2018-04-25,00:38:15.313000 ******************Exiting function generate_base_tables
+2018-04-25,00:38:15.313000 **********Started function zone_weight_table, memory in MB=74.6953125
+2018-04-25,00:38:15.360000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:38:15.360000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:38:15.360000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:38:15.360000 **********Started function final_output, memory in MB=75.16796875
+2018-04-25,00:38:15.375000 ******************Exiting function final_output
+2018-04-25,00:38:15.375000 ******************Exiting function run_calculator_production
+2018-04-25,00:38:15.375000 **********Started function post_processing, memory in MB=2216.625
+2018-04-25,00:38:15.375000 ******************Exiting function get_data
+2018-04-25,00:38:15.375000 **********Started function enqueue, memory in MB=75.171875
+2018-04-25,00:38:15.375000 **********Started function send_request, memory in MB=75.23046875
+2018-04-25,00:38:15.375000 ******************Exiting function send_request
+2018-04-25,00:38:15.391000 ******************Exiting function post_processing
+2018-04-25,00:38:15.406000 **********Started function accessorials, memory in MB=2216.625
+2018-04-25,00:38:15.469000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:38:15.485000 Time elapsed: 0:00:06.516000
+2018-04-25,00:38:15.485000 **********Started function extract_data_ipc_file, memory in MB=2216.625
+2018-04-25,00:38:15.485000 Scoring bid# P220031238 from file cc84faca-938b-4580-91d2-c7da40bfc8c8
+2018-04-25,00:38:15.516000 **********Started function run_calculator_production, memory in MB=2216.625
+2018-04-25,00:38:15.516000 **********Started function run_calculator, memory in MB=2216.62890625
+2018-04-25,00:38:15.516000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2216.62890625
+2018-04-25,00:38:15.641000 **********Started function extract_data_ipc_file, memory in MB=75.25
+2018-04-25,00:38:15.750000 **********Started function send_results, memory in MB=75.30859375
+2018-04-25,00:38:15.766000 ******************Exiting function send_results
+2018-04-25,00:38:15.766000 **********Started function put_data, memory in MB=75.609375
+2018-04-25,00:38:15.781000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:15.781000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:15.781000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:15.781000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:15.781000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:15.781000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:15.781000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:15.781000 ******************Exiting function put_data
+2018-04-25,00:38:15.781000 **********Started function pushData, memory in MB=75.640625
+2018-04-25,00:38:15.781000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:38:15.781000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:15.781000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:15.781000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:15.781000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:15.781000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:15.781000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:15.781000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:15.781000 ******************Exiting function PushData
+2018-04-25,00:38:15.781000 Bid P220031238 successfully scored.
+2018-04-25,00:38:15.781000 ******************Exiting function main_Producer
+2018-04-25,00:38:21.266000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:38:21.266000 **********Started function add_ceiling, memory in MB=2216.62890625
+2018-04-25,00:38:21.282000 ******************Exiting function add_Ceiling
+2018-04-25,00:38:21.282000 **********Started function add_elasticity_alpha_gamma, memory in MB=2216.62890625
+2018-04-25,00:38:21.297000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:38:21.313000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2216.62890625
+2018-04-25,00:38:21.360000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:38:21.360000 **********Started function applyStrategicOverlay, memory in MB=2216.62890625
+2018-04-25,00:38:21.376000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:38:21.407000 ******************Exiting function run_calculator
+2018-04-25,00:38:21.407000 **********Started function apply_eff_to_freight, memory in MB=2216.62890625
+2018-04-25,00:38:21.547000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:38:21.547000 **********Started function deal_scoring_additional_output, memory in MB=2216.62890625
+2018-04-25,00:38:21.610000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:38:21.610000 ******************Exiting function run_calculator_production
+2018-04-25,00:38:21.610000 **********Started function post_processing, memory in MB=2216.62890625
+2018-04-25,00:38:21.626000 ******************Exiting function post_processing
+2018-04-25,00:38:21.641000 **********Started function accessorials, memory in MB=2216.62890625
+2018-04-25,00:38:21.844000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:38:21.844000 Time elapsed: 0:00:06.344000
+2018-04-25,00:38:21.860000 Found request ['0bc00ecb-182e-4fde-8976-640ec24d790f']
+2018-04-25,00:38:21.860000 **********Started function extract_data_ipc_file, memory in MB=2216.62890625
+2018-04-25,00:38:21.860000 Scoring bid# P220031238 from file 0bc00ecb-182e-4fde-8976-640ec24d790f
+2018-04-25,00:38:21.876000 **********Started function extract_data_ipc_file, memory in MB=75.45703125
+2018-04-25,00:38:21.876000 **********Started function run_calculator_production, memory in MB=2216.62890625
+2018-04-25,00:38:21.891000 **********Started function run_calculator, memory in MB=2216.62890625
+2018-04-25,00:38:21.891000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2216.62890625
+2018-04-25,00:38:21.985000 **********Started function send_results, memory in MB=75.71875
+2018-04-25,00:38:22.001000 ******************Exiting function send_results
+2018-04-25,00:38:22.001000 **********Started function put_data, memory in MB=75.8515625
+2018-04-25,00:38:22.016000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:22.016000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:22.016000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:22.016000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:22.016000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:22.016000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:22.016000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:22.016000 ******************Exiting function put_data
+2018-04-25,00:38:22.016000 **********Started function pushData, memory in MB=75.8515625
+2018-04-25,00:38:22.016000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:38:22.016000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:22.032000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:22.032000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:22.032000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:22.032000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:22.032000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:22.032000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:22.032000 ******************Exiting function PushData
+2018-04-25,00:38:22.032000 Bid P220031238 successfully scored.
+2018-04-25,00:38:22.032000 ******************Exiting function main_Producer
+2018-04-25,00:38:27.563000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:38:27.579000 **********Started function add_ceiling, memory in MB=2216.69140625
+2018-04-25,00:38:27.579000 ******************Exiting function add_Ceiling
+2018-04-25,00:38:27.595000 **********Started function add_elasticity_alpha_gamma, memory in MB=2216.69140625
+2018-04-25,00:38:27.610000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:38:27.626000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2216.69140625
+2018-04-25,00:38:27.688000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:38:27.688000 **********Started function applyStrategicOverlay, memory in MB=2216.69140625
+2018-04-25,00:38:27.704000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:38:27.735000 ******************Exiting function run_calculator
+2018-04-25,00:38:27.735000 **********Started function apply_eff_to_freight, memory in MB=2216.69140625
+2018-04-25,00:38:27.860000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:38:27.876000 **********Started function deal_scoring_additional_output, memory in MB=2216.69140625
+2018-04-25,00:38:27.923000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:38:27.938000 ******************Exiting function run_calculator_production
+2018-04-25,00:38:27.938000 **********Started function post_processing, memory in MB=2216.69140625
+2018-04-25,00:38:27.954000 ******************Exiting function post_processing
+2018-04-25,00:38:27.970000 **********Started function accessorials, memory in MB=2216.75390625
+2018-04-25,00:38:28.048000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:38:28.048000 Time elapsed: 0:00:06.172000
+2018-04-25,00:38:28.063000 **********Started function extract_data_ipc_file, memory in MB=75.25
+2018-04-25,00:38:28.173000 **********Started function send_results, memory in MB=75.35546875
+2018-04-25,00:38:28.188000 ******************Exiting function send_results
+2018-04-25,00:38:28.188000 **********Started function put_data, memory in MB=75.60546875
+2018-04-25,00:38:28.204000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:28.204000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:28.204000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:28.204000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:28.204000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:28.204000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:28.204000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:28.204000 ******************Exiting function put_data
+2018-04-25,00:38:28.204000 **********Started function pushData, memory in MB=75.62890625
+2018-04-25,00:38:28.204000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:38:28.204000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:28.204000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:28.204000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:28.204000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:28.204000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:28.204000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:28.204000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:28.204000 ******************Exiting function PushData
+2018-04-25,00:38:28.204000 Bid P220031238 successfully scored.
+2018-04-25,00:38:28.204000 ******************Exiting function main_Producer
+2018-04-25,00:38:33.564000 Consumer is running
+2018-04-25,00:38:33.564000 Validation Scoring:added to producer to run
+2018-04-25,00:38:33.564000 **********Started function main, memory in MB=56.21484375
+2018-04-25,00:38:33.564000 Processing bid: P220031238
+2018-04-25,00:38:33.564000 **********Started function get_data, memory in MB=56.2265625
+2018-04-25,00:38:33.564000 **********Started function pullData, memory in MB=56.23046875
+2018-04-25,00:38:35.955000 Consumer is running
+2018-04-25,00:38:35.955000 Validation Scoring:added to producer to run
+2018-04-25,00:38:35.955000 **********Started function main, memory in MB=56.44921875
+2018-04-25,00:38:35.955000 Processing bid: P220031238
+2018-04-25,00:38:35.955000 **********Started function get_data, memory in MB=56.45703125
+2018-04-25,00:38:35.955000 **********Started function pullData, memory in MB=56.4609375
+2018-04-25,00:38:36.173000 ******************Exiting function PullData
+2018-04-25,00:38:36.173000 **********Started function transformData, memory in MB=72.75390625
+2018-04-25,00:38:36.251000 ******************Exiting function transformData
+2018-04-25,00:38:36.251000 **********Started function create_prod_base_tables, memory in MB=73.5859375
+2018-04-25,00:38:36.251000 **********Started function generate_base_tables, memory in MB=73.5859375
+2018-04-25,00:38:36.251000 **********Started function clean_bid_account, memory in MB=73.9453125
+2018-04-25,00:38:36.251000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:38:36.251000 **********Started function clean_bid_service, memory in MB=74.08203125
+2018-04-25,00:38:36.267000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:36.267000 **********Started function generate_product_initial, memory in MB=74.09375
+2018-04-25,00:38:36.298000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:36.298000 **********Started function generate_bid_master, memory in MB=74.25390625
+2018-04-25,00:38:36.330000 ******************generate_bid_master
+2018-04-25,00:38:36.330000 ******************Exiting function generate_base_tables
+2018-04-25,00:38:36.330000 **********Started function zone_weight_table, memory in MB=74.26953125
+2018-04-25,00:38:36.377000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:38:36.377000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:38:36.377000 **********Started function final_output, memory in MB=74.7734375
+2018-04-25,00:38:36.392000 ******************Exiting function final_output
+2018-04-25,00:38:36.392000 ******************Exiting function get_data
+2018-04-25,00:38:36.392000 **********Started function enqueue, memory in MB=74.78125
+2018-04-25,00:38:36.392000 **********Started function send_request, memory in MB=74.78125
+2018-04-25,00:38:36.392000 Found request ['e3245278-10e4-40b5-b9f1-477e779c0032']
+2018-04-25,00:38:36.392000 **********Started function extract_data_ipc_file, memory in MB=2216.75390625
+2018-04-25,00:38:36.392000 ******************Exiting function send_request
+2018-04-25,00:38:36.408000 Scoring bid# P220031238 from file e3245278-10e4-40b5-b9f1-477e779c0032
+2018-04-25,00:38:36.423000 **********Started function run_calculator_production, memory in MB=2216.75390625
+2018-04-25,00:38:36.439000 **********Started function run_calculator, memory in MB=2216.75390625
+2018-04-25,00:38:36.439000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2216.75390625
+2018-04-25,00:38:38.517000 ******************Exiting function PullData
+2018-04-25,00:38:38.517000 **********Started function transformData, memory in MB=72.85546875
+2018-04-25,00:38:38.611000 ******************Exiting function transformData
+2018-04-25,00:38:38.611000 **********Started function create_prod_base_tables, memory in MB=73.68359375
+2018-04-25,00:38:38.611000 **********Started function generate_base_tables, memory in MB=73.68359375
+2018-04-25,00:38:38.611000 **********Started function clean_bid_account, memory in MB=74.03125
+2018-04-25,00:38:38.627000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:38:38.627000 **********Started function clean_bid_service, memory in MB=74.171875
+2018-04-25,00:38:38.627000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:38.627000 **********Started function generate_product_initial, memory in MB=74.18359375
+2018-04-25,00:38:38.674000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:38.674000 **********Started function generate_bid_master, memory in MB=74.31640625
+2018-04-25,00:38:38.705000 ******************generate_bid_master
+2018-04-25,00:38:38.705000 ******************Exiting function generate_base_tables
+2018-04-25,00:38:38.705000 **********Started function zone_weight_table, memory in MB=74.3359375
+2018-04-25,00:38:38.752000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:38:38.752000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:38:38.752000 **********Started function final_output, memory in MB=74.80078125
+2018-04-25,00:38:38.767000 ******************Exiting function final_output
+2018-04-25,00:38:38.767000 ******************Exiting function get_data
+2018-04-25,00:38:38.767000 **********Started function enqueue, memory in MB=74.8046875
+2018-04-25,00:38:38.767000 **********Started function send_request, memory in MB=74.8046875
+2018-04-25,00:38:38.767000 ******************Exiting function send_request
+2018-04-25,00:38:39.049000 Consumer is running
+2018-04-25,00:38:39.049000 Validation Scoring:added to producer to run
+2018-04-25,00:38:39.049000 **********Started function main, memory in MB=56.1171875
+2018-04-25,00:38:39.064000 Processing bid: P220031238
+2018-04-25,00:38:39.064000 **********Started function get_data, memory in MB=56.125
+2018-04-25,00:38:39.064000 **********Started function pullData, memory in MB=56.12890625
+2018-04-25,00:38:42.377000 ******************Exiting function PullData
+2018-04-25,00:38:42.377000 **********Started function transformData, memory in MB=72.92578125
+2018-04-25,00:38:42.471000 ******************Exiting function transformData
+2018-04-25,00:38:42.471000 **********Started function create_prod_base_tables, memory in MB=74.13671875
+2018-04-25,00:38:42.471000 **********Started function generate_base_tables, memory in MB=74.13671875
+2018-04-25,00:38:42.471000 **********Started function clean_bid_account, memory in MB=74.50390625
+2018-04-25,00:38:42.486000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:38:42.486000 **********Started function clean_bid_service, memory in MB=74.640625
+2018-04-25,00:38:42.486000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:42.486000 **********Started function generate_product_initial, memory in MB=74.65625
+2018-04-25,00:38:42.533000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:42.533000 **********Started function generate_bid_master, memory in MB=74.796875
+2018-04-25,00:38:42.549000 ******************generate_bid_master
+2018-04-25,00:38:42.549000 ******************Exiting function generate_base_tables
+2018-04-25,00:38:42.549000 **********Started function zone_weight_table, memory in MB=74.81640625
+2018-04-25,00:38:42.611000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:38:42.611000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:38:42.611000 **********Started function final_output, memory in MB=75.26171875
+2018-04-25,00:38:42.627000 ******************Exiting function final_output
+2018-04-25,00:38:42.627000 ******************Exiting function get_data
+2018-04-25,00:38:42.627000 **********Started function enqueue, memory in MB=75.26953125
+2018-04-25,00:38:42.627000 **********Started function send_request, memory in MB=75.26953125
+2018-04-25,00:38:42.627000 ******************Exiting function send_request
+2018-04-25,00:38:42.783000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:38:42.799000 **********Started function add_ceiling, memory in MB=2216.87890625
+2018-04-25,00:38:42.799000 ******************Exiting function add_Ceiling
+2018-04-25,00:38:42.799000 **********Started function add_elasticity_alpha_gamma, memory in MB=2216.87890625
+2018-04-25,00:38:42.846000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:38:42.846000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2216.87890625
+2018-04-25,00:38:42.908000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:38:42.924000 **********Started function applyStrategicOverlay, memory in MB=2216.87890625
+2018-04-25,00:38:42.939000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:38:42.971000 ******************Exiting function run_calculator
+2018-04-25,00:38:42.971000 **********Started function apply_eff_to_freight, memory in MB=2216.87890625
+2018-04-25,00:38:43.127000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:38:43.143000 **********Started function deal_scoring_additional_output, memory in MB=2216.87890625
+2018-04-25,00:38:43.205000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:38:43.205000 ******************Exiting function run_calculator_production
+2018-04-25,00:38:43.205000 **********Started function post_processing, memory in MB=2216.8828125
+2018-04-25,00:38:43.236000 ******************Exiting function post_processing
+2018-04-25,00:38:43.268000 **********Started function accessorials, memory in MB=2216.8828125
+2018-04-25,00:38:43.330000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:38:43.346000 Time elapsed: 0:00:06.923000
+2018-04-25,00:38:43.346000 Found request ['920ed8f2-661a-4d33-a966-7faf12d44e4f', '00df6931-eb97-468f-9780-758075145554']
+2018-04-25,00:38:43.346000 **********Started function extract_data_ipc_file, memory in MB=2216.8828125
+2018-04-25,00:38:43.346000 Scoring bid# P220031238 from file 920ed8f2-661a-4d33-a966-7faf12d44e4f
+2018-04-25,00:38:43.377000 **********Started function run_calculator_production, memory in MB=2216.8828125
+2018-04-25,00:38:43.393000 **********Started function run_calculator, memory in MB=2216.8828125
+2018-04-25,00:38:43.393000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2216.8828125
+2018-04-25,00:38:43.455000 Consumer is running
+2018-04-25,00:38:43.455000 Validation Scoring:added to producer to run
+2018-04-25,00:38:43.455000 **********Started function main, memory in MB=56.2578125
+2018-04-25,00:38:43.471000 Processing bid: P220031238
+2018-04-25,00:38:43.471000 **********Started function get_data, memory in MB=56.265625
+2018-04-25,00:38:43.471000 **********Started function pullData, memory in MB=56.26953125
+2018-04-25,00:38:43.502000 **********Started function extract_data_ipc_file, memory in MB=75.16796875
+2018-04-25,00:38:43.611000 **********Started function send_results, memory in MB=75.26953125
+2018-04-25,00:38:43.627000 ******************Exiting function send_results
+2018-04-25,00:38:43.643000 **********Started function put_data, memory in MB=75.55078125
+2018-04-25,00:38:43.658000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:43.658000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:43.658000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:43.658000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:43.658000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:43.658000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:43.658000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:43.658000 ******************Exiting function put_data
+2018-04-25,00:38:43.658000 **********Started function pushData, memory in MB=75.55859375
+2018-04-25,00:38:43.658000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:38:43.658000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:43.658000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:43.658000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:43.658000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:43.658000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:43.658000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:43.658000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:43.658000 ******************Exiting function PushData
+2018-04-25,00:38:43.658000 Bid P220031238 successfully scored.
+2018-04-25,00:38:43.658000 ******************Exiting function main_Producer
+2018-04-25,00:38:45.986000 ******************Exiting function PullData
+2018-04-25,00:38:45.986000 **********Started function transformData, memory in MB=72.8515625
+2018-04-25,00:38:46.080000 ******************Exiting function transformData
+2018-04-25,00:38:46.080000 **********Started function create_prod_base_tables, memory in MB=73.6171875
+2018-04-25,00:38:46.080000 **********Started function generate_base_tables, memory in MB=73.6171875
+2018-04-25,00:38:46.080000 **********Started function clean_bid_account, memory in MB=73.9609375
+2018-04-25,00:38:46.096000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:38:46.096000 **********Started function clean_bid_service, memory in MB=74.09765625
+2018-04-25,00:38:46.096000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:46.096000 **********Started function generate_product_initial, memory in MB=74.11328125
+2018-04-25,00:38:46.143000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:46.143000 **********Started function generate_bid_master, memory in MB=74.27734375
+2018-04-25,00:38:46.158000 ******************generate_bid_master
+2018-04-25,00:38:46.158000 ******************Exiting function generate_base_tables
+2018-04-25,00:38:46.158000 **********Started function zone_weight_table, memory in MB=74.296875
+2018-04-25,00:38:46.205000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:38:46.205000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:38:46.205000 **********Started function final_output, memory in MB=74.79296875
+2018-04-25,00:38:46.221000 ******************Exiting function final_output
+2018-04-25,00:38:46.221000 ******************Exiting function get_data
+2018-04-25,00:38:46.221000 **********Started function enqueue, memory in MB=74.796875
+2018-04-25,00:38:46.221000 **********Started function send_request, memory in MB=74.796875
+2018-04-25,00:38:46.221000 ******************Exiting function send_request
+2018-04-25,00:38:49.268000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:38:49.284000 **********Started function add_ceiling, memory in MB=2216.91015625
+2018-04-25,00:38:49.284000 ******************Exiting function add_Ceiling
+2018-04-25,00:38:49.299000 **********Started function add_elasticity_alpha_gamma, memory in MB=2216.91015625
+2018-04-25,00:38:49.315000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:38:49.330000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2216.91015625
+2018-04-25,00:38:49.377000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:38:49.377000 **********Started function applyStrategicOverlay, memory in MB=2216.91015625
+2018-04-25,00:38:49.393000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:38:49.424000 ******************Exiting function run_calculator
+2018-04-25,00:38:49.424000 **********Started function apply_eff_to_freight, memory in MB=2216.91015625
+2018-04-25,00:38:49.565000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:38:49.565000 **********Started function deal_scoring_additional_output, memory in MB=2216.91015625
+2018-04-25,00:38:49.627000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:38:49.643000 ******************Exiting function run_calculator_production
+2018-04-25,00:38:49.643000 **********Started function post_processing, memory in MB=2216.91015625
+2018-04-25,00:38:49.659000 ******************Exiting function post_processing
+2018-04-25,00:38:49.674000 **********Started function accessorials, memory in MB=2216.91015625
+2018-04-25,00:38:49.752000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:38:49.752000 Time elapsed: 0:00:06.375000
+2018-04-25,00:38:49.752000 **********Started function extract_data_ipc_file, memory in MB=2216.91015625
+2018-04-25,00:38:49.768000 Scoring bid# P220031238 from file 00df6931-eb97-468f-9780-758075145554
+2018-04-25,00:38:49.799000 **********Started function run_calculator_production, memory in MB=2216.91015625
+2018-04-25,00:38:49.815000 **********Started function extract_data_ipc_file, memory in MB=75.1875
+2018-04-25,00:38:49.815000 **********Started function run_calculator, memory in MB=2216.9140625
+2018-04-25,00:38:49.815000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2216.9140625
+2018-04-25,00:38:49.924000 **********Started function send_results, memory in MB=75.33984375
+2018-04-25,00:38:49.940000 ******************Exiting function send_results
+2018-04-25,00:38:49.955000 **********Started function put_data, memory in MB=75.57421875
+2018-04-25,00:38:49.971000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:49.971000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:49.971000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:49.971000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:49.971000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:49.971000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:49.971000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:49.971000 ******************Exiting function put_data
+2018-04-25,00:38:49.971000 **********Started function pushData, memory in MB=75.58203125
+2018-04-25,00:38:49.971000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:38:49.971000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:49.971000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:49.971000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:49.971000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:49.971000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:49.971000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:49.971000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:49.971000 ******************Exiting function PushData
+2018-04-25,00:38:49.971000 Bid P220031238 successfully scored.
+2018-04-25,00:38:49.971000 ******************Exiting function main_Producer
+2018-04-25,00:38:50.534000 Consumer is running
+2018-04-25,00:38:50.534000 Validation Scoring:added to producer to run
+2018-04-25,00:38:50.534000 **********Started function main, memory in MB=56.2578125
+2018-04-25,00:38:50.534000 Processing bid: P220031238
+2018-04-25,00:38:50.534000 **********Started function get_data, memory in MB=56.265625
+2018-04-25,00:38:50.534000 **********Started function pullData, memory in MB=56.26953125
+2018-04-25,00:38:53.659000 ******************Exiting function PullData
+2018-04-25,00:38:53.659000 **********Started function transformData, memory in MB=72.9140625
+2018-04-25,00:38:53.753000 ******************Exiting function transformData
+2018-04-25,00:38:53.753000 **********Started function create_prod_base_tables, memory in MB=73.6796875
+2018-04-25,00:38:53.753000 **********Started function generate_base_tables, memory in MB=73.6796875
+2018-04-25,00:38:53.753000 **********Started function clean_bid_account, memory in MB=74.03515625
+2018-04-25,00:38:53.753000 ******************Exiting fucntion clean_bid_account
+2018-04-25,00:38:53.753000 **********Started function clean_bid_service, memory in MB=74.17578125
+2018-04-25,00:38:53.768000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:53.768000 **********Started function generate_product_initial, memory in MB=74.1875
+2018-04-25,00:38:53.815000 ******************Exiting function clean_bid_service
+2018-04-25,00:38:53.815000 **********Started function generate_bid_master, memory in MB=74.34765625
+2018-04-25,00:38:53.831000 ******************generate_bid_master
+2018-04-25,00:38:53.831000 ******************Exiting function generate_base_tables
+2018-04-25,00:38:53.831000 **********Started function zone_weight_table, memory in MB=74.36328125
+2018-04-25,00:38:53.878000 ******************Exiting fucntion zone_weight_table
+2018-04-25,00:38:53.878000 ******************Exiting function create_prod_base_tables
+2018-04-25,00:38:53.878000 **********Started function final_output, memory in MB=74.87890625
+2018-04-25,00:38:53.878000 ******************Exiting function final_output
+2018-04-25,00:38:53.878000 ******************Exiting function get_data
+2018-04-25,00:38:53.893000 **********Started function enqueue, memory in MB=74.8828125
+2018-04-25,00:38:53.893000 **********Started function send_request, memory in MB=74.8828125
+2018-04-25,00:38:53.893000 ******************Exiting function send_request
+2018-04-25,00:38:55.565000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:38:55.581000 **********Started function add_ceiling, memory in MB=2216.9453125
+2018-04-25,00:38:55.581000 ******************Exiting function add_Ceiling
+2018-04-25,00:38:55.596000 **********Started function add_elasticity_alpha_gamma, memory in MB=2216.9453125
+2018-04-25,00:38:55.612000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:38:55.628000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2216.9453125
+2018-04-25,00:38:55.675000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:38:55.675000 **********Started function applyStrategicOverlay, memory in MB=2216.9453125
+2018-04-25,00:38:55.690000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:38:55.706000 ******************Exiting function run_calculator
+2018-04-25,00:38:55.706000 **********Started function apply_eff_to_freight, memory in MB=2216.9453125
+2018-04-25,00:38:55.831000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:38:55.831000 **********Started function deal_scoring_additional_output, memory in MB=2216.9453125
+2018-04-25,00:38:55.893000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:38:55.893000 ******************Exiting function run_calculator_production
+2018-04-25,00:38:55.893000 **********Started function post_processing, memory in MB=2216.9453125
+2018-04-25,00:38:55.909000 ******************Exiting function post_processing
+2018-04-25,00:38:55.925000 **********Started function accessorials, memory in MB=2216.9453125
+2018-04-25,00:38:56.003000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:38:56.003000 Time elapsed: 0:00:06.204000
+2018-04-25,00:38:56.018000 Found request ['561706ec-2d31-4f0c-aacf-e5da23499cd9', '646ccf95-088c-4513-9870-92edf57dec8c']
+2018-04-25,00:38:56.018000 **********Started function extract_data_ipc_file, memory in MB=2216.9453125
+2018-04-25,00:38:56.018000 Scoring bid# P220031238 from file 561706ec-2d31-4f0c-aacf-e5da23499cd9
+2018-04-25,00:38:56.034000 **********Started function run_calculator_production, memory in MB=2216.9453125
+2018-04-25,00:38:56.050000 **********Started function run_calculator, memory in MB=2216.9453125
+2018-04-25,00:38:56.050000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2216.9453125
+2018-04-25,00:38:56.081000 **********Started function extract_data_ipc_file, memory in MB=75.2890625
+2018-04-25,00:38:56.190000 **********Started function send_results, memory in MB=75.3984375
+2018-04-25,00:38:56.206000 ******************Exiting function send_results
+2018-04-25,00:38:56.206000 **********Started function put_data, memory in MB=75.68359375
+2018-04-25,00:38:56.221000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:56.221000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:56.221000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:56.221000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:56.221000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:56.221000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:56.221000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:56.221000 ******************Exiting function put_data
+2018-04-25,00:38:56.221000 **********Started function pushData, memory in MB=75.6875
+2018-04-25,00:38:56.221000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:38:56.221000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:38:56.221000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:38:56.221000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:38:56.221000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:38:56.221000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:38:56.221000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:38:56.221000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:38:56.221000 ******************Exiting function PushData
+2018-04-25,00:38:56.221000 Bid P220031238 successfully scored.
+2018-04-25,00:38:56.221000 ******************Exiting function main_Producer
+2018-04-25,00:39:01.675000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:39:01.675000 **********Started function add_ceiling, memory in MB=2216.9453125
+2018-04-25,00:39:01.691000 ******************Exiting function add_Ceiling
+2018-04-25,00:39:01.691000 **********Started function add_elasticity_alpha_gamma, memory in MB=2216.9453125
+2018-04-25,00:39:01.706000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:39:01.722000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2216.9453125
+2018-04-25,00:39:01.769000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:39:01.769000 **********Started function applyStrategicOverlay, memory in MB=2216.9453125
+2018-04-25,00:39:01.784000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:39:01.816000 ******************Exiting function run_calculator
+2018-04-25,00:39:01.816000 **********Started function apply_eff_to_freight, memory in MB=2216.9453125
+2018-04-25,00:39:01.941000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:39:01.941000 **********Started function deal_scoring_additional_output, memory in MB=2216.9453125
+2018-04-25,00:39:02.003000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:39:02.019000 ******************Exiting function run_calculator_production
+2018-04-25,00:39:02.019000 **********Started function post_processing, memory in MB=2216.9453125
+2018-04-25,00:39:02.034000 ******************Exiting function post_processing
+2018-04-25,00:39:02.066000 **********Started function accessorials, memory in MB=2216.9453125
+2018-04-25,00:39:02.300000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:39:02.300000 Time elapsed: 0:00:06.266000
+2018-04-25,00:39:02.316000 **********Started function extract_data_ipc_file, memory in MB=2216.9453125
+2018-04-25,00:39:02.316000 Scoring bid# P220031238 from file 646ccf95-088c-4513-9870-92edf57dec8c
+2018-04-25,00:39:02.347000 **********Started function run_calculator_production, memory in MB=2216.9453125
+2018-04-25,00:39:02.362000 **********Started function run_calculator, memory in MB=2216.9453125
+2018-04-25,00:39:02.362000 **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2216.9453125
+2018-04-25,00:39:02.409000 **********Started function extract_data_ipc_file, memory in MB=75.1796875
+2018-04-25,00:39:02.519000 **********Started function send_results, memory in MB=75.33203125
+2018-04-25,00:39:02.534000 ******************Exiting function send_results
+2018-04-25,00:39:02.534000 **********Started function put_data, memory in MB=75.51953125
+2018-04-25,00:39:02.550000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:39:02.550000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:39:02.550000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:39:02.550000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:39:02.550000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:39:02.550000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:39:02.550000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:39:02.550000 ******************Exiting function put_data
+2018-04-25,00:39:02.550000 **********Started function pushData, memory in MB=75.51953125
+2018-04-25,00:39:02.550000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:39:02.550000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:39:02.550000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:39:02.550000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:39:02.550000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:39:02.550000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:39:02.550000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:39:02.550000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:39:02.550000 ******************Exiting function PushData
+2018-04-25,00:39:02.566000 Bid P220031238 successfully scored.
+2018-04-25,00:39:02.566000 ******************Exiting function main_Producer
+2018-04-25,00:39:07.988000 ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-25,00:39:08.003000 **********Started function add_ceiling, memory in MB=2216.9453125
+2018-04-25,00:39:08.003000 ******************Exiting function add_Ceiling
+2018-04-25,00:39:08.019000 **********Started function add_elasticity_alpha_gamma, memory in MB=2216.9453125
+2018-04-25,00:39:08.035000 ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-25,00:39:08.050000 **********Started function apply_bounds_and_check_feasibility, memory in MB=2216.9453125
+2018-04-25,00:39:08.113000 ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-25,00:39:08.113000 **********Started function applyStrategicOverlay, memory in MB=2216.9453125
+2018-04-25,00:39:08.128000 ******************Exiting function applyStrategicOverlay 
+2018-04-25,00:39:08.160000 ******************Exiting function run_calculator
+2018-04-25,00:39:08.160000 **********Started function apply_eff_to_freight, memory in MB=2216.9453125
+2018-04-25,00:39:08.269000 ******************Exiting function apply_eff_to_freight
+2018-04-25,00:39:08.285000 **********Started function deal_scoring_additional_output, memory in MB=2216.9453125
+2018-04-25,00:39:08.347000 ******************Exiting function deal_scoring_additional_output
+2018-04-25,00:39:08.347000 ******************Exiting function run_calculator_production
+2018-04-25,00:39:08.347000 **********Started function post_processing, memory in MB=2216.9453125
+2018-04-25,00:39:08.363000 ******************Exiting function post_processing
+2018-04-25,00:39:08.378000 **********Started function accessorials, memory in MB=2216.9453125
+2018-04-25,00:39:08.457000 ******************Exiting function accessorials with empty tp2
+2018-04-25,00:39:08.457000 Time elapsed: 0:00:06.110000
+2018-04-25,00:39:08.660000 **********Started function extract_data_ipc_file, memory in MB=75.265625
+2018-04-25,00:39:08.769000 **********Started function send_results, memory in MB=75.3828125
+2018-04-25,00:39:08.785000 ******************Exiting function send_results
+2018-04-25,00:39:08.785000 **********Started function put_data, memory in MB=75.6171875
+2018-04-25,00:39:08.800000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:39:08.800000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:39:08.800000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:39:08.800000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:39:08.800000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:39:08.800000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:39:08.800000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:39:08.800000 ******************Exiting function put_data
+2018-04-25,00:39:08.800000 **********Started function pushData, memory in MB=75.625
+2018-04-25,00:39:08.800000 Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-25,00:39:08.800000 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-25,00:39:08.800000 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-25,00:39:08.800000 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-25,00:39:08.800000 GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-25,00:39:08.800000 GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-25,00:39:08.800000 Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-25,00:39:08.800000 Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-25,00:39:08.800000 ******************Exiting function PushData
+2018-04-25,00:39:08.800000 Bid P220031238 successfully scored.
+2018-04-25,00:39:08.800000 ******************Exiting function main_Producer

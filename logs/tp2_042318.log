@@ -1,0 +1,258 @@
+2018-04-23 16:09:10,099 INFO: Consumer started
+2018-04-23 16:09:10,099 INFO: cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_April\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/consumer2producer/init is accessible
+
+2018-04-23 16:09:10,101 DEBUG: **********Started function main, memory in MB=74.74609375
+2018-04-23 16:09:10,101 INFO: Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/
+2018-04-23 16:09:10,101 INFO: Loading air_logit_fit.p model...
+2018-04-23 16:09:10,984 INFO: Loading air_market_incentive.p model...
+2018-04-23 16:09:11,223 INFO: Loading air_mpt_reg.p model...
+2018-04-23 16:09:21,203 INFO: Consumer started
+2018-04-23 16:09:21,203 INFO: cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_April\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/consumer2producer/init is accessible
+Oracle connection successfully made.
+
+2018-04-23 16:09:21,203 DEBUG: **********Started function main, memory in MB=85.3984375
+2018-04-23 16:09:21,203 INFO: Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/
+2018-04-23 16:09:21,204 INFO: Loading air_logit_fit.p model...
+2018-04-23 16:09:21,871 INFO: Loading air_market_incentive.p model...
+2018-04-23 16:09:22,006 INFO: Loading air_mpt_reg.p model...
+2018-04-23 16:09:23,367 INFO: Loading data_prep.p model...
+2018-04-23 16:09:23,815 INFO: Loading data_preprocess.p model...
+2018-04-23 16:09:23,821 INFO: Loading eff_to_offer_air.p model...
+2018-04-23 16:09:23,882 INFO: Loading eff_to_offer_gnd.p model...
+2018-04-23 16:09:23,937 INFO: Loading eff_to_offer_impexp.p model...
+2018-04-23 16:09:23,982 INFO: Loading gnd_market_incentive.p model...
+2018-04-23 16:09:24,151 INFO: Loading gnd_mpt_reg.p model...
+2018-04-23 16:09:26,486 INFO: Loading ground_logit_fit.p model...
+2018-04-23 16:09:26,677 INFO: Loading ie_market_incentive.p model...
+2018-04-23 16:09:26,845 INFO: Loading impexp_logit_fit.p model...
+2018-04-23 16:09:26,892 INFO: Loading impexp_mpt_reg.p model...
+2018-04-23 16:09:27,976 INFO: All models loaded
+2018-04-23 16:09:27,976 DEBUG: ******************Exiting function main_Consumer
+2018-04-23 16:09:27,976 DEBUG: **********Started function run, memory in MB=2195.20703125
+2018-04-23 16:09:27,976 INFO: IPC folders cleaned
+2018-04-23 16:09:28,017 DEBUG: **********Started function OptimalIncentives, memory in MB=2196.8515625
+2018-04-23 16:09:28,023 INFO: Consumer up and running
+2018-04-23 16:09:28,023 DEBUG: ******************Middle of function run_Consumer
+2018-04-23 16:09:35,312 DEBUG: Consumer is running
+2018-04-23 16:09:35,312 ERROR: Error 3.5: Unrecognized argument
+2018-04-23 16:11:34,381 INFO: Consumer started
+2018-04-23 16:11:34,381 INFO: cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_April\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/consumer2producer/init is accessible
+Oracle connection successfully made.
+
+2018-04-23 16:11:34,381 DEBUG: **********Started function main, memory in MB=85.83203125
+2018-04-23 16:11:34,381 INFO: Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/
+2018-04-23 16:11:34,381 INFO: Loading air_logit_fit.p model...
+2018-04-23 16:11:35,025 INFO: Loading air_market_incentive.p model...
+2018-04-23 16:11:35,164 INFO: Loading air_mpt_reg.p model...
+2018-04-23 16:11:36,286 INFO: Loading data_prep.p model...
+2018-04-23 16:11:36,526 INFO: Loading data_preprocess.p model...
+2018-04-23 16:11:36,526 INFO: Loading eff_to_offer_air.p model...
+2018-04-23 16:11:36,592 INFO: Loading eff_to_offer_gnd.p model...
+2018-04-23 16:11:36,664 INFO: Loading eff_to_offer_impexp.p model...
+2018-04-23 16:11:36,742 INFO: Loading gnd_market_incentive.p model...
+2018-04-23 16:11:36,904 INFO: Loading gnd_mpt_reg.p model...
+2018-04-23 16:11:38,075 INFO: Loading ground_logit_fit.p model...
+2018-04-23 16:11:38,242 INFO: Loading ie_market_incentive.p model...
+2018-04-23 16:11:38,407 INFO: Loading impexp_logit_fit.p model...
+2018-04-23 16:11:38,457 INFO: Loading impexp_mpt_reg.p model...
+2018-04-23 16:11:39,377 INFO: All models loaded
+2018-04-23 16:11:39,378 DEBUG: ******************Exiting function main_Consumer
+2018-04-23 16:11:39,378 DEBUG: **********Started function run, memory in MB=2192.47265625
+2018-04-23 16:11:39,378 INFO: IPC folders cleaned
+2018-04-23 16:11:39,410 DEBUG: **********Started function OptimalIncentives, memory in MB=2194.6875
+2018-04-23 16:11:39,414 INFO: Consumer up and running
+2018-04-23 16:11:39,414 DEBUG: ******************Middle of function run_Consumer
+2018-04-23 16:11:56,160 DEBUG: Consumer is running
+2018-04-23 16:11:56,160 ERROR: Error 3.5: Unrecognized argument
+2018-04-23 16:12:30,971 INFO: Consumer started
+2018-04-23 16:12:30,971 INFO: cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_April\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/ipc/consumer2producer/init is accessible
+Oracle connection successfully made.
+
+2018-04-23 16:12:30,973 DEBUG: **********Started function main, memory in MB=85.76953125
+2018-04-23 16:12:30,973 INFO: Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_April\tp2/data/
+2018-04-23 16:12:30,973 INFO: Loading air_logit_fit.p model...
+2018-04-23 16:12:31,673 INFO: Loading air_market_incentive.p model...
+2018-04-23 16:12:31,826 INFO: Loading air_mpt_reg.p model...
+2018-04-23 16:12:32,950 INFO: Loading data_prep.p model...
+2018-04-23 16:12:33,201 INFO: Loading data_preprocess.p model...
+2018-04-23 16:12:33,201 INFO: Loading eff_to_offer_air.p model...
+2018-04-23 16:12:33,288 INFO: Loading eff_to_offer_gnd.p model...
+2018-04-23 16:12:33,345 INFO: Loading eff_to_offer_impexp.p model...
+2018-04-23 16:12:33,395 INFO: Loading gnd_market_incentive.p model...
+2018-04-23 16:12:33,516 INFO: Loading gnd_mpt_reg.p model...
+2018-04-23 16:12:34,700 INFO: Loading ground_logit_fit.p model...
+2018-04-23 16:12:34,878 INFO: Loading ie_market_incentive.p model...
+2018-04-23 16:12:35,013 INFO: Loading impexp_logit_fit.p model...
+2018-04-23 16:12:35,061 INFO: Loading impexp_mpt_reg.p model...
+2018-04-23 16:12:35,954 INFO: All models loaded
+2018-04-23 16:12:35,954 DEBUG: ******************Exiting function main_Consumer
+2018-04-23 16:12:35,954 DEBUG: **********Started function run, memory in MB=2195.74609375
+2018-04-23 16:12:35,956 INFO: IPC folders cleaned
+2018-04-23 16:12:35,980 DEBUG: **********Started function OptimalIncentives, memory in MB=2197.8359375
+2018-04-23 16:12:35,986 INFO: Consumer up and running
+2018-04-23 16:12:35,986 DEBUG: ******************Middle of function run_Consumer
+2018-04-23 16:12:43,072 DEBUG: Consumer is running
+2018-04-23 16:12:43,072 INFO: Validation Scoring:added to producer to run
+2018-04-23 16:12:43,072 DEBUG: **********Started function main, memory in MB=56.47265625
+2018-04-23 16:12:43,075 INFO: Processing bid: P220031238
+2018-04-23 16:12:43,075 DEBUG: **********Started function get_data, memory in MB=56.47265625
+2018-04-23 16:12:43,075 DEBUG: **********Started function pullData, memory in MB=56.47265625
+2018-04-23 16:12:45,415 DEBUG: ******************Exiting function PullData
+2018-04-23 16:12:45,415 DEBUG: **********Started function transformData, memory in MB=72.9140625
+2018-04-23 16:12:45,530 DEBUG: ******************Exiting function transformData
+2018-04-23 16:12:45,530 DEBUG: **********Started function create_prod_base_tables, memory in MB=73.69140625
+2018-04-23 16:12:45,530 DEBUG: **********Started function generate_base_tables, memory in MB=73.69140625
+2018-04-23 16:12:45,532 DEBUG: **********Started function clean_bid_account, memory in MB=74.0390625
+2018-04-23 16:12:45,549 DEBUG: ******************Exiting fucntion clean_bid_account
+2018-04-23 16:12:45,549 DEBUG: **********Started function clean_bid_service, memory in MB=74.1796875
+2018-04-23 16:12:45,555 DEBUG: ******************Exiting function clean_bid_service
+2018-04-23 16:12:45,555 DEBUG: **********Started function generate_product_initial, memory in MB=74.19140625
+2018-04-23 16:12:45,618 DEBUG: ******************Exiting function clean_bid_service
+2018-04-23 16:12:45,619 DEBUG: **********Started function generate_bid_master, memory in MB=74.375
+2018-04-23 16:12:45,651 DEBUG: ******************generate_bid_master
+2018-04-23 16:12:45,651 DEBUG: ******************Exiting function generate_base_tables
+2018-04-23 16:12:45,653 DEBUG: **********Started function zone_weight_table, memory in MB=74.390625
+2018-04-23 16:12:45,717 DEBUG: ******************Exiting fucntion zone_weight_table
+2018-04-23 16:12:45,724 DEBUG: ******************Exiting function create_prod_base_tables
+2018-04-23 16:12:45,724 DEBUG: **********Started function final_output, memory in MB=74.89453125
+2018-04-23 16:12:45,737 DEBUG: ******************Exiting function final_output
+2018-04-23 16:12:45,739 DEBUG: ******************Exiting function get_data
+2018-04-23 16:12:45,743 DEBUG: **********Started function enqueue, memory in MB=74.90625
+2018-04-23 16:12:45,744 DEBUG: **********Started function send_request, memory in MB=74.90625
+2018-04-23 16:12:45,746 INFO: Found request ['c7fb173e-320a-4bf3-9aed-5723c607fa2f']
+2018-04-23 16:12:45,746 DEBUG: ******************Exiting function send_request
+2018-04-23 16:12:45,753 INFO: Scoring bid# P220031238 from file c7fb173e-320a-4bf3-9aed-5723c607fa2f
+2018-04-23 16:12:45,785 DEBUG: **********Started function run_calculator_production, memory in MB=2198.46875
+2018-04-23 16:12:45,799 DEBUG: **********Started function run_calculator, memory in MB=2198.77734375
+2018-04-23 16:12:45,799 DEBUG: **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2198.77734375
+2018-04-23 16:12:52,108 DEBUG: ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-23 16:12:52,121 DEBUG: **********Started function add_ceiling, memory in MB=2205.6796875
+2018-04-23 16:12:52,127 DEBUG: ******************Exiting function add_Ceiling
+2018-04-23 16:12:52,135 DEBUG: **********Started function add_elasticity_alpha_gamma, memory in MB=2205.703125
+2018-04-23 16:12:52,184 DEBUG: ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-23 16:12:52,201 DEBUG: **********Started function apply_bounds_and_check_feasibility, memory in MB=2206.015625
+2018-04-23 16:12:52,259 DEBUG: ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-23 16:12:52,266 DEBUG: **********Started function applyStrategicOverlay, memory in MB=2206.16796875
+2018-04-23 16:12:52,286 DEBUG: ******************Exiting function applyStrategicOverlay 
+2018-04-23 16:12:52,331 DEBUG: ******************Exiting function run_calculator
+2018-04-23 16:12:52,332 DEBUG: **********Started function apply_eff_to_freight, memory in MB=2206.359375
+2018-04-23 16:12:52,494 DEBUG: ******************Exiting function apply_eff_to_freight
+2018-04-23 16:12:52,506 DEBUG: **********Started function deal_scoring_additional_output, memory in MB=2208.453125
+2018-04-23 16:12:52,576 DEBUG: ******************Exiting function deal_scoring_additional_output
+2018-04-23 16:12:52,588 DEBUG: ******************Exiting function run_calculator_production
+2018-04-23 16:12:52,588 DEBUG: **********Started function post_processing, memory in MB=2208.58984375
+2018-04-23 16:12:52,611 DEBUG: ******************Exiting function post_processing
+2018-04-23 16:12:52,631 DEBUG: **********Started function accessorials, memory in MB=2209.0546875
+2018-04-23 16:12:53,621 INFO: Time elapsed: 0:00:07.839000
+2018-04-23 16:12:53,668 DEBUG: **********Started function extract_data_ipc_file, memory in MB=75.34765625
+2018-04-23 16:12:53,772 DEBUG: **********Started function send_results, memory in MB=75.37109375
+2018-04-23 16:12:53,789 DEBUG: ******************Exiting function send_results
+2018-04-23 16:12:53,792 DEBUG: **********Started function put_data, memory in MB=75.69921875
+2018-04-23 16:12:53,811 INFO: 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-23 16:12:53,811 INFO: 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-23 16:12:53,812 INFO: 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-23 16:12:53,812 INFO: GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-23 16:12:53,812 INFO: GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-23 16:12:53,812 INFO: Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-23 16:12:53,812 INFO: Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-23 16:12:53,812 DEBUG: ******************Exiting function put_data
+2018-04-23 16:12:53,812 DEBUG: **********Started function pushData, memory in MB=75.69921875
+2018-04-23 16:12:53,819 INFO: Bid number P220031238: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-23 16:12:53,822 INFO: 1DA: Inc - 0.360966432087, Low - 0.310966432087, High - 0.370966432087
+2018-04-23 16:12:53,822 INFO: 2DA: Inc - 0.41975967611, Low - 0.36975967611, High - 0.42975967611
+2018-04-23 16:12:53,822 INFO: 3DA: Inc - 0.475193998571, Low - 0.425193998571, High - 0.485193998571
+2018-04-23 16:12:53,822 INFO: GND_Com: Inc - 0.165799849887, Low - 0.115799849887, High - 0.175799849887
+2018-04-23 16:12:53,822 INFO: GND_Resi: Inc - 0.313973684221, Low - 0.263973684221, High - 0.323973684221
+2018-04-23 16:12:53,822 INFO: Export: Inc - 0.622801205824, Low - 0.572801205824, High - 0.632801205824
+2018-04-23 16:12:53,822 INFO: Import: Inc - 0.204572303008, Low - 0.154572303008, High - 0.214572303008
+2018-04-23 16:12:53,822 DEBUG: ******************Exiting function PushData
+2018-04-23 16:12:53,822 INFO: Bid P220031238 successfully scored.
+2018-04-23 16:12:53,823 DEBUG: ******************Exiting function main_Producer

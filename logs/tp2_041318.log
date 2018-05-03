@@ -1,0 +1,316 @@
+2018-04-13 11:18:02,986 INFO: Consumer started
+2018-04-13 11:18:02,990 INFO: cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/init is accessible
+Oracle connection successfully made.
+
+2018-04-13 11:18:02,990 DEBUG: **********Started function main, memory in MB=108.51953125
+2018-04-13 11:18:02,990 INFO: Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/
+2018-04-13 11:18:02,990 INFO: Loading air_logit_fit.p model...
+2018-04-13 11:18:03,638 INFO: Loading air_market_incentive.p model...
+2018-04-13 11:18:03,874 INFO: Loading air_mpt_reg.p model...
+2018-04-13 11:18:06,082 INFO: Loading data_prep.p model...
+2018-04-13 11:18:06,497 INFO: Loading data_preprocess.p model...
+2018-04-13 11:18:06,497 INFO: Loading eff_to_offer_air.p model...
+2018-04-13 11:18:06,549 INFO: Loading eff_to_offer_gnd.p model...
+2018-04-13 11:18:06,601 INFO: Loading eff_to_offer_impexp.p model...
+2018-04-13 11:18:06,641 INFO: Loading gnd_market_incentive.p model...
+2018-04-13 11:18:06,818 INFO: Loading gnd_mpt_reg.p model...
+2018-04-13 11:18:09,022 INFO: Loading ground_logit_fit.p model...
+2018-04-13 11:18:09,181 INFO: Loading ie_market_incentive.p model...
+2018-04-13 11:18:09,345 INFO: Loading impexp_logit_fit.p model...
+2018-04-13 11:18:09,381 INFO: Loading impexp_mpt_reg.p model...
+2018-04-13 11:18:10,414 INFO: All models loaded
+2018-04-13 11:18:10,414 DEBUG: ******************Exiting function main_Consumer
+2018-04-13 11:18:10,414 DEBUG: **********Started function run, memory in MB=2210.55078125
+2018-04-13 11:18:10,414 INFO: IPC folders cleaned
+2018-04-13 11:18:10,446 DEBUG: **********Started function OptimalIncentives, memory in MB=2212.1171875
+2018-04-13 11:18:10,450 INFO: Consumer up and running
+2018-04-13 11:18:10,450 DEBUG: ******************Middle of function run_Consumer
+2018-04-13 11:18:27,145 DEBUG: Consumer is running
+2018-04-13 11:18:27,145 INFO: Validation Scoring:added to producer to run
+2018-04-13 11:18:27,145 DEBUG: **********Started function main, memory in MB=56.6328125
+2018-04-13 11:18:27,150 INFO: Processing bid: P700032989
+2018-04-13 11:18:27,150 DEBUG: **********Started function get_data, memory in MB=56.64453125
+2018-04-13 11:18:27,150 DEBUG: **********Started function pullData, memory in MB=56.6484375
+2018-04-13 11:18:27,150 DEBUG: **********Started function connect, memory in MB=56.6484375
+2018-04-13 11:18:27,150 DEBUG: ******************Exiting function connect
+2018-04-13 11:18:30,273 DEBUG: ******************Exiting function PullData
+2018-04-13 11:18:30,273 DEBUG: **********Started function transformData, memory in MB=74.12109375
+2018-04-13 11:18:30,365 DEBUG: ******************Exiting function transformData
+2018-04-13 11:18:30,365 DEBUG: **********Started function create_prod_base_tables, memory in MB=74.5625
+2018-04-13 11:18:30,365 DEBUG: **********Started function generate_base_tables, memory in MB=74.5625
+2018-04-13 11:18:30,365 DEBUG: **********Started function clean_bid_account, memory in MB=74.88671875
+2018-04-13 11:18:30,378 DEBUG: ******************Exiting fucntion clean_bid_account
+2018-04-13 11:18:30,378 DEBUG: **********Started function clean_bid_service, memory in MB=74.9921875
+2018-04-13 11:18:30,381 DEBUG: ******************Exiting function clean_bid_service
+2018-04-13 11:18:30,381 DEBUG: **********Started function generate_product_initial, memory in MB=74.99609375
+2018-04-13 11:18:30,426 DEBUG: ******************Exiting function clean_bid_service
+2018-04-13 11:18:30,426 DEBUG: **********Started function generate_bid_master, memory in MB=75.10546875
+2018-04-13 11:18:30,446 DEBUG: ******************generate_bid_master
+2018-04-13 11:18:30,446 DEBUG: ******************Exiting function generate_base_tables
+2018-04-13 11:18:30,446 DEBUG: **********Started function zone_weight_table, memory in MB=75.109375
+2018-04-13 11:18:30,493 DEBUG: ******************Exiting fucntion zone_weight_table
+2018-04-13 11:18:30,497 DEBUG: ******************Exiting function create_prod_base_tables
+2018-04-13 11:18:30,497 DEBUG: **********Started function final_output, memory in MB=76.54296875
+2018-04-13 11:18:30,502 DEBUG: ******************Exiting function final_output
+2018-04-13 11:18:30,506 DEBUG: ******************Exiting function get_data
+2018-04-13 11:18:30,513 DEBUG: **********Started function enqueue, memory in MB=76.609375
+2018-04-13 11:18:30,513 DEBUG: **********Started function send_request, memory in MB=76.609375
+2018-04-13 11:18:30,513 INFO: Found request ['ba8f0b12-a30e-4a3a-8a64-ea40f6b71db3']
+2018-04-13 11:18:30,513 DEBUG: ******************Exiting function send_request
+2018-04-13 11:18:30,517 INFO: Scoring bid# P700032989 from file ba8f0b12-a30e-4a3a-8a64-ea40f6b71db3
+2018-04-13 11:18:30,594 DEBUG: **********Started function run_calculator, memory in MB=2212.8515625
+2018-04-13 11:18:30,594 DEBUG: **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2212.8515625
+2018-04-13 11:18:39,085 DEBUG: ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-13 11:18:39,109 DEBUG: **********Started function add_ceiling, memory in MB=2220.44921875
+2018-04-13 11:18:39,118 DEBUG: ******************Exiting function add_Ceiling
+2018-04-13 11:18:39,130 DEBUG: **********Started function add_elasticity_alpha_gamma, memory in MB=2220.48828125
+2018-04-13 11:18:39,201 DEBUG: ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-13 11:18:39,226 DEBUG: **********Started function apply_bounds_and_check_feasibility, memory in MB=2220.8046875
+2018-04-13 11:18:39,322 DEBUG: ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-13 11:18:39,334 DEBUG: **********Started function applyStrategicOverlay, memory in MB=2221.0546875
+2018-04-13 11:18:39,358 DEBUG: ******************Exiting function applyStrategicOverlay 
+2018-04-13 11:18:39,414 DEBUG: ******************Exiting function run_calculator
+2018-04-13 11:18:39,414 DEBUG: **********Started function apply_eff_to_freight, memory in MB=2221.21484375
+2018-04-13 11:18:39,697 DEBUG: ******************Exiting function apply_eff_to_freight
+2018-04-13 11:18:39,993 DEBUG: **********Started function accessorials, memory in MB=2223.76171875
+2018-04-13 11:18:40,578 ERROR: Error 3.3b: Consumer.py crashed due to model run: 
+2018-04-13 11:18:40,578 ERROR: 'OptimalIncentives' object has no attribute 'eligible_accessorials'
+2018-04-13 11:18:40,578 INFO: Found request ['ba8f0b12-a30e-4a3a-8a64-ea40f6b71db3']
+2018-04-13 11:18:40,578 INFO: Scoring bid# P700032989 from file ba8f0b12-a30e-4a3a-8a64-ea40f6b71db3
+2018-04-13 11:18:40,657 DEBUG: **********Started function run_calculator, memory in MB=2228.4140625
+2018-04-13 11:18:40,657 DEBUG: **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2228.4140625
+2018-04-13 11:18:48,977 DEBUG: ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-13 11:18:49,009 DEBUG: **********Started function add_ceiling, memory in MB=2231.57421875
+2018-04-13 11:18:49,017 DEBUG: ******************Exiting function add_Ceiling
+2018-04-13 11:18:49,033 DEBUG: **********Started function add_elasticity_alpha_gamma, memory in MB=2231.5859375
+2018-04-13 11:18:49,069 DEBUG: ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-13 11:18:49,094 DEBUG: **********Started function apply_bounds_and_check_feasibility, memory in MB=2231.5859375
+2018-04-13 11:18:49,181 DEBUG: ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-13 11:18:49,194 DEBUG: **********Started function applyStrategicOverlay, memory in MB=2231.5859375
+2018-04-13 11:18:49,213 DEBUG: ******************Exiting function applyStrategicOverlay 
+2018-04-13 11:18:49,269 DEBUG: ******************Exiting function run_calculator
+2018-04-13 11:18:49,269 DEBUG: **********Started function apply_eff_to_freight, memory in MB=2231.60546875
+2018-04-13 11:18:49,509 DEBUG: ******************Exiting function apply_eff_to_freight
+2018-04-13 11:18:49,762 DEBUG: **********Started function accessorials, memory in MB=2231.62109375
+2018-04-13 11:18:49,926 ERROR: Error 3.3b: Consumer.py crashed due to model run: 
+2018-04-13 11:18:49,926 ERROR: 'OptimalIncentives' object has no attribute 'eligible_accessorials'
+2018-04-13 11:18:49,926 INFO: Found request ['ba8f0b12-a30e-4a3a-8a64-ea40f6b71db3']
+2018-04-13 11:18:49,930 INFO: Scoring bid# P700032989 from file ba8f0b12-a30e-4a3a-8a64-ea40f6b71db3
+2018-04-13 11:18:50,026 DEBUG: **********Started function run_calculator, memory in MB=2231.6328125
+2018-04-13 11:18:50,026 DEBUG: **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2231.6328125
+2018-04-13 11:18:58,138 DEBUG: ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-13 11:18:58,165 DEBUG: **********Started function add_ceiling, memory in MB=2231.96875
+2018-04-13 11:18:58,174 DEBUG: ******************Exiting function add_Ceiling
+2018-04-13 11:18:58,190 DEBUG: **********Started function add_elasticity_alpha_gamma, memory in MB=2231.96875
+2018-04-13 11:18:58,226 DEBUG: ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-13 11:18:58,253 DEBUG: **********Started function apply_bounds_and_check_feasibility, memory in MB=2231.96875
+2018-04-13 11:18:58,361 DEBUG: ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-13 11:18:58,374 DEBUG: **********Started function applyStrategicOverlay, memory in MB=2231.96875
+2018-04-13 11:18:58,394 DEBUG: ******************Exiting function applyStrategicOverlay 
+2018-04-13 11:18:58,446 DEBUG: ******************Exiting function run_calculator
+2018-04-13 11:18:58,446 DEBUG: **********Started function apply_eff_to_freight, memory in MB=2231.96875
+2018-04-13 11:18:58,681 DEBUG: ******************Exiting function apply_eff_to_freight
+2018-04-13 11:18:58,950 DEBUG: **********Started function accessorials, memory in MB=2232.10546875
+2018-04-13 11:18:59,109 ERROR: Error 3.3b: Consumer.py crashed due to model run: 
+2018-04-13 11:18:59,109 ERROR: 'OptimalIncentives' object has no attribute 'eligible_accessorials'
+2018-04-13 11:18:59,109 INFO: Found request ['ba8f0b12-a30e-4a3a-8a64-ea40f6b71db3']
+2018-04-13 11:18:59,109 INFO: Scoring bid# P700032989 from file ba8f0b12-a30e-4a3a-8a64-ea40f6b71db3
+2018-04-13 11:18:59,186 DEBUG: **********Started function run_calculator, memory in MB=2232.1328125
+2018-04-13 11:18:59,186 DEBUG: **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2232.1328125
+2018-04-13 11:19:01,009 ERROR: : Error 3.1: Producer.py timed out on bid number: P700032989
+
+2018-04-13 11:19:01,009 ERROR: 
+2018-04-13 11:19:16,674 DEBUG: ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-13 11:19:16,759 DEBUG: **********Started function add_ceiling, memory in MB=2232.765625
+2018-04-13 11:19:16,786 DEBUG: ******************Exiting function add_Ceiling
+2018-04-13 11:19:16,835 DEBUG: **********Started function add_elasticity_alpha_gamma, memory in MB=2232.765625
+2018-04-13 11:19:16,950 DEBUG: ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-13 11:19:17,019 DEBUG: **********Started function apply_bounds_and_check_feasibility, memory in MB=2232.765625
+2018-04-13 11:19:17,279 DEBUG: ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-13 11:19:17,315 DEBUG: **********Started function applyStrategicOverlay, memory in MB=2232.765625
+2018-04-13 11:19:17,371 DEBUG: ******************Exiting function applyStrategicOverlay 
+2018-04-13 11:19:17,515 DEBUG: ******************Exiting function run_calculator
+2018-04-13 11:19:17,515 DEBUG: **********Started function apply_eff_to_freight, memory in MB=2232.765625
+2018-04-13 11:19:18,204 DEBUG: ******************Exiting function apply_eff_to_freight
+2018-04-13 11:19:18,934 DEBUG: **********Started function accessorials, memory in MB=2232.77734375
+2018-04-13 11:19:19,101 ERROR: Error 3.3b: Consumer.py crashed due to model run: 
+2018-04-13 11:19:19,101 ERROR: 'OptimalIncentives' object has no attribute 'eligible_accessorials'
+2018-04-13 11:19:28,944 DEBUG: Consumer is running
+2018-04-13 11:19:28,944 INFO: Validation Scoring:added to producer to run
+2018-04-13 11:19:28,944 DEBUG: **********Started function main, memory in MB=80.76171875
+2018-04-13 11:19:28,953 INFO: Processing bid: P700032989
+2018-04-13 11:19:28,953 DEBUG: **********Started function get_data, memory in MB=80.76171875
+2018-04-13 11:19:28,953 DEBUG: **********Started function pullData, memory in MB=80.76171875
+2018-04-13 11:19:28,953 DEBUG: **********Started function connect, memory in MB=80.76171875
+2018-04-13 11:19:28,953 DEBUG: ******************Exiting function connect
+2018-04-13 11:19:31,484 DEBUG: ******************Exiting function PullData
+2018-04-13 11:19:31,489 DEBUG: **********Started function transformData, memory in MB=97.62109375
+2018-04-13 11:19:31,832 DEBUG: ******************Exiting function transformData
+2018-04-13 11:19:31,832 DEBUG: **********Started function create_prod_base_tables, memory in MB=98.078125
+2018-04-13 11:19:31,832 DEBUG: **********Started function generate_base_tables, memory in MB=98.078125
+2018-04-13 11:19:31,836 DEBUG: **********Started function clean_bid_account, memory in MB=98.33984375
+2018-04-13 11:19:31,869 DEBUG: ******************Exiting fucntion clean_bid_account
+2018-04-13 11:19:31,871 DEBUG: **********Started function clean_bid_service, memory in MB=98.4453125
+2018-04-13 11:19:31,884 DEBUG: ******************Exiting function clean_bid_service
+2018-04-13 11:19:31,884 DEBUG: **********Started function generate_product_initial, memory in MB=98.44921875
+2018-04-13 11:19:32,049 DEBUG: ******************Exiting function clean_bid_service
+2018-04-13 11:19:32,049 DEBUG: **********Started function generate_bid_master, memory in MB=98.5234375
+2018-04-13 11:19:32,117 DEBUG: ******************generate_bid_master
+2018-04-13 11:19:32,117 DEBUG: ******************Exiting function generate_base_tables
+2018-04-13 11:19:32,125 DEBUG: **********Started function zone_weight_table, memory in MB=98.52734375
+2018-04-13 11:19:32,302 DEBUG: ******************Exiting fucntion zone_weight_table
+2018-04-13 11:19:32,318 DEBUG: ******************Exiting function create_prod_base_tables
+2018-04-13 11:19:32,318 DEBUG: **********Started function final_output, memory in MB=100.0078125
+2018-04-13 11:19:32,345 DEBUG: ******************Exiting function final_output
+2018-04-13 11:19:32,349 DEBUG: ******************Exiting function get_data
+2018-04-13 11:19:32,375 DEBUG: **********Started function enqueue, memory in MB=100.04296875
+2018-04-13 11:19:32,377 DEBUG: **********Started function send_request, memory in MB=100.04296875
+2018-04-13 11:19:32,378 INFO: Found request ['0bc75177-704d-460b-b209-f761f1f7a8fb']
+2018-04-13 11:19:32,378 DEBUG: ******************Exiting function send_request
+2018-04-13 11:19:32,385 INFO: Scoring bid# P700032989 from file 0bc75177-704d-460b-b209-f761f1f7a8fb
+2018-04-13 11:19:32,529 DEBUG: **********Started function run_calculator, memory in MB=2232.77734375
+2018-04-13 11:19:32,529 DEBUG: **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2232.77734375
+2018-04-13 11:19:42,246 DEBUG: ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-13 11:19:42,273 DEBUG: **********Started function add_ceiling, memory in MB=2233.27734375
+2018-04-13 11:19:42,286 DEBUG: ******************Exiting function add_Ceiling
+2018-04-13 11:19:42,302 DEBUG: **********Started function add_elasticity_alpha_gamma, memory in MB=2233.27734375
+2018-04-13 11:19:42,346 DEBUG: ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-13 11:19:42,371 DEBUG: **********Started function apply_bounds_and_check_feasibility, memory in MB=2233.27734375
+2018-04-13 11:19:42,459 DEBUG: ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-13 11:19:42,470 DEBUG: **********Started function applyStrategicOverlay, memory in MB=2233.27734375
+2018-04-13 11:19:42,490 DEBUG: ******************Exiting function applyStrategicOverlay 
+2018-04-13 11:19:42,542 DEBUG: ******************Exiting function run_calculator
+2018-04-13 11:19:42,542 DEBUG: **********Started function apply_eff_to_freight, memory in MB=2233.27734375
+2018-04-13 11:19:42,779 DEBUG: ******************Exiting function apply_eff_to_freight
+2018-04-13 11:19:43,062 DEBUG: **********Started function accessorials, memory in MB=2233.29296875
+2018-04-13 11:19:43,223 ERROR: Error 3.3b: Consumer.py crashed due to model run: 
+2018-04-13 11:19:43,226 ERROR: 'OptimalIncentives' object has no attribute 'eligible_accessorials'
+2018-04-13 11:19:43,226 INFO: Found request ['0bc75177-704d-460b-b209-f761f1f7a8fb']
+2018-04-13 11:19:43,230 INFO: Scoring bid# P700032989 from file 0bc75177-704d-460b-b209-f761f1f7a8fb
+2018-04-13 11:19:43,319 DEBUG: **********Started function run_calculator, memory in MB=2233.296875
+2018-04-13 11:19:43,319 DEBUG: **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2233.296875
+2018-04-13 11:20:03,059 ERROR: : Error 3.1: Producer.py timed out on bid number: P700032989
+
+2018-04-13 11:20:03,059 ERROR: 
+2018-04-13 11:20:29,865 INFO: Consumer started
+2018-04-13 11:20:29,865 INFO: cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/init is accessible
+Oracle connection successfully made.
+
+2018-04-13 11:20:29,865 DEBUG: **********Started function main, memory in MB=108.703125
+2018-04-13 11:20:29,865 INFO: Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/
+2018-04-13 11:20:29,865 INFO: Loading air_logit_fit.p model...
+2018-04-13 11:20:30,226 INFO: Loading air_market_incentive.p model...
+2018-04-13 11:20:30,338 INFO: Loading air_mpt_reg.p model...
+2018-04-13 11:20:31,233 INFO: Loading data_prep.p model...
+2018-04-13 11:20:31,437 INFO: Loading data_preprocess.p model...
+2018-04-13 11:20:31,437 INFO: Loading eff_to_offer_air.p model...
+2018-04-13 11:20:31,490 INFO: Loading eff_to_offer_gnd.p model...
+2018-04-13 11:20:31,542 INFO: Loading eff_to_offer_impexp.p model...
+2018-04-13 11:20:31,578 INFO: Loading gnd_market_incentive.p model...
+2018-04-13 11:20:31,690 INFO: Loading gnd_mpt_reg.p model...
+2018-04-13 11:20:32,641 INFO: Loading ground_logit_fit.p model...
+2018-04-13 11:20:32,786 INFO: Loading ie_market_incentive.p model...
+2018-04-13 11:20:32,917 INFO: Loading impexp_logit_fit.p model...
+2018-04-13 11:20:32,961 INFO: Loading impexp_mpt_reg.p model...
+2018-04-13 11:20:33,822 INFO: All models loaded
+2018-04-13 11:20:33,822 DEBUG: ******************Exiting function main_Consumer
+2018-04-13 11:20:33,822 DEBUG: **********Started function run, memory in MB=2213.30078125
+2018-04-13 11:20:33,822 INFO: IPC folders cleaned
+2018-04-13 11:20:33,849 DEBUG: **********Started function OptimalIncentives, memory in MB=2215.703125
+2018-04-13 11:20:33,858 INFO: Consumer up and running
+2018-04-13 11:20:33,858 DEBUG: ******************Middle of function run_Consumer
+2018-04-13 11:20:38,309 DEBUG: Consumer is running
+2018-04-13 11:20:38,309 INFO: Validation Scoring:added to producer to run
+2018-04-13 11:20:38,309 DEBUG: **********Started function main, memory in MB=56.6015625
+2018-04-13 11:20:38,309 INFO: Processing bid: P700032989
+2018-04-13 11:20:38,309 DEBUG: **********Started function get_data, memory in MB=56.61328125
+2018-04-13 11:20:38,309 DEBUG: **********Started function pullData, memory in MB=56.6171875
+2018-04-13 11:20:38,309 DEBUG: **********Started function connect, memory in MB=56.6171875
+2018-04-13 11:20:38,309 DEBUG: ******************Exiting function connect
+2018-04-13 11:20:40,657 DEBUG: ******************Exiting function PullData
+2018-04-13 11:20:40,657 DEBUG: **********Started function transformData, memory in MB=74.12890625
+2018-04-13 11:20:40,742 DEBUG: ******************Exiting function transformData
+2018-04-13 11:20:40,742 DEBUG: **********Started function create_prod_base_tables, memory in MB=74.5703125
+2018-04-13 11:20:40,742 DEBUG: **********Started function generate_base_tables, memory in MB=74.5703125
+2018-04-13 11:20:40,742 DEBUG: **********Started function clean_bid_account, memory in MB=74.89453125
+2018-04-13 11:20:40,753 DEBUG: ******************Exiting fucntion clean_bid_account
+2018-04-13 11:20:40,753 DEBUG: **********Started function clean_bid_service, memory in MB=75.0
+2018-04-13 11:20:40,757 DEBUG: ******************Exiting function clean_bid_service
+2018-04-13 11:20:40,757 DEBUG: **********Started function generate_product_initial, memory in MB=75.00390625
+2018-04-13 11:20:40,813 DEBUG: ******************Exiting function clean_bid_service
+2018-04-13 11:20:40,813 DEBUG: **********Started function generate_bid_master, memory in MB=75.11328125
+2018-04-13 11:20:40,838 DEBUG: ******************generate_bid_master
+2018-04-13 11:20:40,838 DEBUG: ******************Exiting function generate_base_tables
+2018-04-13 11:20:40,842 DEBUG: **********Started function zone_weight_table, memory in MB=75.1171875
+2018-04-13 11:20:40,885 DEBUG: ******************Exiting fucntion zone_weight_table
+2018-04-13 11:20:40,894 DEBUG: ******************Exiting function create_prod_base_tables
+2018-04-13 11:20:40,894 DEBUG: **********Started function final_output, memory in MB=76.7421875
+2018-04-13 11:20:40,905 DEBUG: ******************Exiting function final_output
+2018-04-13 11:20:40,905 DEBUG: ******************Exiting function get_data
+2018-04-13 11:20:40,914 DEBUG: **********Started function enqueue, memory in MB=76.8125
+2018-04-13 11:20:40,917 DEBUG: **********Started function send_request, memory in MB=76.8125
+2018-04-13 11:20:40,917 INFO: Found request ['bf5c110b-584a-432d-a954-dcb912ee3ed8']
+2018-04-13 11:20:40,917 DEBUG: ******************Exiting function send_request
+2018-04-13 11:20:40,921 INFO: Scoring bid# P700032989 from file bf5c110b-584a-432d-a954-dcb912ee3ed8
+2018-04-13 11:20:41,022 DEBUG: **********Started function run_calculator, memory in MB=2216.48828125
+2018-04-13 11:20:41,022 DEBUG: **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2216.48828125
+2018-04-13 11:20:49,118 DEBUG: ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-13 11:20:49,150 DEBUG: **********Started function add_ceiling, memory in MB=2223.546875
+2018-04-13 11:20:49,157 DEBUG: ******************Exiting function add_Ceiling
+2018-04-13 11:20:49,177 DEBUG: **********Started function add_elasticity_alpha_gamma, memory in MB=2223.58984375
+2018-04-13 11:20:49,230 DEBUG: ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-13 11:20:49,253 DEBUG: **********Started function apply_bounds_and_check_feasibility, memory in MB=2223.91796875
+2018-04-13 11:20:49,345 DEBUG: ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-13 11:20:49,358 DEBUG: **********Started function applyStrategicOverlay, memory in MB=2224.15625
+2018-04-13 11:20:49,378 DEBUG: ******************Exiting function applyStrategicOverlay 
+2018-04-13 11:20:49,434 DEBUG: ******************Exiting function run_calculator
+2018-04-13 11:20:49,434 DEBUG: **********Started function apply_eff_to_freight, memory in MB=2224.33984375
+2018-04-13 11:20:49,686 DEBUG: ******************Exiting function apply_eff_to_freight
+2018-04-13 11:21:02,266 DEBUG: **********Started function accessorials, memory in MB=2238.2109375
+2018-04-13 11:21:11,012 ERROR: : Error 3.1: Producer.py timed out on bid number: P700032989
+
+2018-04-13 11:21:11,012 ERROR: 

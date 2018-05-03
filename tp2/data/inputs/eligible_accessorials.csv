@@ -1,0 +1,8 @@
+MVM_DRC_CD,SVM_TYP_CD,ASY_SVC_TYP_CD,RULE_TYPE,Product
+N,GND,RES,Optimal_UPSInc_0,GND_Resi
+N,1DA,GDL,Bid_List_Rev_Wkly,ANY
+N,1DP,GDL,Bid_List_Rev_Wkly,ANY
+N,2DA,GDL,Bid_List_Rev_Wkly,ANY
+N,2DM,GDL,Bid_List_Rev_Wkly,ANY
+N,3DS,GDL,Bid_List_Rev_Wkly,ANY
+N,GND,GDL,Bid_List_Rev_Wkly,ANY

@@ -1,0 +1,142 @@
+2018-04-10 12:16:44,956 INFO: Consumer started
+2018-04-10 12:16:44,956 INFO: cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/init is accessible
+Oracle connection successfully made.
+
+2018-04-10 12:16:44,956 DEBUG: **********Started function main, memory in MB=85.65625
+2018-04-10 12:16:44,956 INFO: Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/
+2018-04-10 12:16:44,971 INFO: Loading air_logit_fit.p model...
+2018-04-10 12:16:45,908 INFO: Loading air_market_incentive.p model...
+2018-04-10 12:16:46,174 INFO: Loading air_mpt_reg.p model...
+2018-04-10 12:16:48,471 INFO: Loading data_prep.p model...
+2018-04-10 12:16:48,894 INFO: Loading data_preprocess.p model...
+2018-04-10 12:16:48,910 INFO: Loading eff_to_offer_air.p model...
+2018-04-10 12:16:48,956 INFO: Loading eff_to_offer_gnd.p model...
+2018-04-10 12:16:49,003 INFO: Loading eff_to_offer_impexp.p model...
+2018-04-10 12:16:49,049 INFO: Loading gnd_market_incentive.p model...
+2018-04-10 12:16:49,221 INFO: Loading gnd_mpt_reg.p model...
+2018-04-10 12:16:51,487 INFO: Loading ground_logit_fit.p model...
+2018-04-10 12:16:51,644 INFO: Loading ie_market_incentive.p model...
+2018-04-10 12:16:51,832 INFO: Loading impexp_logit_fit.p model...
+2018-04-10 12:16:51,862 INFO: Loading impexp_mpt_reg.p model...
+2018-04-10 12:16:52,957 INFO: All models loaded
+2018-04-10 12:16:52,957 DEBUG: ******************Exiting function main_Consumer
+2018-04-10 12:16:52,957 DEBUG: **********Started function run, memory in MB=2196.3671875
+2018-04-10 12:16:52,957 INFO: IPC folders cleaned
+2018-04-10 12:16:52,987 DEBUG: **********Started function OptimalIncentives, memory in MB=2197.99609375
+2018-04-10 12:16:52,987 INFO: Consumer up and running
+2018-04-10 12:16:52,987 DEBUG: ******************Middle of function run_Consumer
+2018-04-10 12:16:56,112 DEBUG: Consumer is running
+2018-04-10 12:16:56,112 INFO: Validation Scoring:added to producer to run
+2018-04-10 12:16:56,112 DEBUG: **********Started function main, memory in MB=56.58984375
+2018-04-10 12:16:56,112 INFO: Processing bid: P700032989
+2018-04-10 12:16:56,112 DEBUG: **********Started function get_data, memory in MB=56.609375
+2018-04-10 12:16:56,112 DEBUG: **********Started function pullData, memory in MB=56.61328125
+2018-04-10 12:16:56,112 DEBUG: **********Started function connect, memory in MB=56.61328125
+2018-04-10 12:16:56,112 DEBUG: ******************Exiting function connect
+2018-04-10 12:16:59,566 DEBUG: ******************Exiting function PullData
+2018-04-10 12:16:59,566 DEBUG: **********Started function transformData, memory in MB=74.1484375
+2018-04-10 12:16:59,661 DEBUG: ******************Exiting function transformData
+2018-04-10 12:16:59,661 DEBUG: **********Started function create_prod_base_tables, memory in MB=74.58984375
+2018-04-10 12:16:59,661 DEBUG: **********Started function generate_base_tables, memory in MB=74.58984375
+2018-04-10 12:16:59,661 DEBUG: **********Started function clean_bid_account, memory in MB=74.9375
+2018-04-10 12:16:59,676 DEBUG: ******************Exiting fucntion clean_bid_account
+2018-04-10 12:16:59,676 DEBUG: **********Started function clean_bid_service, memory in MB=75.04296875
+2018-04-10 12:16:59,676 DEBUG: ******************Exiting function clean_bid_service
+2018-04-10 12:16:59,676 DEBUG: **********Started function generate_product_initial, memory in MB=75.046875
+2018-04-10 12:16:59,723 DEBUG: ******************Exiting function clean_bid_service
+2018-04-10 12:16:59,723 DEBUG: **********Started function generate_bid_master, memory in MB=75.5078125
+2018-04-10 12:16:59,769 DEBUG: ******************generate_bid_master
+2018-04-10 12:16:59,769 DEBUG: ******************Exiting function generate_base_tables
+2018-04-10 12:16:59,769 DEBUG: **********Started function zone_weight_table, memory in MB=75.51171875
+2018-04-10 12:16:59,816 DEBUG: ******************Exiting fucntion zone_weight_table
+2018-04-10 12:16:59,832 DEBUG: ******************Exiting function create_prod_base_tables
+2018-04-10 12:16:59,832 DEBUG: **********Started function final_output, memory in MB=77.15625
+2018-04-10 12:16:59,832 DEBUG: ******************Exiting function final_output
+2018-04-10 12:16:59,848 DEBUG: ******************Exiting function get_data
+2018-04-10 12:16:59,848 DEBUG: **********Started function enqueue, memory in MB=77.22265625
+2018-04-10 12:16:59,848 DEBUG: **********Started function send_request, memory in MB=77.22265625
+2018-04-10 12:16:59,848 INFO: Found request ['85b776f4-5b3f-4ec6-9e56-1501b21cb38d']
+2018-04-10 12:16:59,848 DEBUG: ******************Exiting function send_request
+2018-04-10 12:16:59,848 INFO: Scoring bid# P700032989 from file 85b776f4-5b3f-4ec6-9e56-1501b21cb38d
+2018-04-10 12:16:59,894 DEBUG: **********Started function run_calculator, memory in MB=2198.9921875
+2018-04-10 12:16:59,894 DEBUG: **********Started function add_market_incentive_and_base_market_pullthru, memory in MB=2198.9921875
+2018-04-10 12:17:05,865 DEBUG: ******************Exiting function add_market_incentive_and_base_market_pullthru
+2018-04-10 12:17:05,880 DEBUG: **********Started function add_ceiling, memory in MB=2205.92578125
+2018-04-10 12:17:05,895 DEBUG: ******************Exiting function add_Ceiling
+2018-04-10 12:17:05,895 DEBUG: **********Started function add_elasticity_alpha_gamma, memory in MB=2205.96875
+2018-04-10 12:17:05,943 DEBUG: ******************Exiting function add_elasticity_alpha_gamma 
+2018-04-10 12:17:05,957 DEBUG: **********Started function apply_bounds_and_check_feasibility, memory in MB=2206.28515625
+2018-04-10 12:17:06,005 DEBUG: ******************Exiting function apply_bounds_and_check_feasibility 
+2018-04-10 12:17:06,005 DEBUG: **********Started function applyStrategicOverlay, memory in MB=2206.546875
+2018-04-10 12:17:06,020 DEBUG: ******************Exiting function applyStrategicOverlay 
+2018-04-10 12:17:06,036 DEBUG: ******************Exiting function run_calculator
+2018-04-10 12:17:06,036 DEBUG: **********Started function apply_eff_to_freight, memory in MB=2206.73046875
+2018-04-10 12:17:06,177 DEBUG: ******************Exiting function apply_eff_to_freight
+2018-04-10 12:17:06,302 DEBUG: **********Started function accessorials, memory in MB=2210.125
+2018-04-10 12:17:06,880 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,880 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,880 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,880 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,880 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,895 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,895 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,895 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,895 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,911 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,911 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,911 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,911 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,927 DEBUG: **********Started function f_Get_Ceiling, memory in MB=2215.37890625
+2018-04-10 12:17:06,927 INFO: here 1.1
+2018-04-10 12:17:06,927 DEBUG: ******************Exiting function accessorials
+2018-04-10 12:17:06,927 INFO: Time elapsed: 0:00:07.047000
+2018-04-10 12:17:06,957 DEBUG: **********Started function extract_data_ipc_file, memory in MB=77.234375
+2018-04-10 12:17:07,068 DEBUG: **********Started function send_results, memory in MB=77.2421875
+2018-04-10 12:17:07,082 DEBUG: ******************Exiting function send_results
+2018-04-10 12:17:07,098 DEBUG: **********Started function put_data, memory in MB=77.265625
+2018-04-10 12:17:07,115 INFO: 1DA: Inc - 0.7, Low - 0.65, High - 0.71
+2018-04-10 12:17:07,115 INFO: 2DA: Inc - 0.656136713319, Low - 0.606136713319, High - 0.666136713319
+2018-04-10 12:17:07,115 INFO: 3DA: Inc - 0.607397598929, Low - 0.557397598929, High - 0.617397598929
+2018-04-10 12:17:07,115 INFO: GND_Com: Inc - 0.376878354712, Low - 0.326878354712, High - 0.386878354712
+2018-04-10 12:17:07,115 INFO: GND_Resi: Inc - 0.471935823345, Low - 0.421935823345, High - 0.481935823345
+2018-04-10 12:17:07,115 INFO: GND_USPS: Inc - 0.25, Low - 0.2, High - 0.26
+2018-04-10 12:17:07,115 INFO: Export: Inc - 0.7, Low - 0.65, High - 0.71
+2018-04-10 12:17:07,115 INFO: Import: Inc - 0.608825298259, Low - 0.558825298259, High - 0.618825298259
+2018-04-10 12:17:07,115 INFO: GND_CWT: Inc - 0.294, Low - 0.244, High - 0.304
+2018-04-10 12:17:07,115 DEBUG: ******************Exiting function put_data
+2018-04-10 12:17:07,115 DEBUG: **********Started function pushData, memory in MB=77.265625
+2018-04-10 12:17:07,130 INFO: Bid number P700032989: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-04-10 12:17:07,130 INFO: 1DA: Inc - 0.7, Low - 0.65, High - 0.71
+2018-04-10 12:17:07,130 INFO: 2DA: Inc - 0.656136713319, Low - 0.606136713319, High - 0.666136713319
+2018-04-10 12:17:07,130 INFO: 3DA: Inc - 0.607397598929, Low - 0.557397598929, High - 0.617397598929
+2018-04-10 12:17:07,130 INFO: GND_Com: Inc - 0.376878354712, Low - 0.326878354712, High - 0.386878354712
+2018-04-10 12:17:07,130 INFO: GND_Resi: Inc - 0.471935823345, Low - 0.421935823345, High - 0.481935823345
+2018-04-10 12:17:07,130 INFO: GND_USPS: Inc - 0.25, Low - 0.2, High - 0.26
+2018-04-10 12:17:07,130 INFO: Export: Inc - 0.7, Low - 0.65, High - 0.71
+2018-04-10 12:17:07,130 INFO: Import: Inc - 0.608825298259, Low - 0.558825298259, High - 0.618825298259
+2018-04-10 12:17:07,130 INFO: GND_CWT: Inc - 0.294, Low - 0.244, High - 0.304
+2018-04-10 12:17:07,130 DEBUG: ******************Exiting function PushData
+2018-04-10 12:17:07,130 INFO: Bid P700032989 successfully scored.
+2018-04-10 12:17:07,130 DEBUG: ******************Exiting function main_Producer

@@ -1,0 +1,1017 @@
+Business Defined SIC Industry 4 Cd,Business Defined SIC Industry 4 Descr,Business Defined SIC Industry Segment Cd,Business Defined SIC Industry Segment Descr,Business Defined SIC Industry Sub-Segment Level 1 Cd,Business Defined SIC Industry Sub-Segment Level 1 Descr,Business Defined SIC Industry Sub-Segment Level 2 Cd,Business Defined SIC Industry Sub-Segment Level 2 Descr,Business Defined SIC Industry Leg of Supply Chain Cd,Business Defined SIC Industry Leg of Supply Chain Descr
+0000,Data Not Available,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0111,Wheat,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0112,Rice,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0115,Corn,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0116,Soybeans,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0119,"Cash Grains, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0131,Cotton,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0132,Tobacco,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,05,All Other
+0133,Sugarcane and Sugar Beets,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0134,Irish Potatoes,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0139,"Field Crops, Except Cash Grain",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0161,Vegetables and Melons,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0171,Berry Crops,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0172,Grapes,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0173,Tree Nuts,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0174,Citrus Fruits,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0175,Deciduous Tree Fruits,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0179,"Fruits and Tree Nuts, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0181,Ornamental Nursery Products,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001408,Building Materials and Hardware,05,All Other
+0182,Food Crops Grown Under Cover,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0191,"General Farms, Primarily Crop",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0211,Beef Cattle Feedlots,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0212,"Beef Cattle, Except Feedlots",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0213,Hogs,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0214,Sheep and Goats,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0219,"General Livestock, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0241,Dairy Farms,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0251,"Broiler, fryer, and roaster chickens",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0252,Chicken Eggs,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0253,Turkeys and Turkey Eggs,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0254,Poultry Hatcheries,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0259,"Poultry and Eggs, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0271,Fur-bearing Animals and Rabbits,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0272,Horses and Other Equines,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0273,Animal Aquaculture,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0279,"Animal Specialties, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0291,"General Farms, Primarily animals",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0711,Soil Preparation Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0721,Crop Planting and Protection,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0722,Crop Harvesting,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0723,Crop preparation services for market,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0724,Cotton Ginning,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0741,Veterinary Services For Livestock,8000,Healthcare,800020,Animal Health,80002001,Animal Health,03,Retailing
+0742,"Veterinary Services, Specialties",8000,Healthcare,800020,Animal Health,80002001,Animal Health,03,Retailing
+0751,"Livestock services, except veterinary",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+0752,Animal Specialty Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+0761,Farm Labor Contractors,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+0762,Farm Management Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+0781,Landscape Counseling and Planning,6000,Professional Services,600022,"Engineering, Architecture, & Research",6000225B,"Engineering, Architecture, & Research",03,Retailing
+0782,Lawn and Garden Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+0783,Ornamental Shrub and Tree Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+0811,Timber Tracts,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0831,Forest Products,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0851,Forestry Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+0912,Finfish,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0913,Shellfish,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0919,Miscellaneous Marine Products,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0921,Fish Hatcheries and Preserves,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+0971,"Hunting, Trapping, Game Propagation",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+1001,Diversified Vehicles & Parts (INDUSTRY SEGMENT),2000,Diversified Vehicles & Parts,200045,Misc. Diversified Vehicles & Parts,2000450D,Misc. Diversified Vehicles & Parts,05,All Other
+1011,Iron Ores,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+1021,Copper Ores,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+1031,Lead and Zinc Ores,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+1041,Gold Ores,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+1044,Silver Ores,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+1061,"Ferroalloy Ores, Except Vanadium",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+1081,Metal Mining Services,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,04,Post-Sales And Supporting Services
+1094,Uranium-radium-vanadium Ores,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+1099,"Metal Ores, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+1221,Bituminous coal and lignite-surface mining,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1222,Bituminous Coal-underground Mining,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1231,Anthracite Mining,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1241,Coal Mining Services,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,04,Post-Sales And Supporting Services
+1311,Crude Petroleum and Natural Gas,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+1321,Natural Gas Liquids,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+1381,Drilling Oil and Gas Wells,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1382,Oil and Gas Exploration Services,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,04,Post-Sales And Supporting Services
+1389,"Oil and Gas Field Services, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,04,Post-Sales And Supporting Services
+1411,Dimension Stone,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1422,Crushed and Broken Limestone,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1423,Crushed and Broken Granite,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1429,"Crushed and Broken Stone, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1442,Construction Sand and Gravel,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1446,Industrial Sand,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1455,Kaolin and Ball Clay,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1459,"Clay and Related Minerals, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1474,"Potash, Soda, and Borate Minerals",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1475,Phosphate Rock,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1479,Chemical and Fertilizer Mining,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1481,Nonmetallic Mineral Services,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,04,Post-Sales And Supporting Services
+1499,Miscellaneous Nonmetallic Mining,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,05,All Other
+1521,Single-family Housing Construction,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1522,"Residential Construction, Nec",4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1531,Operative Builders,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1541,Industrial Buildings and Warehouses,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1542,"Nonresidential Construction, Nec",4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1611,Highway and Street Construction,4000,Industrial Products,400012,Construction,4000129A,Construction,05,All Other
+1622,"Bridge, tunnel, and elevated highway",4000,Industrial Products,400012,Construction,4000129A,Construction,05,All Other
+1623,"Water, Sewer, and Utility Lines",4000,Industrial Products,400012,Construction,4000129A,Construction,05,All Other
+1629,"Heavy Construction, Nec",4000,Industrial Products,400012,Construction,4000129A,Construction,05,All Other
+1711,"Plumbing, Heating, Air-conditioning",4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1721,Painting and Paper Hanging,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1731,Electrical Work,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1741,Masonry and Other Stonework,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1742,"Plastering, Drywall, and Insulation",4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1743,"Terrazzo, Tile, Marble, Mosaic Work",4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1751,Carpentry Work,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1752,"Floor Laying and Floor Work, Nec",4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1761,"Roofing, siding, and sheetmetal work",4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1771,Concrete Work,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1781,Water Well Drilling,4000,Industrial Products,400012,Construction,4000129A,Construction,05,All Other
+1791,Structural Steel Erection,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1793,Glass and Glazing Work,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1794,Excavation Work,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+1795,Wrecking and Demolition Work,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+1796,Installing Building Equipment,4000,Industrial Products,400012,Construction,4000129A,Construction,01,Manufacturing
+1799,"Special Trade Contractors, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2001,Industrial Manufacuring & Distribution (INDUSTRY SEGMENT),4000,Industrial Products,400051,Misc. Industrial Manufacturing & Distribution,4000516D,Misc. Industrial Manufacturing & Distribution,05,All Other
+2011,Meat Packing Plants,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2013,Sausages and Other Prepared Meats,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2015,Poultry Slaughtering and Processing,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2021,Creamery Butter,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2022,Cheese; Natural and Processed,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2023,"Dry, Condensed, Evaporated Products",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2024,Ice Cream and Frozen Deserts,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,01,Manufacturing
+2026,Fluid Milk,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2032,Canned Specialties,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2033,Canned Fruits and Specialties,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2034,"Dehydrated fruits, vegetables, soups",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2035,"Pickles, sauces, and salad dressings",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2037,Frozen Fruits and Vegetables,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2038,"Frozen Specialties, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2041,Flour and Other Grain Mill Products,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2043,Cereal Breakfast Foods,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2044,Rice Milling,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2045,Prepared Flour Mixes and Doughs,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2046,Wet Corn Milling,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2047,Dog and Cat Food,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2048,"Prepared Feeds, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2051,"Bread, Cake, and Related Products",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2052,Cookies and Crackers,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2053,"Frozen bakery products, except bread",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2061,Raw Cane Sugar,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2062,Cane Sugar Refining,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+2063,Beet Sugar,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2064,Candy and other confectionery products,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2066,Chocolate and Cocoa Products,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2067,Chewing Gum,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2068,Salted and Roasted Nuts and Seeds,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2074,Cottonseed Oil Mills,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+2075,Soybean Oil Mills,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2076,"Vegetable Oil Mills, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2077,Animal and Marine Fats and Oils,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2079,Edible Fats and Oils,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2082,Malt Beverages,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2083,Malt,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2084,"Wines, Brandy, and Brandy Spirits",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,03,Retailing
+2085,Distilled and Blended Liquors,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2086,Bottled and Canned Soft Drinks,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2087,"Flavoring Extracts and Syrups, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2091,Canned and Cured Fish and Seafoods,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2092,Fresh or Frozen Packaged Fish,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2095,Roasted Coffee,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2096,Potato Chips and Similar Snacks,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2097,Manufactured Ice,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2098,Macaroni and Spaghetti,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,01,Manufacturing
+2099,"Food Preparations, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2111,Cigarettes,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+2121,Cigars,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+2131,Chewing and Smoking Tobacco,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+2141,Tobacco Stemming and Redrying,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2211,"Broadwoven Fabric Mills, Cotton",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2221,"Broadwoven Fabric Mills, Manmade",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2231,"Broadwoven Fabric Mills, Wool",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2241,Narrow Fabric Mills,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2251,"Women's Hosiery, Except Socks",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2252,"Hosiery, Nec",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2253,Knit Outerwear Mills,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2254,Knit Underwear Mills,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2257,Weft Knit Fabric Mills,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2258,Lace and Warp Knit Fabric Mills,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2259,"Knitting Mills, Nec",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2261,"Finishing Plants, Cotton",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2262,"Finishing Plants, Manmade",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2269,"Finishing Plants, Nec",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2273,Carpets and Rugs,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001425,Furnishings,01,Manufacturing
+2281,Yarn Spinning Mills,4000,Industrial Products,400038,Industrial Textile,4000385C,Industrial Textile,01,Manufacturing
+2282,Throwing and Winding Mills,4000,Industrial Products,400038,Industrial Textile,4000385C,Industrial Textile,01,Manufacturing
+2284,Thread Mills,4000,Industrial Products,400038,Industrial Textile,4000385C,Industrial Textile,01,Manufacturing
+2295,"Coated Fabrics, Not Rubberized",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2296,Tire Cord and Fabrics,4000,Industrial Products,400038,Industrial Textile,4000385C,Industrial Textile,01,Manufacturing
+2297,Nonwoven Fabrics,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2298,Cordage and Twine,4000,Industrial Products,400038,Industrial Textile,4000385C,Industrial Textile,01,Manufacturing
+2299,"Textile Goods, Nec",4000,Industrial Products,400038,Industrial Textile,4000385C,Industrial Textile,01,Manufacturing
+2311,"Men's and Boy's Suits and Coats",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2321,"Men's and Boy's Furnishings",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2322,"Men's and boy's underwear and nightwear",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2323,"Men's and Boy's Neckwear",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2325,"Men's and Boy's Trousers and Slacks",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2326,"Men's and Boy's Work Clothing",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2329,"Men's and Boy's Clothing, Nec",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2331,"Women's and misses' blouses and shirts",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2335,"Women's, junior's, and misses' dresses",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2337,"Women's and Misses' Suits and Coats",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2339,"Women's and Misses' Outerwear, Nec",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2341,"Women's and Children's Underwear",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2342,"Bras, Girdles, and Allied Garments",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2353,"Hats, Caps, and Millinery",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2361,"Girl's and children's dresses, blouses",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2369,"Girl's and children's outerwear, nec",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2371,Fur Goods,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2381,Fabric Dress and Work Gloves,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2384,Robes and Dressing Gowns,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2385,Waterproof Outerwear,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2386,Leather and Sheep-lined Clothing,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2387,Apparel Belts,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2389,"Apparel and Accessories, Nec",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+2391,Curtains and Draperies,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001425,Furnishings,01,Manufacturing
+2392,"Household Furnishings, Nec",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001425,Furnishings,01,Manufacturing
+2393,Textile Bags,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+2394,Canvas and Related Products,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+2395,Pleating and Stitching,4000,Industrial Products,400038,Industrial Textile,4000385C,Industrial Textile,01,Manufacturing
+2396,Automotive and Apparel Trimmings,4000,Industrial Products,400038,Industrial Textile,4000385C,Industrial Textile,01,Manufacturing
+2397,Schiffli Machine Embroideries,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2399,"Fabricated Textile Products, Nec",4000,Industrial Products,400038,Industrial Textile,4000385C,Industrial Textile,01,Manufacturing
+2411,Logging,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+2421,"Sawmills and Planing Mills, General",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2426,Hardwood dimension and flooring mills,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2429,"Special Product Sawmills, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2431,Millwork,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2434,Wood Kitchen Cabinets,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2435,Hardwood Veneer and Plywood,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2436,Softwood Veneer and Plywood,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2439,"Structural Wood Members, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2441,Nailed Wood Boxes and Shook,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2448,Wood Pallets and Skids,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2449,"Wood Containers, Nec",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2451,Mobile Homes,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2452,Prefabricated Wood Buildings,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2491,Wood Preserving,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2493,Reconstituted Wood Products,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2499,"Wood Products, Nec",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2511,Wood Household Furniture,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2512,Upholstered Household Furniture,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2514,Metal Household Furniture,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2515,Mattresses and Bedsprings,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2517,Wood Television and Radio Cabinets,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2519,"Household Furniture, Nec",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2521,Wood Office Furniture,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2522,"Office Furniture, Except Wood",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2531,Public building and related furniture,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2541,Wood Partitions and Fixtures,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2542,"Partitions and fixtures, except wood",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2591,Drapery hardware and blinds and shades,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001425,Furnishings,01,Manufacturing
+2599,"Furniture and Fixtures, Nec",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+2611,Pulp Mills,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2621,Paper Mills,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2631,Paperboard Mills,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2652,Setup Paperboard Boxes,6000,Professional Services,600003,Printing & Packaging,6000031A,Packaging,01,Manufacturing
+2653,Corrugated and Solid Fiber Boxes,6000,Professional Services,600003,Printing & Packaging,6000031A,Packaging,01,Manufacturing
+2655,"Fiber cans, drums, and similar products",6000,Professional Services,600003,Printing & Packaging,6000031A,Packaging,01,Manufacturing
+2656,Sanitary Food Containers,6000,Professional Services,600003,Printing & Packaging,6000031A,Packaging,01,Manufacturing
+2657,Folding Paperboard Boxes,6000,Professional Services,600003,Printing & Packaging,6000031A,Packaging,01,Manufacturing
+2671,Paper; coated and laminated packaging,6000,Professional Services,600003,Printing & Packaging,6000031A,Packaging,01,Manufacturing
+2672,"Paper; Coated and Laminated, Nec",6000,Professional Services,600003,Printing & Packaging,6000031A,Packaging,01,Manufacturing
+2673,"Bags: plastic, laminated, and coated",6000,Professional Services,600003,Printing & Packaging,6000031A,Packaging,01,Manufacturing
+2674,Bags: Uncoated Paper and Multiwall,6000,Professional Services,600003,Printing & Packaging,6000031A,Packaging,01,Manufacturing
+2675,Die-cut Paper and Board,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2676,Sanitary Paper Products,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2677,Envelopes,6000,Professional Services,600003,Printing & Packaging,6000031A,Packaging,01,Manufacturing
+2678,Stationery Products,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2679,"Converted Paper Products, Nec",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+2711,Newspapers,6000,Professional Services,600061,Publishing,6000615E,Publishing,01,Manufacturing
+2721,Periodicals,6000,Professional Services,600061,Publishing,6000615E,Publishing,01,Manufacturing
+2731,Book Publishing,6000,Professional Services,600061,Publishing,6000615E,Publishing,01,Manufacturing
+2732,Book Printing,6000,Professional Services,600003,Printing & Packaging,6000031B,Printing,01,Manufacturing
+2741,Miscellaneous Publishing,6000,Professional Services,600061,Publishing,6000615E,Publishing,01,Manufacturing
+2752,"Commercial Printing, Lithographic",6000,Professional Services,600003,Printing & Packaging,6000031B,Printing,01,Manufacturing
+2754,"Commercial Printing, Gravure",6000,Professional Services,600003,Printing & Packaging,6000031B,Printing,01,Manufacturing
+2759,"Commercial Printing, Nec",6000,Professional Services,600003,Printing & Packaging,6000031B,Printing,01,Manufacturing
+2761,Manifold Business Forms,6000,Professional Services,600003,Printing & Packaging,6000031B,Printing,01,Manufacturing
+2771,Greeting Cards,6000,Professional Services,600061,Publishing,6000615E,Publishing,01,Manufacturing
+2782,Blankbooks and Looseleaf Binders,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+2789,Bookbinding and Related Work,6000,Professional Services,600003,Printing & Packaging,6000031B,Printing,01,Manufacturing
+2791,Typesetting,6000,Professional Services,600003,Printing & Packaging,6000031B,Printing,01,Manufacturing
+2796,Platemaking Services,6000,Professional Services,600003,Printing & Packaging,6000031B,Printing,01,Manufacturing
+2812,Alkalies and Chlorine,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2813,Industrial Gases,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2816,Inorganic Pigments,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2819,"Industrial Inorganic Chemicals, Nec",4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2821,Plastics Materials and Resins,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2822,Synthetic Rubber,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2823,Cellulosic Manmade Fibers,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2824,"Organic Fibers, Noncellulosic",4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2833,Medicinals and Botanicals,8000,Healthcare,800024,Nutraceutical,80002401,Nutraceutical,01,Manufacturing
+2834,Pharmaceutical Preparations,8000,Healthcare,800026,"Pharma, BioPharma & Specialty Drugs",80002601,Pharma,01,Manufacturing
+2835,Diagnostic Substances,8000,Healthcare,800026,"Pharma, BioPharma & Specialty Drugs",80002601,Pharma,01,Manufacturing
+2836,"Biological products, except diagnostic",8000,Healthcare,800026,"Pharma, BioPharma & Specialty Drugs",80002602,Bio Pharma,01,Manufacturing
+2841,Soap and Other Detergents,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2842,Polishes and Sanitation Goods,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2843,Surface Active Agents,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2844,Toilet Preparations,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2851,Paints and Allied Products,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2861,Gum and Wood Chemicals,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2865,Cyclic Crudes and Intermediates,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2869,"Industrial Organic Chemicals, Nec",4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2873,Nitrogenous Fertilizers,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2874,Phosphatic Fertilizers,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2875,"Fertilizers, Mixing Only",4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2879,"Agricultural Chemicals, Nec",4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2891,Adhesives and Sealants,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2892,Explosives,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+2893,Printing Ink,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2895,Carbon Black,4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2899,"Chemical Preparations, Nec",4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,01,Manufacturing
+2911,Petroleum Refining,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,01,Manufacturing
+2951,Asphalt Paving Mixtures and Blocks,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2952,Asphalt Felts and Coatings,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2992,Lubricating Oils and Greases,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+2999,"Petroleum and Coal Products, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3001,High Tech (INDUSTRY SEGMENT),3000,High Tech,300048,Misc. High Tech,3000483D,Misc. High Tech,05,All Other
+3011,Tires and Inner Tubes,2000,Diversified Vehicles & Parts,200072,Tier 1 - 5 Parts Manufacturing,2000729E,Tier 1 - 5 Parts Manufacturing,01,Manufacturing
+3021,Rubber and Plastics Footwear,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3052,Rubber and plastics hose and beltings,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3053,Gaskets; packing and sealing devices,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3061,Mechanical Rubber Goods,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3069,"Fabricated Rubber Products, Nec",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3081,Unsupported Plastics Film and Sheet,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3082,Unsupported Plastics Profile Shapes,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3083,Laminated Plastics Plate and Sheet,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3084,Plastics Pipe,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3085,Plastics Bottles,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3086,Plastics Foam Products,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3087,Custom Compound Purchased Resins,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3088,Plastics Plumbing Fixtures,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3089,"Plastics Products, Nec",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3111,Leather Tanning and Finishing,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3131,Footwear Cut Stock,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3142,House Slippers,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3143,"Men's Footwear, Except athletic",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3144,"Women's Footwear, Except athletic",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3149,"Footwear, Except Rubber, Nec",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3151,Leather Gloves and Mittens,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3161,Luggage,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3171,"Women's Handbags and Purses",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3172,"Personal Leather Goods, Nec",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3199,"Leather Goods, Nec",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3211,Flat Glass,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3221,Glass Containers,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3229,"Pressed and Blown Glass, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3231,Products of Purchased Glass,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3241,"Cement, Hydraulic",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3251,Brick and Structural Clay Tile,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3253,Ceramic Wall and Floor Tile,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3255,Clay Refractories,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3259,"Structural Clay Products, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3261,Vitreous Plumbing Fixtures,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001425,Furnishings,01,Manufacturing
+3262,Vitreous china table and kitchenware,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001425,Furnishings,01,Manufacturing
+3263,Semivitreous Table and Kitchenware,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001425,Furnishings,01,Manufacturing
+3264,Porcelain Electrical Supplies,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3269,"Pottery Products, Nec",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001425,Furnishings,01,Manufacturing
+3271,Concrete Block and Brick,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3272,"Concrete Products, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3273,Ready-mixed Concrete,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3274,Lime,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3275,Gypsum Products,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3281,Cut Stone and Stone Products,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3291,Abrasive Products,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3292,Asbestos Products,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3295,"Minerals, Ground or Treated",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+3296,Mineral Wool,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3297,Nonclay Refractories,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3299,"Nonmetallic Mineral Products,",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3312,Blast Furnaces and Steel Mills,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3313,Electrometallurgical Products,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3315,Steel Wire and Related Products,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3316,Cold Finishing of Steel Shapes,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3317,Steel Pipe and Tubes,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3321,Gray and Ductile Iron Foundries,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3322,Malleable Iron Foundries,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3324,Steel Investment Foundries,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3325,"Steel Foundries, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3331,Primary Copper,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3334,Primary Aluminum,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3339,"Primary Nonferrous Metals, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3341,Secondary Nonferrous Metals,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3351,Copper Rolling and Drawing,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3353,"Aluminum Sheet, Plate, and Foil",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3354,Aluminum Extruded Products,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3355,"Aluminum Rolling and Drawing, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3356,"Nonferrous Rolling and Drawing, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3357,Nonferrous wiredrawing and insulating,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3363,Aluminum Die-castings,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3364,Nonferrous die-castings except aluminum,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3365,Aluminum Foundries,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3366,Copper Foundries,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3369,"Nonferrous Foundries, Nec",4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3398,Metal Heat Treating,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3399,Primary Metal Products,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,01,Manufacturing
+3411,Metal Cans,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3412,"Metal Barrels, Drums, and Pails",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3421,Cutlery,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001425,Furnishings,01,Manufacturing
+3423,"Hand and Edge Tools, Nec",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3425,Saw Blades and Handsaws,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001408,Building Materials and Hardware,01,Manufacturing
+3429,"Hardware, Nec",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3431,Metal Sanitary Ware,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3432,Plumbing Fixture Fittings and Trim,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3433,"Heating Equipment, Except Electric",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3441,Fabricated Structural Metal,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3442,"Metal Doors, Sash, and Trim",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3443,Fabricated Plate Work (boiler Shop),4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3444,Sheet Metalwork,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3446,Architectural Metalwork,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3448,Prefabricated Metal Buildings,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3449,Miscellaneous Metalwork,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3451,Screw Machine Products,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3452,"Bolts, Nuts, Rivets, and Washers",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3462,Iron and Steel Forgings,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3463,Nonferrous Forgings,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3465,Automotive Stampings,2000,Diversified Vehicles & Parts,200072,Tier 1 - 5 Parts Manufacturing,2000729E,Tier 1 - 5 Parts Manufacturing,01,Manufacturing
+3466,Crowns and Closures,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3469,"Metal Stampings, Nec",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3471,Plating and Polishing,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3479,Metal Coating and Allied Services,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3482,Small Arms Ammunition,4000,Industrial Products,400025,Small arms & Ammunition,40002501,Ammunition,01,Manufacturing
+3483,"Ammunition, except for small arms, nec",4000,Industrial Products,400025,Small arms & Ammunition,40002501,Ammunition,01,Manufacturing
+3484,Small Arms,4000,Industrial Products,400025,Small arms & Ammunition,40002502,Small Arms,01,Manufacturing
+3489,"Ordnance and Accessories, Nec",4000,Industrial Products,400025,Small arms & Ammunition,40002502,Small Arms,01,Manufacturing
+3491,Industrial Valves,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3492,Fluid power valves and hose fittings,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3493,"Steel Springs, Except Wire",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3494,"Valves and Pipe Fittings, Nec",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3495,Wire Springs,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3496,Miscellaneous fabricated wire products,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3497,Metal Foil and Leaf,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3498,Fabricated Pipe and Fittings,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3499,"Fabricated Metal Products, Nec",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3511,Turbines and Turbine Generator Sets,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3519,"Internal Combustion Engines, Nec",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3523,Farm Machinery and Equipment,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3524,Lawn and Garden Equipment,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3531,Construction Machinery,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3532,Mining Machinery,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3533,Oil and Gas Field Machinery,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3534,Elevators and Moving Stairways,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3535,Conveyors and Conveying Equipment,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3536,"Hoists, Cranes, and Monorails",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3537,Industrial Trucks and Tractors,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3541,"Machine Tools, Metal Cutting Type",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3542,"Machine Tools, Metal Forming Type",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3543,Industrial Patterns,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3544,"Special dies, tools, jigs, and fixtures",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3545,Machine Tool Accessories,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3546,Power-driven Handtools,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3547,Rolling Mill Machinery,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3548,Welding Apparatus,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3549,"Metalworking Machinery, Nec",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3552,Textile Machinery,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3553,Woodworking Machinery,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3554,Paper Industries Machinery,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3555,Printing Trades Machinery,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3556,Food Products Machinery,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3559,"Special Industry Machinery, Nec",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3561,Pumps and Pumping Equipment,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3562,Ball and Roller Bearings,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3563,Air and Gas Compressors,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3564,Blowers and Fans,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3565,Packaging Machinery,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3566,"Speed Changers, Drives, and Gears",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3567,Industrial Furnaces and Ovens,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3568,"Power Transmission Equipment, Nec",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3569,"General Industrial Machinery,",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3571,Electronic Computers,3000,High Tech,300011,Computers and Peripherals,3000118A,Computers and Peripherals,01,Manufacturing
+3572,Computer Storage Devices,3000,High Tech,300011,Computers and Peripherals,3000118A,Computers and Peripherals,01,Manufacturing
+3575,Computer Terminals,3000,High Tech,300011,Computers and Peripherals,3000118A,Computers and Peripherals,01,Manufacturing
+3577,"Computer Peripheral Equipment, Nec",3000,High Tech,300011,Computers and Peripherals,3000118A,Computers and Peripherals,01,Manufacturing
+3578,Calculating and accounting equipment,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3579,"Office Machines, Nec",3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3581,Automatic Vending Machines,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3582,Commercial Laundry Equipment,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3585,Refrigeration and Heating Equipment,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3586,Measuring and Dispensing Pumps,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3589,"Service Industry Machinery, Nec",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3592,"Carburetors, Pistons, Rings, Valves",2000,Diversified Vehicles & Parts,200072,Tier 1 - 5 Parts Manufacturing,2000729E,Tier 1 - 5 Parts Manufacturing,01,Manufacturing
+3593,Fluid Power Cylinders and Actuators,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3594,Fluid Power Pumps and Motors,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3596,"Scales and balances, except laboratory",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3599,"Industrial Machinery, Nec",4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3612,"Transformers, Except Electric",4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3613,Switchgear and switchboard apparatus,4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3621,Motors and Generators,4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3624,Carbon and Graphite Products,4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3625,Relays and Industrial Controls,4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3629,Electrical Industrial Apparatus,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3631,Household Cooking Equipment,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001406,Appliances,01,Manufacturing
+3632,Household refrigerators and freezers,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001406,Appliances,01,Manufacturing
+3633,Household Laundry Equipment,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3634,Electric Housewares and Fans,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3635,Household Vacuum Cleaners,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001406,Appliances,01,Manufacturing
+3639,"Household Appliances, Nec",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001406,Appliances,01,Manufacturing
+3641,Electric Lamps,4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3643,Current-carrying Wiring Devices,4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3644,Noncurrent-carrying Wiring Devices,4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3645,Residential Lighting Fixtures,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001425,Furnishings,01,Manufacturing
+3646,Commercial Lighting Fixtures,4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3647,Vehicular Lighting Equipment,2000,Diversified Vehicles & Parts,200072,Tier 1 - 5 Parts Manufacturing,2000729E,Tier 1 - 5 Parts Manufacturing,01,Manufacturing
+3648,"Lighting Equipment, Nec",4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3651,Household Audio and Video Equipment,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3652,Prerecorded Records and Tapes,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3661,Telephone and Telegraph Apparatus,3000,High Tech,300070,Telecommunications and Broadcasting,30007057,Telecom and Broadcasting Manufacturing,01,Manufacturing
+3663,Radio and t.v. communications equipment,3000,High Tech,300070,Telecommunications and Broadcasting,30007057,Telecom and Broadcasting Manufacturing,01,Manufacturing
+3669,"Communications Equipment, Nec",3000,High Tech,300070,Telecommunications and Broadcasting,30007057,Telecom and Broadcasting Manufacturing,01,Manufacturing
+3671,Electron Tubes,3000,High Tech,300066,Semiconductors and Components,30006614,Components,01,Manufacturing
+3672,Printed Circuit Boards,3000,High Tech,300066,Semiconductors and Components,30006614,Components,01,Manufacturing
+3674,Semiconductors and Related Devices,3000,High Tech,300066,Semiconductors and Components,30006655,Semiconductors,01,Manufacturing
+3675,Electronic Capacitors,3000,High Tech,300066,Semiconductors and Components,30006614,Components,01,Manufacturing
+3676,Electronic Resistors,3000,High Tech,300066,Semiconductors and Components,30006614,Components,01,Manufacturing
+3677,Electronic Coils and Transformers,3000,High Tech,300066,Semiconductors and Components,30006614,Components,01,Manufacturing
+3678,Electronic Connectors,3000,High Tech,300066,Semiconductors and Components,30006614,Components,01,Manufacturing
+3679,"Electronic Components, Nec",3000,High Tech,300066,Semiconductors and Components,30006614,Components,01,Manufacturing
+3691,Storage Batteries,4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3692,"Primary Batteries, Dry and Wet",4000,Industrial Products,400036,Industrial Components,4000363C,Industrial Components,01,Manufacturing
+3694,Engine Electrical Equipment,2000,Diversified Vehicles & Parts,200072,Tier 1 - 5 Parts Manufacturing,2000729E,Tier 1 - 5 Parts Manufacturing,01,Manufacturing
+3695,Magnetic and optical recording media,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3699,"Electrical equipment and supplies, nec",3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3711,Motor Vehicles and Car Bodies,2000,Diversified Vehicles & Parts,200026,Finished Vehicle Manufacturers,2000268B,Finished Vehicle Manufacturers,01,Manufacturing
+3713,Truck and Bus Bodies,2000,Diversified Vehicles & Parts,200026,Finished Vehicle Manufacturers,2000268B,Finished Vehicle Manufacturers,01,Manufacturing
+3714,Motor Vehicle Parts and Accessories,2000,Diversified Vehicles & Parts,200072,Tier 1 - 5 Parts Manufacturing,2000729E,Tier 1 - 5 Parts Manufacturing,01,Manufacturing
+3715,Truck Trailers,2000,Diversified Vehicles & Parts,200026,Finished Vehicle Manufacturers,2000268B,Finished Vehicle Manufacturers,01,Manufacturing
+3716,Motor Homes,2000,Diversified Vehicles & Parts,200026,Finished Vehicle Manufacturers,2000268B,Finished Vehicle Manufacturers,01,Manufacturing
+3721,Aircraft,2000,Diversified Vehicles & Parts,200003,Aerospace Industry,2000031A,Aerospace Industry,01,Manufacturing
+3724,Aircraft Engines and Engine Parts,2000,Diversified Vehicles & Parts,200003,Aerospace Industry,2000031A,Aerospace Industry,01,Manufacturing
+3728,"Aircraft Parts and Equipment, Nec",2000,Diversified Vehicles & Parts,200003,Aerospace Industry,2000031A,Aerospace Industry,01,Manufacturing
+3731,Shipbuilding and Repairing,2000,Diversified Vehicles & Parts,200026,Finished Vehicle Manufacturers,2000268B,Finished Vehicle Manufacturers,01,Manufacturing
+3732,Boatbuilding and Repairing,2000,Diversified Vehicles & Parts,200026,Finished Vehicle Manufacturers,2000268B,Finished Vehicle Manufacturers,01,Manufacturing
+3743,Railroad Equipment,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,01,Manufacturing
+3751,"Motorcycles, Bicycles, and Parts",2000,Diversified Vehicles & Parts,200072,Tier 1 - 5 Parts Manufacturing,2000729E,Tier 1 - 5 Parts Manufacturing,01,Manufacturing
+3761,Guided Missiles and Space Vehicles,2000,Diversified Vehicles & Parts,200003,Aerospace Industry,2000031A,Aerospace Industry,01,Manufacturing
+3764,Space Propulsion Units and Parts,2000,Diversified Vehicles & Parts,200003,Aerospace Industry,2000031A,Aerospace Industry,01,Manufacturing
+3769,"Space Vehicle Equipment, Nec",2000,Diversified Vehicles & Parts,200003,Aerospace Industry,2000031A,Aerospace Industry,01,Manufacturing
+3792,Travel Trailers and Campers,2000,Diversified Vehicles & Parts,200026,Finished Vehicle Manufacturers,2000268B,Finished Vehicle Manufacturers,01,Manufacturing
+3795,Tanks and Tank Components,2000,Diversified Vehicles & Parts,200072,Tier 1 - 5 Parts Manufacturing,2000729E,Tier 1 - 5 Parts Manufacturing,01,Manufacturing
+3799,"Transportation Equipment, Nec",2000,Diversified Vehicles & Parts,200072,Tier 1 - 5 Parts Manufacturing,2000729E,Tier 1 - 5 Parts Manufacturing,01,Manufacturing
+3812,Search and Navigation Equipment,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3821,Laboratory Apparatus and Furniture,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001426,Furniture,01,Manufacturing
+3822,Environmental Controls,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3823,Process Control Instruments,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3824,Fluid Meters and Counting Devices,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3825,Instruments To Measure Electricity,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3826,Analytical Instruments,8000,Healthcare,800023,Medical Device & Supplies,80002302,In-Vitro Diagnostics (IVD),01,Manufacturing
+3827,Optical Instruments and Lenses,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3829,"Measuring and controlling devices, nec",3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3841,Surgical and Medical Instruments,8000,Healthcare,800023,Medical Device & Supplies,80002301,Medical Device & Supplies General,01,Manufacturing
+3842,Surgical Appliances and Supplies,8000,Healthcare,800023,Medical Device & Supplies,80002303,Implantable Medical Device,01,Manufacturing
+3843,Dental Equipment and Supplies,8000,Healthcare,800022,Labs & Clinical Trials,80002201,Labs Dental,01,Manufacturing
+3844,X-ray Apparatus and Tubes,8000,Healthcare,800023,Medical Device & Supplies,80002301,Medical Device & Supplies General,01,Manufacturing
+3845,Electromedical Equipment,8000,Healthcare,800023,Medical Device & Supplies,80002301,Medical Device & Supplies General,01,Manufacturing
+3851,Ophthalmic Goods,8000,Healthcare,800025,Optical,80002501,Optical,01,Manufacturing
+3861,Photographic Equipment and Supplies,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3873,"Watches, clocks, watchcases, and parts",3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,01,Manufacturing
+3911,"Jewelry, Precious Metal",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3914,Silverware and Plated Ware,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3915,"Jewelers' materials and lapidary work",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3931,Musical Instruments,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3942,Dolls and Stuffed Toys,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3944,"Games, toys, and children's vehicles",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3949,"Sporting and athletic Goods, Nec",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3951,Pens and Mechanical Pencils,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3952,Lead Pencils and Art Goods,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3953,Marking Devices,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3955,Carbon Paper and Inked Ribbons,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3961,Costume Jewelry,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3965,"Fasteners, buttons, needles, and pins",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,01,Manufacturing
+3991,Brooms and Brushes,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3993,Signs and Advertising Specialties,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3995,Burial Caskets,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+3996,"Hard Surface Floor Coverings, Nec",4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+3999,"Manufacturing Industries, Nec",5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001456,Specialty Retail,01,Manufacturing
+4001,Fulfillment Distribution (INDUSTRY SEGMENT),9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4011,"Railroads, Line-haul Operating",9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4013,Switching and Terminal Services,9900,Other,990001,Fulfillment,9900010A,Fulfillment,04,Post-Sales And Supporting Services
+4111,Local and Suburban Transit,2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4119,"Local Passenger Transportation, Nec",2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4121,Taxicabs,2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4131,Intercity and rural bus transportation,2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4141,Local Bus Charter Service,2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4142,"Bus Charter Service, Except Local",2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4151,School Buses,2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4173,Bus Terminal and Service Facilities,9900,Other,990001,Fulfillment,9900010A,Fulfillment,04,Post-Sales And Supporting Services
+4212,"Local Trucking, Without Storage",9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4213,"Trucking, Except Local",9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4214,Local Trucking With Storage,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4215,"Courier Services, Except By Air",9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4221,Farm product warehousing and storage,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4222,Refrigerated warehousing and storage,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4225,General Warehousing and Storage,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4226,"Special warehousing and storage, nec",9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4231,Trucking Terminal Facilities,9900,Other,990001,Fulfillment,9900010A,Fulfillment,04,Post-Sales And Supporting Services
+4311,U.S. Postal Service,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4412,Deep sea foreign transportation of freight,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4424,Deep sea domestic transportation of freight,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4432,Freight transportation on the great lakes,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4449,Water Transportation of Freight,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4481,"Deep sea passenger transportation, except ferry",2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4482,Ferries,2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4489,Water Passenger Transportation,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+4491,Marine Cargo Handling,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4492,Towing and Tugboat Service,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4493,Marinas,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+4499,"Water Transportation Services, Nec",9900,Other,990001,Fulfillment,9900010A,Fulfillment,04,Post-Sales And Supporting Services
+4512,"Air Transportation, Scheduled",2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4513,Air Courier Services,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4522,"Air Transportation, Nonscheduled",2000,Diversified Vehicles & Parts,200073,Passenger Transportation,2000731A,Passenger Transportation,05,All Other
+4581,"Airports, flying fields, and services",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+4612,Crude Petroleum Pipelines,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4613,Refined Petroleum Pipelines,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4619,"Pipelines, Nec",4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4724,Travel Agencies,6000,Professional Services,600024,Hospitality,6000240C,Tourism,03,Retailing
+4725,Tour Operators,6000,Professional Services,600024,Hospitality,6000240C,Tourism,03,Retailing
+4729,Passenger transportation arrangement,6000,Professional Services,600024,Hospitality,6000240C,Tourism,03,Retailing
+4731,Freight Transportation Arrangement,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4741,Rental of Railroad Cars,9900,Other,990001,Fulfillment,9900010A,Fulfillment,04,Post-Sales And Supporting Services
+4783,Packing and Crating,9900,Other,990001,Fulfillment,9900010A,Fulfillment,05,All Other
+4785,Inspection and Fixed Facilities,9900,Other,990001,Fulfillment,9900010A,Fulfillment,04,Post-Sales And Supporting Services
+4789,"Transportation Services, Nec",9900,Other,990001,Fulfillment,9900010A,Fulfillment,04,Post-Sales And Supporting Services
+4812,Radiotelephone Communication,3000,High Tech,300070,Telecommunications and Broadcasting,30007058,Telecom and Broadcasting Services,03,Retailing
+4813,"Telephone communication, except radio",3000,High Tech,300070,Telecommunications and Broadcasting,30007058,Telecom and Broadcasting Services,03,Retailing
+4822,Telegraph and Other Communications,3000,High Tech,300070,Telecommunications and Broadcasting,30007058,Telecom and Broadcasting Services,03,Retailing
+4832,Radio Broadcasting Stations,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+4833,Television Broadcasting Stations,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+4841,Cable and other pay television services,3000,High Tech,300070,Telecommunications and Broadcasting,30007058,Telecom and Broadcasting Services,03,Retailing
+4899,"Communication Services, Nec",3000,High Tech,300070,Telecommunications and Broadcasting,30007058,Telecom and Broadcasting Services,03,Retailing
+4911,Electric Services,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4922,Natural Gas Transmission,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4923,Gas Transmission and Distribution,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4924,Natural Gas Distribution,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4925,Gas Production and/or Distribution,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4931,Electric and other services combined,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4932,Gas and Other Services Combined,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4939,"Combination Utilities, Nec",4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,05,All Other
+4941,Water Supply,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+4952,Sewerage Systems,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+4953,Refuse Systems,9900,Other,990073,Utilities,9900730F,Utilities,05,All Other
+4959,"Sanitary Services, Nec",9900,Other,990073,Utilities,9900730F,Utilities,03,Retailing
+4961,Steam and Air-conditioning Supply,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+4971,Irrigation Systems,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+5001,Retail & Consumer Goods (INDUSTRY SEGMENT),5000,Apparel and Consumer Goods,500050,Misc. Retail,5000505D,Misc. Retail,05,All Other
+5012,Automobiles and other motor vehicles,2000,Diversified Vehicles & Parts,200016,Dealerships,2000160B,Dealerships,02,Wholesaling
+5013,Motor vehicle supplies and new parts,2000,Diversified Vehicles & Parts,200020,Automotive Sales & Distribution,20002001,Automotive Sales & Distribution,02,Wholesaling
+5014,Tires and Tubes,2000,Diversified Vehicles & Parts,200020,Automotive Sales & Distribution,20002001,Automotive Sales & Distribution,02,Wholesaling
+5015,"Motor Vehicle Parts, Used",2000,Diversified Vehicles & Parts,200020,Automotive Sales & Distribution,20002001,Automotive Sales & Distribution,02,Wholesaling
+5021,Furniture,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001526,Furniture,02,Wholesaling
+5023,Homefurnishings,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001525,Furnishings,02,Wholesaling
+5031,"Lumber, Plywood, and Millwork",4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5032,"Brick, Stone, and Related Material",4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5033,"Roofing, Siding, and Insulation",4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5039,"Construction Materials, Nec",4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5043,Photographic Equipment and Supplies,3000,High Tech,300030,High Tech Equipment and Devices,30003032,Manufacturing,02,Wholesaling
+5044,Office Equipment,3000,High Tech,300030,High Tech Equipment and Devices,30003061,Wholesale,02,Wholesaling
+5045,"Computers, peripherals, and software",3000,High Tech,300011,Computers and Peripherals,3000118A,Computers and Peripherals,02,Wholesaling
+5046,"Commercial Equipment, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+5047,Medical and Hospital Equipment,8000,Healthcare,800023,Medical Device & Supplies,80002301,Medical Device & Supplies General,02,Wholesaling
+5048,Ophthalmic Goods,8000,Healthcare,800025,Optical,80002501,Optical,02,Wholesaling
+5049,"Professional Equipment, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+5051,Metals Service Centers and Offices,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,02,Wholesaling
+5052,Coal and Other Minerals and Ores,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+5063,Electrical Apparatus and Equipment,3000,High Tech,300030,High Tech Equipment and Devices,30003061,Wholesale,02,Wholesaling
+5064,"Electrical appliances, television and radio",3000,High Tech,300030,High Tech Equipment and Devices,30003061,Wholesale,02,Wholesaling
+5065,"Electronic Parts and Equipment, Nec",3000,High Tech,300030,High Tech Equipment and Devices,30003061,Wholesale,02,Wholesaling
+5072,Hardware,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001508,Building Materials and Hardware,02,Wholesaling
+5074,Plumbing and hydronic heating supplies,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5075,Warm air heating and air conditioning,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5078,Refrigeration equipment and supplies,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5082,Construction and Mining Machinery,4000,Industrial Products,400012,Construction,4000129A,Construction,02,Wholesaling
+5083,Farm and Garden Machinery,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5084,Industrial Machinery and Equipment,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5085,Industrial Supplies,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5087,Service Establishment Equipment,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5088,Transportation equipment and supplies,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5091,Sporting and Recreation Goods,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001556,Specialty Retail,02,Wholesaling
+5092,Toys and Hobby Goods and Supplies,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001556,Specialty Retail,02,Wholesaling
+5093,Scrap and Waste Materials,4000,Industrial Products,400062,Raw Materials Manufacturing,4000626E,Raw Materials Manufacturing,02,Wholesaling
+5094,Jewelry and Precious Stones,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001556,Specialty Retail,02,Wholesaling
+5099,"Durable Goods, Nec",5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001556,Specialty Retail,02,Wholesaling
+5111,Printing and Writing Paper,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5112,Stationery and Office Supplies,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5113,Industrial and personal service paper,4000,Industrial Products,400037,Industrial Distributor,4000374C,Industrial Distributor,02,Wholesaling
+5122,"Drugs, Proprietaries, and Sundries",8000,Healthcare,800026,"Pharma, BioPharma & Specialty Drugs",80002601,Pharma,02,Wholesaling
+5131,Piece Goods and Notions,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,02,Wholesaling
+5136,"Men's and Boy's Clothing",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,02,Wholesaling
+5137,"Women's and Children's Clothing",5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,02,Wholesaling
+5139,Footwear,5000,Apparel and Consumer Goods,500004,Apparel Manufacturers,5000042A,Apparel Manufacturers,02,Wholesaling
+5141,"Groceries, General Line",5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5142,Packaged Frozen Goods,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5143,"Dairy products, except dried or canned",5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5144,Poultry and Poultry Products,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5145,Confectionery,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5146,Fish and Seafoods,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5147,Meats and Meat Products,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5148,Fresh Fruits and Vegetables,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5149,"Groceries and Related Products, Nec",5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5153,Grain and Field Beans,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5154,Livestock,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5159,"Farm-product Raw Materials, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+5162,Plastics Materials and Basic Shapes,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001556,Specialty Retail,02,Wholesaling
+5169,"Chemicals and Allied Products, Nec",4000,Industrial Products,400009,Chemicals,4000096A,Chemicals,02,Wholesaling
+5171,Petroleum bulk stations and terminals,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,02,Wholesaling
+5172,"Petroleum Products, Nec",4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,02,Wholesaling
+5181,Beer and Ale,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5182,Wine and Distilled Beverages,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001523,Food,02,Wholesaling
+5191,Farm Supplies,5000,Apparel and Consumer Goods,500008,"Bldg Materials, Hardware, & Garden Supply Stores",5000085A,"Bldg Materials, Hardware, & Garden Supply Stores",02,Wholesaling
+5192,"Books, Periodicals, and Newspapers",5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001556,Specialty Retail,02,Wholesaling
+5193,Flowers and Florists Supplies,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001556,Specialty Retail,02,Wholesaling
+5194,Tobacco and Tobacco Products,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001556,Specialty Retail,02,Wholesaling
+5198,"Paints, Varnishes, and Supplies",5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001508,Building Materials and Hardware,02,Wholesaling
+5199,"Nondurable Goods, Nec",5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001556,Specialty Retail,02,Wholesaling
+5211,Lumber and Other Building Materials,5000,Apparel and Consumer Goods,500015,Consumer Goods Wholesalers,50001508,Building Materials and Hardware,03,Retailing
+5231,"Paint, Glass, and Wallpaper Stores",5000,Apparel and Consumer Goods,500008,"Bldg Materials, Hardware, & Garden Supply Stores",5000085A,"Bldg Materials, Hardware, & Garden Supply Stores",03,Retailing
+5251,Hardware Stores,5000,Apparel and Consumer Goods,500008,"Bldg Materials, Hardware, & Garden Supply Stores",5000085A,"Bldg Materials, Hardware, & Garden Supply Stores",03,Retailing
+5261,Retail Nurseries and Garden Stores,5000,Apparel and Consumer Goods,500008,"Bldg Materials, Hardware, & Garden Supply Stores",5000085A,"Bldg Materials, Hardware, & Garden Supply Stores",03,Retailing
+5271,Mobile Home Dealers,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,03,Retailing
+5311,Department Stores,5000,Apparel and Consumer Goods,500028,General Merchandise Stores,5000289B,General Merchandise Stores,03,Retailing
+5331,Variety Stores,5000,Apparel and Consumer Goods,500028,General Merchandise Stores,5000289B,General Merchandise Stores,03,Retailing
+5399,Miscellaneous General Merchandise,5000,Apparel and Consumer Goods,500028,General Merchandise Stores,5000289B,General Merchandise Stores,03,Retailing
+5411,Grocery Stores,5000,Apparel and Consumer Goods,500027,Food Stores,50002727,General,03,Retailing
+5421,Meat and Fish Markets,5000,Apparel and Consumer Goods,500027,Food Stores,50002727,General,03,Retailing
+5431,Fruit and Vegetable Markets,5000,Apparel and Consumer Goods,500027,Food Stores,50002727,General,03,Retailing
+5441,"Candy, nut, and confectionery stores",5000,Apparel and Consumer Goods,500027,Food Stores,50002727,General,03,Retailing
+5451,Dairy Products Stores,5000,Apparel and Consumer Goods,500027,Food Stores,50002727,General,03,Retailing
+5461,Retail Bakeries,5000,Apparel and Consumer Goods,500014,Consumer Goods Manufacturers,50001423,Food,03,Retailing
+5499,Miscellaneous Food Stores,5000,Apparel and Consumer Goods,500027,Food Stores,50002727,General,03,Retailing
+5511,New and Used Car Dealers,2000,Diversified Vehicles & Parts,200016,Dealerships,2000160B,Dealerships,03,Retailing
+5521,Used Car Dealers,2000,Diversified Vehicles & Parts,200016,Dealerships,2000160B,Dealerships,03,Retailing
+5531,Auto and Home Supply Stores,2000,Diversified Vehicles & Parts,200020,Automotive Sales & Distribution,20002001,Automotive Sales & Distribution,04,Post-Sales And Supporting Services
+5541,Gasoline Service Stations,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,03,Retailing
+5551,Boat Dealers,2000,Diversified Vehicles & Parts,200016,Dealerships,2000160B,Dealerships,03,Retailing
+5561,Recreational Vehicle Dealers,2000,Diversified Vehicles & Parts,200016,Dealerships,2000160B,Dealerships,03,Retailing
+5571,Motorcycle Dealers,2000,Diversified Vehicles & Parts,200016,Dealerships,2000160B,Dealerships,03,Retailing
+5599,"Automotive Dealers, Nec",2000,Diversified Vehicles & Parts,200016,Dealerships,2000160B,Dealerships,03,Retailing
+5611,"Men's and Boys' Clothing Stores",5000,Apparel and Consumer Goods,500005,Apparel Retailers,5000053A,Apparel Retailers,03,Retailing
+5621,"Women's Clothing Stores",5000,Apparel and Consumer Goods,500005,Apparel Retailers,5000053A,Apparel Retailers,03,Retailing
+5632,"Women's accessory and specialty stores",5000,Apparel and Consumer Goods,500005,Apparel Retailers,5000053A,Apparel Retailers,03,Retailing
+5641,"Children's and Infants' Wear Stores",5000,Apparel and Consumer Goods,500005,Apparel Retailers,5000053A,Apparel Retailers,03,Retailing
+5651,Family Clothing Stores,5000,Apparel and Consumer Goods,500005,Apparel Retailers,5000053A,Apparel Retailers,03,Retailing
+5661,Shoe Stores,5000,Apparel and Consumer Goods,500005,Apparel Retailers,5000053A,Apparel Retailers,03,Retailing
+5699,Miscellaneous apparel and accessories,5000,Apparel and Consumer Goods,500005,Apparel Retailers,5000053A,Apparel Retailers,03,Retailing
+5712,Furniture Stores,4000,Industrial Products,400024,Fabricated Materials,4000247B,Fabricated Materials,01,Manufacturing
+5713,Floor Covering Stores,5000,Apparel and Consumer Goods,500031,"Home Furniture, Furnishings & Equip. Stores",50003125,Furnishings,03,Retailing
+5714,Drapery and Upholstery Stores,5000,Apparel and Consumer Goods,500031,"Home Furniture, Furnishings & Equip. Stores",50003125,Furnishings,03,Retailing
+5719,Miscellaneous Homefurnishings,5000,Apparel and Consumer Goods,500031,"Home Furniture, Furnishings & Equip. Stores",50003125,Furnishings,03,Retailing
+5722,Household Appliance Stores,5000,Apparel and Consumer Goods,500031,"Home Furniture, Furnishings & Equip. Stores",50003106,Appliances,03,Retailing
+5731,"Radio, television, and electronic stores",3000,High Tech,300031,High Tech Stores,30003162,High Tech Stores,03,Retailing
+5734,Computer and Software Stores,3000,High Tech,300031,High Tech Stores,30003162,High Tech Stores,03,Retailing
+5735,Record and Prerecorded Tape Stores,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5736,Musical Instrument Stores,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5812,Eating Places,6000,Professional Services,600024,Hospitality,6000243B,Eating and Drinking,03,Retailing
+5813,Drinking Places,6000,Professional Services,600024,Hospitality,6000243B,Eating and Drinking,03,Retailing
+5912,Drug Stores and Proprietary Stores,8000,Healthcare,800026,"Pharma, BioPharma & Specialty Drugs",80002601,Pharma,03,Retailing
+5921,Liquor Stores,5000,Apparel and Consumer Goods,500027,Food Stores,50002750,Regulated,03,Retailing
+5932,Used Merchandise Stores,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5941,Sporting Goods and Bicycle Shops,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5942,Book Stores,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5943,Stationery Stores,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5944,Jewelry Stores,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5945,"Hobby, Toy, and Game Shops",5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5946,Camera and photographic supply stores,5000,Apparel and Consumer Goods,500031,"Home Furniture, Furnishings & Equip. Stores",50003121,Electronics and Equipment,03,Retailing
+5947,"Gift, Novelty, and Souvenir Shop",5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5948,Luggage and Leather Goods Stores,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5949,"Sewing, Needlework, and Piece Goods",5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5961,Catalog and Mail-order Houses,5000,Apparel and Consumer Goods,500017,Direct to Consumer Retailers,5000171B,Direct to Consumer Retailers,04,Post-Sales And Supporting Services
+5962,Merchandising Machine Operators,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5963,Direct Selling Establishments,5000,Apparel and Consumer Goods,500028,General Merchandise Stores,5000289B,General Merchandise Stores,03,Retailing
+5983,Fuel Oil Dealers,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,03,Retailing
+5984,Liquefied Petroleum Gas Dealers,4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,03,Retailing
+5989,"Fuel Dealers, Nec",4000,Industrial Products,400055,Oil and Gas,4000550E,Oil and Gas,03,Retailing
+5992,Florists,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5993,Tobacco Stores and Stands,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006950,Regulated,03,Retailing
+5994,News Dealers and Newsstands,5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006927,General,03,Retailing
+5995,Optical Goods Stores,8000,Healthcare,800025,Optical,80002501,Optical,03,Retailing
+5999,"Miscellaneous Retail Stores, Nec",5000,Apparel and Consumer Goods,500069,Specialty Retailers,50006950,Regulated,03,Retailing
+6001,Professional Services (INDUSTRY SEGMENT),6000,Professional Services,600049,Misc. Professional Services,6000494D,Misc. Professional Services,05,All Other
+6011,Federal Reserve Banks,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,04,Post-Sales And Supporting Services
+6019,"Central Reserve Depository, Nec",6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6021,National Commercial Banks,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6022,State Commercial Banks,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6029,"Commercial Banks, Nec",6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6035,Federal Savings Institutions,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6036,"Savings institutions, except federal",6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6061,Federal Credit Unions,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6062,State Credit Unions,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6081,Foreign bank and branches and agencies,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6082,Foreign trade and international banks,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6091,Nondeposit Trust Facilities,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6099,Functions related to depository banking,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,04,Post-Sales And Supporting Services
+6111,Federal and federally sponsored credit,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6141,Personal Credit Institutions,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6153,Short-term Business Credit,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6159,Miscellaneous Business Credit,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6162,Mortgage Bankers and Correspondents,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,04,Post-Sales And Supporting Services
+6163,Loan Brokers,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6211,Security Brokers and Dealers,6000,Professional Services,600025,Finance & Insurance,60002554,Securities Brokers,03,Retailing
+6221,"Commodity contracts brokers, dealers",6000,Professional Services,600025,Finance & Insurance,60002554,Securities Brokers,03,Retailing
+6231,Security and Commodity Exchanges,6000,Professional Services,600025,Finance & Insurance,60002554,Securities Brokers,03,Retailing
+6282,Investment Advice,6000,Professional Services,600025,Finance & Insurance,60002522,Financial Planning/Investment Advice,03,Retailing
+6289,Security and Commodity Service,6000,Professional Services,600025,Finance & Insurance,60002554,Securities Brokers,03,Retailing
+6311,Life Insurance,6000,Professional Services,600025,Finance & Insurance,60002529,Insurance Carriers,03,Retailing
+6321,Accident and Health Insurance,8000,Healthcare,800057,Payors & Service Providers,8000572E,Payors & Service Providers,05,All Other
+6324,Hospital and Medical Service Plans,8000,Healthcare,800057,Payors & Service Providers,8000572E,Payors & Service Providers,05,All Other
+6331,"Fire, marine, and casualty insurance",6000,Professional Services,600025,Finance & Insurance,60002529,Insurance Carriers,03,Retailing
+6351,Surety Insurance,6000,Professional Services,600025,Finance & Insurance,60002529,Insurance Carriers,03,Retailing
+6361,Title Insurance,6000,Professional Services,600025,Finance & Insurance,60002529,Insurance Carriers,03,Retailing
+6371,"Pension, Health, and Welfare Funds",6000,Professional Services,600025,Finance & Insurance,60002529,Insurance Carriers,03,Retailing
+6399,"Insurance Carriers, Nec",6000,Professional Services,600025,Finance & Insurance,60002529,Insurance Carriers,03,Retailing
+6411,"Insurance agents, brokers, and service",6000,Professional Services,600025,Finance & Insurance,60002529,Insurance Carriers,03,Retailing
+6512,Nonresidential Building Operators,6000,Professional Services,600063,Real Estate,6000637E,Real Estate,03,Retailing
+6513,Apartment Building Operators,6000,Professional Services,600063,Real Estate,6000637E,Real Estate,03,Retailing
+6514,"Dwelling operators, except apartments",6000,Professional Services,600063,Real Estate,6000637E,Real Estate,03,Retailing
+6515,Mobile Home Site Operators,6000,Professional Services,600063,Real Estate,6000637E,Real Estate,03,Retailing
+6517,Railroad Property Lessors,6000,Professional Services,600063,Real Estate,6000637E,Real Estate,03,Retailing
+6519,"Real Property Lessors, Nec",6000,Professional Services,600063,Real Estate,6000637E,Real Estate,03,Retailing
+6531,Real Estate Agents and Managers,6000,Professional Services,600063,Real Estate,6000637E,Real Estate,03,Retailing
+6541,Title abstract Offices,6000,Professional Services,600013,"Consulting, Accounting & Legal",60001330,Legal Services,04,Post-Sales And Supporting Services
+6552,"Subdividers and Developers, Nec",4000,Industrial Products,400012,Construction,4000129A,Construction,05,All Other
+6553,Cemetery Subdividers and Developers,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+6712,Bank Holding Companies,6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,04,Post-Sales And Supporting Services
+6719,"Holding Companies, Nec",6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,04,Post-Sales And Supporting Services
+6722,"Management Investment, Open-ended",6000,Professional Services,600025,Finance & Insurance,60002522,Financial Planning/Investment Advice,03,Retailing
+6726,"Investment Offices, Nec",6000,Professional Services,600025,Finance & Insurance,60002522,Financial Planning/Investment Advice,03,Retailing
+6732,"Trusts: educational, religious, etc.",6000,Professional Services,600025,Finance & Insurance,60002522,Financial Planning/Investment Advice,03,Retailing
+6733,"Trusts, Nec",6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+6792,Oil Royalty Traders,6000,Professional Services,600063,Real Estate,6000637E,Real Estate,03,Retailing
+6794,Patent Owners and Lessors,6000,Professional Services,600063,Real Estate,6000637E,Real Estate,03,Retailing
+6798,Real Estate Investment Trusts,6000,Professional Services,600063,Real Estate,6000637E,Real Estate,03,Retailing
+6799,"Investors, Nec",6000,Professional Services,600025,Finance & Insurance,60002522,Financial Planning/Investment Advice,03,Retailing
+7001,Consumer Services (INDUSTRY SEGMENT),9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+7011,Hotels and Motels,6000,Professional Services,600024,Hospitality,6000240B,Hotels and Lodging,03,Retailing
+7021,Rooming and Boarding Houses,6000,Professional Services,600024,Hospitality,6000240B,Hotels and Lodging,03,Retailing
+7032,Sporting and Recreational Camps,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7033,Trailer Parks and Campsites,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7041,Membership-basis organization hotels,6000,Professional Services,600024,Hospitality,6000240B,Hotels and Lodging,03,Retailing
+7211,"Power laundries, family and commercial",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7212,"Garment pressing and cleaners' agents",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7213,Linen Supply,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+7215,Coin-operated laundries and cleaning,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7216,"Drycleaning Plants, Except Rugs",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7217,Carpet and Upholstery Cleaning,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7218,Industrial Launderers,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+7219,"Laundry and Garment Services, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7221,"Photographic Studios, Portrait",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7231,Beauty Shops,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7241,Barber Shops,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7251,Shoe Repair and Shoeshine Parlors,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7261,Funeral Service and Crematories,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7291,Tax Return Preparation Services,6000,Professional Services,600013,"Consulting, Accounting & Legal",60001301,"Accounting, Bookkeeping, & Payroll",03,Retailing
+7299,Miscellaneous Personal Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7311,Advertising Agencies,6000,Professional Services,600002,Advertising & Public Relations,60000203,Advertising Agencies,02,Wholesaling
+7312,Outdoor Advertising Services,6000,Professional Services,600002,Advertising & Public Relations,60000219,Direct Mail Advertising,02,Wholesaling
+7313,"Radio, television, publisher representatives",6000,Professional Services,600002,Advertising & Public Relations,60000203,Advertising Agencies,02,Wholesaling
+7319,"Advertising, Nec",6000,Professional Services,600002,Advertising & Public Relations,60000203,Advertising Agencies,02,Wholesaling
+7322,Adjustment and Collection Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+7323,Credit Reporting Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+7331,Direct Mail Advertising Services,6000,Professional Services,600002,Advertising & Public Relations,60000219,Direct Mail Advertising,02,Wholesaling
+7334,Photocopying and duplicating services,6000,Professional Services,600003,Printing & Packaging,6000031B,Printing,01,Manufacturing
+7335,Commercial Photography,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+7336,Commercial Art and Graphic Design,6000,Professional Services,600002,Advertising & Public Relations,60000203,Advertising Agencies,03,Retailing
+7338,Secretarial and Court Reporting,6000,Professional Services,600013,"Consulting, Accounting & Legal",60001330,Legal Services,02,Wholesaling
+7342,Disinfecting and pest control services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7349,"Building Maintenance Services, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7352,Medical Equipment Rental,8000,Healthcare,800021,Healthcare providers,80002101,Home Health & Care Facilities,05,All Other
+7353,Heavy Construction Equipment Rental,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+7359,"Equipment Rental and Leasing, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7361,Employment Agencies,6000,Professional Services,600013,"Consulting, Accounting & Legal",60001302,Staffing Services,02,Wholesaling
+7363,Help Supply Services,6000,Professional Services,600013,"Consulting, Accounting & Legal",60001302,Staffing Services,02,Wholesaling
+7371,Custom computer programming services,3000,High Tech,300068,Software and High Tech Services,30006815,Custom Programming,03,Retailing
+7372,Prepackaged Software,3000,High Tech,300068,Software and High Tech Services,30006843,Packaged Software,01,Manufacturing
+7373,Computer Integrated Systems Design,3000,High Tech,300068,Software and High Tech Services,30006816,Data and Systems Services,03,Retailing
+7374,Data Processing and Preparation,3000,High Tech,300068,Software and High Tech Services,30006816,Data and Systems Services,04,Post-Sales And Supporting Services
+7375,Information Retrieval Services,3000,High Tech,300070,Telecommunications and Broadcasting,30007058,Telecom and Broadcasting Services,03,Retailing
+7376,Computer Facilities Management,3000,High Tech,300068,Software and High Tech Services,30006816,Data and Systems Services,03,Retailing
+7377,Computer Rental and Leasing,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7378,Computer Maintenance and Repair,3000,High Tech,300068,Software and High Tech Services,30006842,Other Services,03,Retailing
+7379,"Computer Related Services, Nec",3000,High Tech,300068,Software and High Tech Services,30006816,Data and Systems Services,03,Retailing
+7381,Detective and Armored Car Services,6000,Professional Services,600025,Finance & Insurance,60002529,Insurance Carriers,02,Wholesaling
+7382,Security Systems Services,6000,Professional Services,600025,Finance & Insurance,60002529,Insurance Carriers,03,Retailing
+7383,News Syndicates,6000,Professional Services,600061,Publishing,6000615E,Publishing,02,Wholesaling
+7384,Photofinish Laboratories,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+7389,"Business Services, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+7513,"Truck rental and leasing, without drivers",2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7514,Passenger Car Rental,2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7515,Passenger Car Leasing,2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7519,Utility Trailer Rental,2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7521,Automobile Parking,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7532,Top and Body Repair and Paint Shops,2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7533,Auto Exhaust System Repair Shops,2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7534,Tire Retreading and Repair Shops,2000,Diversified Vehicles & Parts,200072,Tier 1 - 5 Parts Manufacturing,2000729E,Tier 1 - 5 Parts Manufacturing,01,Manufacturing
+7536,Automotive Glass Replacement Shops,2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7537,Automotive transmission repair shops,2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7538,General Automotive Repair Shops,2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7539,"Automotive Repair Shops, Nec",2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7542,Carwashes,2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7549,"Automotive Services, Nec",2000,Diversified Vehicles & Parts,200021,Automotive Related Services,20002101,Automotive Related Services,04,Post-Sales And Supporting Services
+7622,Radio and Television Repair,3000,High Tech,300068,Software and High Tech Services,30006842,Other Services,03,Retailing
+7623,Refrigeration Service and Repair,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+7629,Electrical Repair Shops,3000,High Tech,300068,Software and High Tech Services,30006842,Other Services,03,Retailing
+7631,"Watch, Clock, and Jewelry Repair",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7641,Reupholstery and Furniture Repair,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7692,Welding Repair,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,03,Retailing
+7694,Armature Rewinding Shops,4000,Industrial Products,400035,Industrial Assemblies and Machinery,4000352C,Industrial Assemblies and Machinery,03,Retailing
+7699,"Repair Services, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7812,Motion Picture and Video Production,4000,Industrial Products,400051,Misc. Industrial Manufacturing & Distribution,4000516D,Misc. Industrial Manufacturing & Distribution,01,Manufacturing
+7819,Services Allied To Motion Pictures,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,01,Manufacturing
+7822,Motion picture and tape distribution,4000,Industrial Products,400051,Misc. Industrial Manufacturing & Distribution,4000516D,Misc. Industrial Manufacturing & Distribution,02,Wholesaling
+7829,Motion picture distribution services,4000,Industrial Products,400051,Misc. Industrial Manufacturing & Distribution,4000516D,Misc. Industrial Manufacturing & Distribution,02,Wholesaling
+7832,"Motion picture theaters, except drive-in",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7833,Drive-in Motion Picture Theaters,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7841,Video Tape Rental,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7911,"Dance Studios, Schools, and Halls",6000,Professional Services,600021,Education,6000214K,Specialty Schools,03,Retailing
+7922,Theatrical Producers and Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7929,Entertainers and entertainment groups,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7933,Bowling Centers,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7941,"Sports clubs, managers, and promoters",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7948,"Racing, Including Track Operation",6000,Professional Services,600024,Hospitality,60002401,Performing Arts and Spectator Sports,03,Retailing
+7991,Physical Fitness Facilities,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7992,Public Golf Courses,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7993,Coin-operated Amusement Devices,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7996,Amusement Parks,6000,Professional Services,600024,Hospitality,6000240B,Hotels and Lodging,03,Retailing
+7997,Membership sports and recreation clubs,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+7999,"Amusement and Recreation, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+8001,Healthcare (INDUSTRY SEGMENT),8000,Healthcare,800047,Misc. Healthcare,8000472D,Misc. Healthcare,05,All Other
+8011,Offices and clinics of medical doctors,8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8021,Offices and Clinics of Dentists,8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8031,Offices and clinics of osteopathic physicians,8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8041,Offices and clinics of chiropractors,8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8042,Offices and Clinics of Optometrists,8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8043,Offices and Clinics of Podiatrists,8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8049,Offices of Health Practitioner,8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8051,Skilled Nursing Care Facilities,8000,Healthcare,800021,Healthcare providers,80002101,Home Health & Care Facilities,03,Retailing
+8052,Intermediate Care Facilities,8000,Healthcare,800021,Healthcare providers,80002101,Home Health & Care Facilities,03,Retailing
+8059,"Nursing and Personal Care, Nec",8000,Healthcare,800021,Healthcare providers,80002101,Home Health & Care Facilities,03,Retailing
+8062,General medical and surgical hospitals,8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8063,Psychiatric Hospitals,8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8069,"Specialty hospitals, except psychiatric",8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8071,Medical Laboratories,8000,Healthcare,800022,Labs & Clinical Trials,80002203,Labs,03,Retailing
+8072,Dental Laboratories,8000,Healthcare,800022,Labs & Clinical Trials,80002201,Labs Dental,01,Manufacturing
+8082,Home Health Care Services,8000,Healthcare,800021,Healthcare providers,80002101,Home Health & Care Facilities,03,Retailing
+8092,Kidney Dialysis Centers,8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8093,"Specialty Outpatient Clinics, Nec",8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8099,"Health and Allied Services, Nec",8000,Healthcare,800021,Healthcare providers,80002102,Healthcare Providers excluding some,03,Retailing
+8111,Legal Services,6000,Professional Services,600013,"Consulting, Accounting & Legal",60001330,Legal Services,03,Retailing
+8211,Elementary and Secondary Schools,6000,Professional Services,600021,Education,6000214D,K-12 Schools,03,Retailing
+8221,Colleges and Universities,6000,Professional Services,600021,Education,6000214E,Higher Education,03,Retailing
+8222,Junior Colleges,6000,Professional Services,600021,Education,6000214E,Higher Education,03,Retailing
+8231,Libraries,6000,Professional Services,600021,Education,6000214C,Miscellaneous,04,Post-Sales And Supporting Services
+8243,Data Processing Schools,6000,Professional Services,600021,Education,6000214M,Training,03,Retailing
+8244,Business and Secretarial Schools,6000,Professional Services,600021,Education,6000214K,Specialty Schools,03,Retailing
+8249,"Vocational Schools, Nec",6000,Professional Services,600021,Education,6000214K,Specialty Schools,03,Retailing
+8299,Schools and Educational Services,6000,Professional Services,600021,Education,6000214K,Specialty Schools,03,Retailing
+8322,Individual and Family Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+8331,Job Training and Related Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+8351,Child Day Care Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+8361,Residential Care,8000,Healthcare,800021,Healthcare providers,80002101,Home Health & Care Facilities,03,Retailing
+8399,"Social Services, Nec",6000,Professional Services,600025,Finance & Insurance,60002507,Banking and Credit Unions,03,Retailing
+8412,Museums and Art Galleries,6000,Professional Services,600024,Hospitality,6000240C,Tourism,03,Retailing
+8422,Botanical and Zoological Gardens,6000,Professional Services,600024,Hospitality,6000240C,Tourism,03,Retailing
+8611,Business Associations,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+8621,Professional Organizations,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+8631,Labor Organizations,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+8641,Civic and Social Associations,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+8651,Political Organizations,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+8661,Religious Organizations,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,03,Retailing
+8699,"Membership Organizations, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+8711,Engineering Services,6000,Professional Services,600022,"Engineering, Architecture, & Research",6000225B,"Engineering, Architecture, & Research",03,Retailing
+8712,Architectural Services,6000,Professional Services,600022,"Engineering, Architecture, & Research",6000225B,"Engineering, Architecture, & Research",03,Retailing
+8713,Surveying Services,6000,Professional Services,600022,"Engineering, Architecture, & Research",6000225B,"Engineering, Architecture, & Research",02,Wholesaling
+8721,"Accounting, auditing, and bookkeeping",6000,Professional Services,600013,"Consulting, Accounting & Legal",60001301,"Accounting, Bookkeeping, & Payroll",03,Retailing
+8731,Commercial Physical Research,8000,Healthcare,800022,Labs & Clinical Trials,80002203,Labs,05,All Other
+8732,Commercial Nonphysical Research,6000,Professional Services,600022,"Engineering, Architecture, & Research",6000225B,"Engineering, Architecture, & Research",02,Wholesaling
+8733,Noncommercial research organizations,6000,Professional Services,600022,"Engineering, Architecture, & Research",6000225B,"Engineering, Architecture, & Research",04,Post-Sales And Supporting Services
+8734,Testing Laboratories,6000,Professional Services,600022,"Engineering, Architecture, & Research",6000225B,"Engineering, Architecture, & Research",02,Wholesaling
+8741,Management Services,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,04,Post-Sales And Supporting Services
+8742,Management Consulting Services,6000,Professional Services,600013,"Consulting, Accounting & Legal",60001331,"Management, Scientific, & Tech Consulting",03,Retailing
+8743,Public Relations Services,6000,Professional Services,600002,Advertising & Public Relations,60000249,Public Relations Agencies,02,Wholesaling
+8744,Facilities Support Services,6000,Professional Services,600063,Real Estate,6000637E,Real Estate,04,Post-Sales And Supporting Services
+8748,"Business Consulting, Nec",6000,Professional Services,600013,"Consulting, Accounting & Legal",60001331,"Management, Scientific, & Tech Consulting",03,Retailing
+8811,Private households,9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+8999,"Services, Nec",9900,Other,990090,Non-Targeted,99009090,Non-Targeted,02,Wholesaling
+9001,Government (INDUSTRY SEGMENT),9000,Government,900046,Misc. Government,9000461D,Misc. Government,05,All Other
+9111,Executive Offices,9000,Government,900023,"Exec, Legislative & Local Government",9000236B,"Exec, Legislative & Local Government",04,Post-Sales And Supporting Services
+9121,Legislative Bodies,9000,Government,900023,"Exec, Legislative & Local Government",9000236B,"Exec, Legislative & Local Government",04,Post-Sales And Supporting Services
+9131,Executive and Legislative Combined,9000,Government,900023,"Exec, Legislative & Local Government",9000236B,"Exec, Legislative & Local Government",04,Post-Sales And Supporting Services
+9199,"General Government, Nec",9000,Government,900023,"Exec, Legislative & Local Government",9000236B,"Exec, Legislative & Local Government",04,Post-Sales And Supporting Services
+9211,Courts,9000,Government,900039,"Justice, Public Order and Safety",9000396C,"Justice, Public Order and Safety",04,Post-Sales And Supporting Services
+9221,Police Protection,9000,Government,900039,"Justice, Public Order and Safety",9000396C,"Justice, Public Order and Safety",04,Post-Sales And Supporting Services
+9222,Legal Counsel and Prosecution,9000,Government,900039,"Justice, Public Order and Safety",9000396C,"Justice, Public Order and Safety",03,Retailing
+9223,Correctional Institutions,9000,Government,900039,"Justice, Public Order and Safety",9000396C,"Justice, Public Order and Safety",04,Post-Sales And Supporting Services
+9224,Fire Protection,9000,Government,900039,"Justice, Public Order and Safety",9000396C,"Justice, Public Order and Safety",04,Post-Sales And Supporting Services
+9229,"Public Order and Safety, Nec",9000,Government,900039,"Justice, Public Order and Safety",9000396C,"Justice, Public Order and Safety",04,Post-Sales And Supporting Services
+9311,"Finance, taxation, and monetary policy",9000,Government,900023,"Exec, Legislative & Local Government",9000236B,"Exec, Legislative & Local Government",04,Post-Sales And Supporting Services
+9411,Administration of educational programs,9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9431,Administration of public health programs,9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,05,All Other
+9441,Administration of social and manpower programs,9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9451,"Administration of Veterans' Affairs",9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9511,"Air, water, and solid waste management",9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9512,"Land, mineral, and wildlife conservation",9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9531,Housing Programs,9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9532,Urban and Community Development,9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9611,Administration of general economic programs,9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9621,"Regulation, administration of transportation",9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9631,"Regulation, administration of utilities",9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9641,Regulation of agricultural marketing,9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9651,"Regulation, miscellaneous commercial sectors",9000,Government,900001,Administration of Public Programs,9000010A,Administration of Public Programs,04,Post-Sales And Supporting Services
+9661,Space Research and Technology,9000,Government,900052,"Natl Security, Space Research, & Intl Affairs",9000527D,"Natl Security, Space Research, & Intl Affairs",04,Post-Sales And Supporting Services
+9711,National Security,9000,Government,900052,"Natl Security, Space Research, & Intl Affairs",9000527D,"Natl Security, Space Research, & Intl Affairs",04,Post-Sales And Supporting Services
+9721,International Affairs,9000,Government,900052,"Natl Security, Space Research, & Intl Affairs",9000527D,"Natl Security, Space Research, & Intl Affairs",04,Post-Sales And Supporting Services
+9901,Undefined and Other (INDUSTRY SEGMENT),9900,Other,990090,Non-Targeted,99009090,Non-Targeted,05,All Other
+9999,Nonclassifiable Establishments,9999,Unclassified,999999,Unclassified,99999999,Unclassified,05,All Other

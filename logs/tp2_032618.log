@@ -1,0 +1,293 @@
+2018-03-26 16:04:54,299 INFO: Consumer started
+2018-03-26 16:04:54,299 INFO: cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/init is accessible
+Oracle connection successfully made.
+
+2018-03-26 16:04:54,302 INFO: Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/
+2018-03-26 16:04:54,302 INFO: Loading air_logit_fit.p model...
+2018-03-26 16:04:54,891 INFO: Loading air_market_incentive.p model...
+2018-03-26 16:04:55,017 INFO: Loading air_mpt_reg.p model...
+2018-03-26 16:04:55,953 INFO: Loading data_prep.p model...
+2018-03-26 16:04:56,186 INFO: Loading data_preprocess.p model...
+2018-03-26 16:04:56,186 INFO: Loading eff_to_offer_air.p model...
+2018-03-26 16:04:56,240 INFO: Loading eff_to_offer_gnd.p model...
+2018-03-26 16:04:56,288 INFO: Loading eff_to_offer_impexp.p model...
+2018-03-26 16:04:56,334 INFO: Loading gnd_market_incentive.p model...
+2018-03-26 16:04:56,440 INFO: Loading gnd_mpt_reg.p model...
+2018-03-26 16:04:57,447 INFO: Loading ground_logit_fit.p model...
+2018-03-26 16:04:57,614 INFO: Loading ie_market_incentive.p model...
+2018-03-26 16:04:57,720 INFO: Loading impexp_logit_fit.p model...
+2018-03-26 16:04:57,760 INFO: Loading impexp_mpt_reg.p model...
+2018-03-26 16:04:58,589 INFO: All models loaded
+2018-03-26 16:04:58,591 INFO: IPC folders cleaned
+2018-03-26 16:04:58,614 INFO: Consumer up and running
+2018-03-26 16:05:00,153 DEBUG: ******************Started function check_consumer_status
+2018-03-26 16:05:01,094 DEBUG: Consumer is running
+2018-03-26 16:05:01,094 INFO: Validation Scoring:added to producer to run
+2018-03-26 16:05:01,094 DEBUG: ******************Started function main
+2018-03-26 16:05:01,096 INFO: Processing bid: P660032550
+2018-03-26 16:05:01,096 DEBUG: ******************Started function pullData
+2018-03-26 16:05:01,096 DEBUG: ******************Started function connect
+2018-03-26 16:05:01,096 DEBUG: ******************Exiting function connect
+2018-03-26 16:05:02,482 DEBUG: ******************Exiting function PullData
+2018-03-26 16:05:02,482 DEBUG: ******************Started function transformData
+2018-03-26 16:05:02,563 DEBUG: ******************Exiting function transformData
+2018-03-26 16:05:02,563 DEBUG: ******************Started function create_prod_base_tables
+2018-03-26 16:05:02,563 DEBUG: ******************Started function generate_base_tables
+2018-03-26 16:05:02,565 DEBUG: ******************Started function clean_bid_account
+2018-03-26 16:05:02,575 DEBUG: ******************Exiting fucntion clean_bid_account
+2018-03-26 16:05:02,575 DEBUG: ******************Started function clean_bid_service
+2018-03-26 16:05:02,579 DEBUG: ******************Exiting function clean_bid_service
+2018-03-26 16:05:02,579 DEBUG: ******************Started function generate_product_initial
+2018-03-26 16:05:02,625 DEBUG: ******************clean_bid_service
+2018-03-26 16:05:02,625 DEBUG: ******************Started function generate_bid_master
+2018-03-26 16:05:02,644 DEBUG: ******************generate_bid_master
+2018-03-26 16:05:02,644 DEBUG: ******************Exiting function generate_base_tables
+2018-03-26 16:05:02,644 DEBUG: ******************Started function zone_weight_table
+2018-03-26 16:05:02,690 DEBUG: ******************Exiting fucntion zone_weight_table
+2018-03-26 16:05:02,694 DEBUG: ******************Exiting function create_prod_base_tables
+2018-03-26 16:05:02,694 DEBUG: ******************Started function final_output
+2018-03-26 16:05:02,703 DEBUG: ******************Exiting function final_output
+2018-03-26 16:05:02,716 INFO: Found request ['5ca05897-a866-4d96-b0b0-dc8b46087c27']
+2018-03-26 16:05:02,720 INFO: Scoring bid# P660032550 from file 5ca05897-a866-4d96-b0b0-dc8b46087c27
+2018-03-26 16:05:09,489 INFO: Time elapsed: 0:00:06.742000
+2018-03-26 16:05:09,773 INFO: 1DA: Inc - 0.444813471036, Low - 0.394813471036, High - 0.454813471036
+2018-03-26 16:05:09,773 INFO: 2DA: Inc - 0.63433629348, Low - 0.58433629348, High - 0.64433629348
+2018-03-26 16:05:09,775 INFO: 3DA: Inc - 0.581473542367, Low - 0.531473542367, High - 0.591473542367
+2018-03-26 16:05:09,775 INFO: GND_Com: Inc - 0.329268738866, Low - 0.279268738866, High - 0.339268738866
+2018-03-26 16:05:09,775 INFO: GND_Resi: Inc - 0.431118815295, Low - 0.381118815295, High - 0.441118815295
+2018-03-26 16:05:09,775 INFO: Export: Inc - 0.7, Low - 0.65, High - 0.71
+2018-03-26 16:05:09,775 INFO: Import: Inc - 0.396546385024, Low - 0.346546385024, High - 0.406546385024
+2018-03-26 16:05:09,776 INFO: Air_CWT: Inc - 0.195, Low - 0.145, High - 0.205
+2018-03-26 16:05:09,776 DEBUG: ******************Started function pushData
+2018-03-26 16:05:09,776 DEBUG: ******************Started function randomizer
+2018-03-26 16:05:09,778 INFO: Bid number P660032550: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-03-26 16:05:09,779 INFO: 1DA: Inc - 0.444813471036, Low - 0.394813471036, High - 0.454813471036
+2018-03-26 16:05:09,779 INFO: 2DA: Inc - 0.63433629348, Low - 0.58433629348, High - 0.64433629348
+2018-03-26 16:05:09,779 INFO: 3DA: Inc - 0.581473542367, Low - 0.531473542367, High - 0.591473542367
+2018-03-26 16:05:09,779 INFO: GND_Com: Inc - 0.329268738866, Low - 0.279268738866, High - 0.339268738866
+2018-03-26 16:05:09,779 INFO: GND_Resi: Inc - 0.431118815295, Low - 0.381118815295, High - 0.441118815295
+2018-03-26 16:05:09,779 INFO: Export: Inc - 0.7, Low - 0.65, High - 0.71
+2018-03-26 16:05:09,780 INFO: Import: Inc - 0.396546385024, Low - 0.346546385024, High - 0.406546385024
+2018-03-26 16:05:09,780 INFO: Air_CWT: Inc - 0.195, Low - 0.145, High - 0.205
+2018-03-26 16:05:09,780 DEBUG: ******************Exiting function PushData
+2018-03-26 16:05:09,782 INFO: Bid P660032550 successfully scored.
+2018-03-26 16:12:15,516 DEBUG: ******************Started function check_consumer_status
+2018-03-26 16:12:16,486 DEBUG: Consumer is running
+2018-03-26 16:12:16,486 INFO: Validation Scoring:added to producer to run
+2018-03-26 16:12:16,486 DEBUG: ******************Started function main
+2018-03-26 16:12:16,487 INFO: Processing bid: P660032550
+2018-03-26 16:12:16,489 DEBUG: ******************Started function get_data
+2018-03-26 16:12:16,489 DEBUG: ******************Started function pullData
+2018-03-26 16:12:16,489 DEBUG: ******************Started function connect
+2018-03-26 16:12:16,489 DEBUG: ******************Exiting function connect
+2018-03-26 16:12:18,105 DEBUG: ******************Exiting function PullData
+2018-03-26 16:12:18,105 DEBUG: ******************Started function transformData
+2018-03-26 16:12:18,183 DEBUG: ******************Exiting function transformData
+2018-03-26 16:12:18,183 DEBUG: ******************Started function create_prod_base_tables
+2018-03-26 16:12:18,183 DEBUG: ******************Started function generate_base_tables
+2018-03-26 16:12:18,184 DEBUG: ******************Started function clean_bid_account
+2018-03-26 16:12:18,193 DEBUG: ******************Exiting fucntion clean_bid_account
+2018-03-26 16:12:18,193 DEBUG: ******************Started function clean_bid_service
+2018-03-26 16:12:18,198 DEBUG: ******************Exiting function clean_bid_service
+2018-03-26 16:12:18,198 DEBUG: ******************Started function generate_product_initial
+2018-03-26 16:12:18,246 DEBUG: ******************clean_bid_service
+2018-03-26 16:12:18,246 DEBUG: ******************Started function generate_bid_master
+2018-03-26 16:12:18,266 DEBUG: ******************generate_bid_master
+2018-03-26 16:12:18,266 DEBUG: ******************Exiting function generate_base_tables
+2018-03-26 16:12:18,267 DEBUG: ******************Started function zone_weight_table
+2018-03-26 16:12:18,322 DEBUG: ******************Exiting fucntion zone_weight_table
+2018-03-26 16:12:18,325 DEBUG: ******************Exiting function create_prod_base_tables
+2018-03-26 16:12:18,325 DEBUG: ******************Started function final_output
+2018-03-26 16:12:18,334 DEBUG: ******************Exiting function final_output
+2018-03-26 16:12:18,335 DEBUG: ******************Exiting function get_data
+2018-03-26 16:12:18,344 DEBUG: ******************Started function send_request
+2018-03-26 16:12:18,345 INFO: Found request ['691ffadc-86d2-4dba-be9a-9f8b2674fd2f']
+2018-03-26 16:12:18,345 DEBUG: ******************Exiting function send_request
+2018-03-26 16:12:18,351 INFO: Scoring bid# P660032550 from file 691ffadc-86d2-4dba-be9a-9f8b2674fd2f
+2018-03-26 16:12:25,062 INFO: Time elapsed: 0:00:06.686000
+2018-03-26 16:12:25,276 DEBUG: ******************Started function send_results
+2018-03-26 16:12:25,296 DEBUG: ******************Exiting function send_results
+2018-03-26 16:12:25,301 DEBUG: ******************Started function put_data
+2018-03-26 16:12:25,323 INFO: 1DA: Inc - 0.444813471036, Low - 0.394813471036, High - 0.454813471036
+2018-03-26 16:12:25,323 INFO: 2DA: Inc - 0.63433629348, Low - 0.58433629348, High - 0.64433629348
+2018-03-26 16:12:25,323 INFO: 3DA: Inc - 0.581473542367, Low - 0.531473542367, High - 0.591473542367
+2018-03-26 16:12:25,325 INFO: GND_Com: Inc - 0.329268738866, Low - 0.279268738866, High - 0.339268738866
+2018-03-26 16:12:25,325 INFO: GND_Resi: Inc - 0.431118815295, Low - 0.381118815295, High - 0.441118815295
+2018-03-26 16:12:25,325 INFO: Export: Inc - 0.7, Low - 0.65, High - 0.71
+2018-03-26 16:12:25,325 INFO: Import: Inc - 0.396546385024, Low - 0.346546385024, High - 0.406546385024
+2018-03-26 16:12:25,325 INFO: Air_CWT: Inc - 0.195, Low - 0.145, High - 0.205
+2018-03-26 16:12:25,325 DEBUG: ******************Exiting function put_data
+2018-03-26 16:12:25,325 DEBUG: ******************Started function pushData
+2018-03-26 16:12:25,328 DEBUG: ******************Started function randomizer
+2018-03-26 16:12:25,328 INFO: Bid number P660032550: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-03-26 16:12:25,331 INFO: 1DA: Inc - 0.444813471036, Low - 0.394813471036, High - 0.454813471036
+2018-03-26 16:12:25,331 INFO: 2DA: Inc - 0.63433629348, Low - 0.58433629348, High - 0.64433629348
+2018-03-26 16:12:25,332 INFO: 3DA: Inc - 0.581473542367, Low - 0.531473542367, High - 0.591473542367
+2018-03-26 16:12:25,332 INFO: GND_Com: Inc - 0.329268738866, Low - 0.279268738866, High - 0.339268738866
+2018-03-26 16:12:25,332 INFO: GND_Resi: Inc - 0.431118815295, Low - 0.381118815295, High - 0.441118815295
+2018-03-26 16:12:25,332 INFO: Export: Inc - 0.7, Low - 0.65, High - 0.71
+2018-03-26 16:12:25,332 INFO: Import: Inc - 0.396546385024, Low - 0.346546385024, High - 0.406546385024
+2018-03-26 16:12:25,332 INFO: Air_CWT: Inc - 0.195, Low - 0.145, High - 0.205
+2018-03-26 16:12:25,332 DEBUG: ******************Exiting function PushData
+2018-03-26 16:12:25,332 INFO: Bid P660032550 successfully scored.
+2018-03-26 16:12:25,335 DEBUG: ******************Exiting fucntion main
+2018-03-26 16:31:23,753 INFO: Consumer started
+2018-03-26 16:31:23,753 INFO: cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/init is accessible
+Oracle connection successfully made.
+
+2018-03-26 16:31:23,753 INFO: Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/
+2018-03-26 16:31:23,753 INFO: Loading air_logit_fit.p model...
+2018-03-26 16:31:24,391 INFO: Loading air_market_incentive.p model...
+2018-03-26 16:31:24,523 INFO: Loading air_mpt_reg.p model...
+2018-03-26 16:31:25,594 INFO: Loading data_prep.p model...
+2018-03-26 16:31:25,717 DEBUG: ******************Started function check_consumer_status
+2018-03-26 16:31:25,851 INFO: Loading data_preprocess.p model...
+2018-03-26 16:31:25,851 INFO: Loading eff_to_offer_air.p model...
+2018-03-26 16:31:25,911 INFO: Loading eff_to_offer_gnd.p model...
+2018-03-26 16:31:25,967 INFO: Loading eff_to_offer_impexp.p model...
+2018-03-26 16:31:26,010 INFO: Loading gnd_market_incentive.p model...
+2018-03-26 16:31:26,145 INFO: Loading gnd_mpt_reg.p model...
+2018-03-26 16:31:26,848 DEBUG: Consumer is running
+2018-03-26 16:31:26,848 INFO: Validation Scoring:added to producer to run
+2018-03-26 16:31:26,849 DEBUG: ******************Started function main
+2018-03-26 16:31:26,851 INFO: Processing bid: P660032550
+2018-03-26 16:31:26,851 DEBUG: ******************Started function get_data
+2018-03-26 16:31:26,851 DEBUG: ******************Started function pullData
+2018-03-26 16:31:26,851 DEBUG: ******************Started function connect
+2018-03-26 16:31:26,851 DEBUG: ******************Exiting function connect
+2018-03-26 16:31:27,424 INFO: Loading ground_logit_fit.p model...
+2018-03-26 16:31:27,586 INFO: Loading ie_market_incentive.p model...
+2018-03-26 16:31:27,730 INFO: Loading impexp_logit_fit.p model...
+2018-03-26 16:31:27,773 INFO: Loading impexp_mpt_reg.p model...
+2018-03-26 16:31:28,230 DEBUG: ******************Exiting function PullData
+2018-03-26 16:31:28,230 DEBUG: ******************Started function transformData
+2018-03-26 16:31:28,331 DEBUG: ******************Exiting function transformData
+2018-03-26 16:31:28,331 DEBUG: ******************Started function create_prod_base_tables
+2018-03-26 16:31:28,331 DEBUG: ******************Started function generate_base_tables
+2018-03-26 16:31:28,332 DEBUG: ******************Started function clean_bid_account
+2018-03-26 16:31:28,342 DEBUG: ******************Exiting fucntion clean_bid_account
+2018-03-26 16:31:28,342 DEBUG: ******************Started function clean_bid_service
+2018-03-26 16:31:28,348 DEBUG: ******************Exiting function clean_bid_service
+2018-03-26 16:31:28,348 DEBUG: ******************Started function generate_product_initial
+2018-03-26 16:31:28,391 DEBUG: ******************Exiting function clean_bid_service
+2018-03-26 16:31:28,391 DEBUG: ******************Started function generate_bid_master
+2018-03-26 16:31:28,413 DEBUG: ******************generate_bid_master
+2018-03-26 16:31:28,413 DEBUG: ******************Exiting function generate_base_tables
+2018-03-26 16:31:28,414 DEBUG: ******************Started function zone_weight_table
+2018-03-26 16:31:28,463 DEBUG: ******************Exiting fucntion zone_weight_table
+2018-03-26 16:31:28,469 DEBUG: ******************Exiting function create_prod_base_tables
+2018-03-26 16:31:28,469 DEBUG: ******************Started function final_output
+2018-03-26 16:31:28,477 DEBUG: ******************Exiting function final_output
+2018-03-26 16:31:28,480 DEBUG: ******************Exiting function get_data
+2018-03-26 16:31:28,489 DEBUG: ******************Started function send_request
+2018-03-26 16:31:28,492 DEBUG: ******************Exiting function send_request
+2018-03-26 16:31:28,759 INFO: All models loaded
+2018-03-26 16:31:28,760 INFO: IPC folders cleaned
+2018-03-26 16:31:28,785 INFO: Consumer up and running
+2018-03-26 16:31:59,095 ERROR: : Error 3.1: Producer.py timed out on bid number: P660032550
+
+2018-03-26 16:31:59,095 ERROR: 
+2018-03-26 16:33:22,505 DEBUG: ******************Started function check_consumer_status, memory=58187776
+2018-03-26 16:33:23,473 DEBUG: Consumer is running
+2018-03-26 16:33:23,473 INFO: Validation Scoring:added to producer to run
+2018-03-26 16:33:23,473 DEBUG: ******************Started function main, memory=58884096
+2018-03-26 16:33:23,474 INFO: Processing bid: P660032550
+2018-03-26 16:33:23,476 DEBUG: ******************Started function get_data, memory=58888192
+2018-03-26 16:33:23,476 DEBUG: ******************Started function pullData, memory=58888192
+2018-03-26 16:33:23,476 DEBUG: ******************Started function connect, memory=58888192
+2018-03-26 16:33:23,476 DEBUG: ******************Exiting function connect
+2018-03-26 16:33:24,839 DEBUG: ******************Exiting function PullData
+2018-03-26 16:33:24,839 DEBUG: ******************Started function transformData, memory=76623872
+2018-03-26 16:33:24,938 DEBUG: ******************Exiting function transformData
+2018-03-26 16:33:24,938 DEBUG: ******************Started function create_prod_base_tables, memory=77717504
+2018-03-26 16:33:24,938 DEBUG: ******************Started function generate_base_tables, memory=77717504
+2018-03-26 16:33:24,940 DEBUG: ******************Started function clean_bid_account, memory=78082048
+2018-03-26 16:33:24,950 DEBUG: ******************Exiting fucntion clean_bid_account
+2018-03-26 16:33:24,950 DEBUG: ******************Started function clean_bid_service, memory=78229504
+2018-03-26 16:33:24,956 DEBUG: ******************Exiting function clean_bid_service
+2018-03-26 16:33:24,956 DEBUG: ******************Started function generate_product_initial, memory=78241792
+2018-03-26 16:33:25,000 DEBUG: ******************Exiting function clean_bid_service
+2018-03-26 16:33:25,000 DEBUG: ******************Started function generate_bid_master, memory=78426112
+2018-03-26 16:33:25,019 DEBUG: ******************generate_bid_master
+2018-03-26 16:33:25,019 DEBUG: ******************Exiting function generate_base_tables
+2018-03-26 16:33:25,020 DEBUG: ******************Started function zone_weight_table, memory=78458880
+2018-03-26 16:33:25,069 DEBUG: ******************Exiting fucntion zone_weight_table
+2018-03-26 16:33:25,075 DEBUG: ******************Exiting function create_prod_base_tables
+2018-03-26 16:33:25,075 DEBUG: ******************Started function final_output, memory=79175680
+2018-03-26 16:33:25,085 DEBUG: ******************Exiting function final_output
+2018-03-26 16:33:25,085 DEBUG: ******************Exiting function get_data
+2018-03-26 16:33:25,095 DEBUG: ******************Started function send_request, memory=79204352
+2018-03-26 16:33:25,098 INFO: Found request ['98e5f745-fa48-4444-a80c-63b2d9a3b5aa']
+2018-03-26 16:33:25,098 DEBUG: ******************Exiting function send_request
+2018-03-26 16:33:25,104 INFO: Scoring bid# P660032550 from file 98e5f745-fa48-4444-a80c-63b2d9a3b5aa
+2018-03-26 16:33:32,404 INFO: Time elapsed: 0:00:07.275000
+2018-03-26 16:33:32,526 DEBUG: ******************Started function send_results, memory=79613952
+2018-03-26 16:33:32,542 DEBUG: ******************Exiting function send_results
+2018-03-26 16:33:32,546 DEBUG: ******************Started function put_data, memory=79679488
+2018-03-26 16:33:32,559 INFO: 1DA: Inc - 0.444813471036, Low - 0.394813471036, High - 0.454813471036
+2018-03-26 16:33:32,559 INFO: 2DA: Inc - 0.63433629348, Low - 0.58433629348, High - 0.64433629348
+2018-03-26 16:33:32,559 INFO: 3DA: Inc - 0.581473542367, Low - 0.531473542367, High - 0.591473542367
+2018-03-26 16:33:32,559 INFO: GND_Com: Inc - 0.329268738866, Low - 0.279268738866, High - 0.339268738866
+2018-03-26 16:33:32,559 INFO: GND_Resi: Inc - 0.431118815295, Low - 0.381118815295, High - 0.441118815295
+2018-03-26 16:33:32,559 INFO: Export: Inc - 0.7, Low - 0.65, High - 0.71
+2018-03-26 16:33:32,561 INFO: Import: Inc - 0.396546385024, Low - 0.346546385024, High - 0.406546385024
+2018-03-26 16:33:32,561 INFO: Air_CWT: Inc - 0.195, Low - 0.145, High - 0.205
+2018-03-26 16:33:32,561 DEBUG: ******************Exiting function put_data
+2018-03-26 16:33:32,561 DEBUG: ******************Started function pushData, memory=79679488
+2018-03-26 16:33:32,562 DEBUG: ******************Started function randomizer, memory=79679488
+2018-03-26 16:33:32,563 INFO: Bid number P660032550: Randomizer determined TP 1.0 incentives are not to be updated.
+2018-03-26 16:33:32,565 INFO: 1DA: Inc - 0.444813471036, Low - 0.394813471036, High - 0.454813471036
+2018-03-26 16:33:32,565 INFO: 2DA: Inc - 0.63433629348, Low - 0.58433629348, High - 0.64433629348
+2018-03-26 16:33:32,565 INFO: 3DA: Inc - 0.581473542367, Low - 0.531473542367, High - 0.591473542367
+2018-03-26 16:33:32,565 INFO: GND_Com: Inc - 0.329268738866, Low - 0.279268738866, High - 0.339268738866
+2018-03-26 16:33:32,565 INFO: GND_Resi: Inc - 0.431118815295, Low - 0.381118815295, High - 0.441118815295
+2018-03-26 16:33:32,565 INFO: Export: Inc - 0.7, Low - 0.65, High - 0.71
+2018-03-26 16:33:32,566 INFO: Import: Inc - 0.396546385024, Low - 0.346546385024, High - 0.406546385024
+2018-03-26 16:33:32,566 INFO: Air_CWT: Inc - 0.195, Low - 0.145, High - 0.205
+2018-03-26 16:33:32,566 DEBUG: ******************Exiting function PushData
+2018-03-26 16:33:32,566 INFO: Bid P660032550 successfully scored.
+2018-03-26 16:33:32,569 DEBUG: ******************Exiting fucntion main

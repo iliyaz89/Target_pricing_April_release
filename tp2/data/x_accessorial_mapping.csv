@@ -1,0 +1,373 @@
+MKG_SVP_DSC_TE,Product,MVM_DRC_CD,SVM_TYP_CD,SVC_FEA_TYP_CD,PKG_CHA_TYP_CD,ASY_SVC_TYP_CD,PKG_ACQ_MTH_TYP_CD
+UPS Next Day Air^RM,1DA,N,1DA,ALL,ALL,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial Letter - Return Service,1DA,N,1DA,APB,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial Package - Return Service,1DA,N,1DA,APB,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Letter - Return Service,1DA,N,1DA,APC,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Package - Return Service,1DA,N,1DA,APC,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Letter - Return Service,1DA,N,1DA,APR,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Package - Return Service,1DA,N,1DA,APR,PKG,GDL,ALL
+UPS Next Day Air^RM - Package - Authorized Return Service - Regular Pickup,1DA,N,1DA,ARS,PKG,GDL,REG
+UPS Next Day Air^RM - Single Piece Commercial Letter - Return Service - Third Party,1DA,N,1DA,ATB,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial Package - Return Service - Third Party,1DA,N,1DA,ATB,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Letter - Return Service - Third Party,1DA,N,1DA,ATC,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Package - Return Service - Third Party,1DA,N,1DA,ATC,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Letter - Return Service - Third Party,1DA,N,1DA,ATR,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Package - Return Service - Third Party,1DA,N,1DA,ATR,PKG,GDL,ALL
+UPS Next Day Air^RM - Letter - Consignee Billing - Regular Pickup,1DA,N,1DA,CBB,LTR,GDL,REG
+UPS Next Day Air^RM - Package - Consignee Billing - Regular Pickup,1DA,N,1DA,CBB,PKG,GDL,REG
+UPS Next Day Air^RM - Hundredweight - Consignee Billing - Regular Pickup,Air_CWT,N,1DA,CBC,PKG,GDL,REG
+UPS Next Day Air^RM - Hundredweight - Freight Collect - Regular Pickup,Air_CWT,N,1DA,CFC,ALL,GDL,REG
+UPS Next Day Air^RM - Hundredweight - Package - Freight Collect - Regular Pickup,Air_CWT,N,1DA,CFC,PKG,GDL,REG
+UPS Next Day Air^RM - Hundredweight - Third Party - Regular Pickup,Air_CWT,N,1DA,CTP,ALL,GDL,REG
+UPS Next Day Air^RM - Hundredweight - Package - Third Party - Regular Pickup,Air_CWT,N,1DA,CTP,PKG,GDL,REG
+UPS Next Day Air^RM - Hundredweight - Package - Regular Pickup,Air_CWT,N,1DA,CWT,PKG,GDL,REG
+UPS Next Day Air^RM - Hundredweight - Package - Regular Pickup,Air_CWT,N,1DA,CWT,ALL,GDL,REG
+UPS Next Day Air^RM - Single Piece Residential - Freight Collect,1DA,N,1DA,FFC,ALL,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Letter - Freight Collect,1DA,N,1DA,FFC,LTR,GDL,ALL
+UPS Next Day Air^RM - Single PieceResidential Package - Freight Collect Frt,1DA,N,1DA,FFC,PKG,GDL,ALL
+UPS Next Day Air^RM - Multi Piece Package - Freight Collect,1DA,N,1DA,MFC,PKG,GDL,ALL
+UPS Next Day Air^RM - Multi Piece Package,1DA,N,1DA,MSH,PKG,GDL,ALL
+UPS Next Day Air^RM - Multi Piece Package - Third Party,1DA,N,1DA,MTP,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Undeliverable Return - Letter - Prepaid,1DA,N,1DA,RTB,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Undeliverable Return - Package - Prepaid,1DA,N,1DA,RTB,PKG,GDL,ALL
+UPS Next Day Air^RM - Hundredweight - Undeliverable Return - Package - Prepaid,Air_CWT,N,1DA,RTM,PKG,GDL,REG
+UPS Next Day Air^RM - Single Piece Undeliverable Return - Letter - Third Party,1DA,N,1DA,RXB,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Undeliverable Return - Package - Third Party,1DA,N,1DA,RXB,PKG,GDL,ALL
+UPS Next Day Air^RM - Hundredweight - Undeliverable Return - Package - Third Party,Air_CWT,N,1DA,RXM,PKG,GDL,REG
+UPS Next Day Air^RM - Undeliverable Return - Letter - Freight Collect,1DA,N,1DA,RZB,LTR,GDL,ALL
+UPS Next Day Air^RM - Undeliverable Return - Letter - Freight Collect,1DA,N,1DA,RZB,PKG,GDL,ALL
+UPS Next Day Air^RM - Hundredweight - Undeliverable Package - Freight Collect,Air_CWT,N,1DA,RZM,PKG,GDL,REG
+UPS Next Day Air^RM - Single Piece Residential Package - Prepaid,1DA,N,1DA,SCR,ALL,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Letter - Prepaid Frt,1DA,N,1DA,SCR,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Package - Prepaid Frt,1DA,N,1DA,SCR,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Letter - Prepaid Frt,1DA,N,1DA,SCX,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Package - Prepaid Frt,1DA,N,1DA,SCX,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial - Freight Collect,1DA,N,1DA,SFC,ALL,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial Letter - Freight Collect,1DA,N,1DA,SFC,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial Package - Freight Collect,1DA,N,1DA,SFC,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential - Freight Collect,1DA,N,1DA,SFR,ALL,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Letter - Freight Collect,1DA,N,1DA,SFR,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Package - Freight Collect,1DA,N,1DA,SFR,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial - Prepaid,1DA,N,1DA,SPB,ALL,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial Letter - Prepaid,1DA,N,1DA,SPB,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial Package - Prepaid,1DA,N,1DA,SPB,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Package - Prepaid,1DA,N,1DA,SPR,ALL,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Letter - Prepaid,1DA,N,1DA,SPR,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Package - Prepaid,1DA,N,1DA,SPR,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Letter - Prepaid,1DA,N,1DA,SPX,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Package - Prepaid,1DA,N,1DA,SPX,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential - Third Party,1DA,N,1DA,STC,ALL,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Letter - Third Party,1DA,N,1DA,STC,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Package - Third Party,1DA,N,1DA,STC,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial - Third Party,1DA,N,1DA,STP,ALL,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial Letter - Third Party,1DA,N,1DA,STP,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Commercial Package - Third Party,1DA,N,1DA,STP,PKG,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential - Third Party,1DA,N,1DA,STR,ALL,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Letter - Third Party,1DA,N,1DA,STR,LTR,GDL,ALL
+UPS Next Day Air^RM - Single Piece Residential Package - Third Party,1DA,N,1DA,STR,PKG,GDL,ALL
+UPS Next Day Air^RM Early,1DA,N,1DM,ALL,ALL,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial Letter - Return Service,1DA,N,1DM,APB,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial  Package - Return Service,1DA,N,1DM,APB,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential  Letter - Return Service,1DA,N,1DM,APC,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential  Package - Return Service,1DA,N,1DM,APC,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential  Letter - Return Service,1DA,N,1DM,APR,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential  Package - Return Service,1DA,N,1DM,APR,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial Letter - Return Service - Third Party,1DA,N,1DM,ATB,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial Package - Return Service - Third Party,1DA,N,1DM,ATB,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Letter - Return Service - Third Party,1DA,N,1DM,ATC,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Package - Return Service - Third Party,1DA,N,1DM,ATC,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Letter - Return Service - Third Party,1DA,N,1DM,ATR,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Package - Return Service - Third Party,1DA,N,1DM,ATR,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Letter - Consignee Billing - Regular Pickup,1DA,N,1DM,CBB,LTR,GDL,REG
+UPS Next Day Air^RM Early - Package - Consignee Billing - Regular Pickup,1DA,N,1DM,CBB,PKG,GDL,REG
+UPS Next Day Air^RM Early - Single Piece Residential - Freight Collect,1DA,N,1DM,FFC,ALL,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Letter - Freight Collect Frt,1DA,N,1DM,FFC,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Package - Freight Collect Frt,1DA,N,1DM,FFC,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Undeliverable Return - Letter - Prepaid,1DA,N,1DM,RTB,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Undeliverable Return - Package - Prepaid,1DA,N,1DM,RTB,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Undeliverable Return - Letter - Third Party,1DA,N,1DM,RXB,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Undeliverable Return - Package - Third Party,1DA,N,1DM,RXB,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Undeliverable Return - Letter - Freight Collect,1DA,N,1DM,RZB,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Undeliverable Return - Package - Freight Collect,1DA,N,1DM,RZB,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Package - Prepaid,1DA,N,1DM,SCR,ALL,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Letter - Prepaid Frt,1DA,N,1DM,SCR,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Package - Prepaid Frt,1DA,N,1DM,SCR,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Letter - Prepaid Frt,1DA,N,1DM,SCX,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Package - Prepaid Frt,1DA,N,1DM,SCX,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial - Freight Collect,1DA,N,1DM,SFC,ALL,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial Letter - Freight Collect,1DA,N,1DM,SFC,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial Package - Freight Collect,1DA,N,1DM,SFC,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential - Freight Collect,1DA,N,1DM,SFR,ALL,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Letter - Freight Collect,1DA,N,1DM,SFR,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Package - Freight Collect,1DA,N,1DM,SFR,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial - Prepaid,1DA,N,1DM,SPB,ALL,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial Letter - Prepaid,1DA,N,1DM,SPB,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial Package - Prepaid,1DA,N,1DM,SPB,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Package - Prepaid,1DA,N,1DM,SPR,ALL,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Letter - Prepaid,1DA,N,1DM,SPR,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Package - Prepaid,1DA,N,1DM,SPR,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Letter - Prepaid,1DA,N,1DM,SPX,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Package - Prepaid,1DA,N,1DM,SPX,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential - Third Party,1DA,N,1DM,STC,ALL,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Letter - Third Party,1DA,N,1DM,STC,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Package - Third Party,1DA,N,1DM,STC,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial - Third Party,1DA,N,1DM,STP,ALL,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial Letter - Third Party,1DA,N,1DM,STP,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Commercial Package - Third Party,1DA,N,1DM,STP,PKG,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential - Third Party,1DA,N,1DM,STR,ALL,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Letter - Third Party,1DA,N,1DM,STR,LTR,GDL,ALL
+UPS Next Day Air^RM Early - Single Piece Residential Package - Third Party,1DA,N,1DM,STR,PKG,GDL,ALL
+UPS Next Day Air Saver^RM,1DA,N,1DP,ALL,ALL,GDL,ALL
+UPS Next Day Air Saver^RM - Letter - Consignee Billing - Regular Pickup,1DA,N,1DP,CBB,LTR,GDL,REG
+UPS Next Day Air Saver^RM - Package - Consignee Billing - Regular Pickup,1DA,N,1DP,CBB,PKG,GDL,REG
+UPS Next Day Air Saver^RM  - Hundredweight - Consignee Billing - Regular Pickup,Air_CWT,N,1DP,CBC,PKG,GDL,REG
+UPS Next Day Air Saver^RM - Hundredweight - Freight Collect - Regular Pickup,Air_CWT,N,1DP,CFC,ALL,GDL,REG
+UPS Next Day Air Saver^RM - Hundredweight - Package - Freight Collect - Regular Pickup,Air_CWT,N,1DP,CFC,PKG,GDL,REG
+UPS Next Day Air Saver^RM - Hundredweight - Third Party - Regular Pickup,Air_CWT,N,1DP,CTP,ALL,GDL,REG
+UPS Next Day Air Saver^RM - Hundredweight - Package - Third Party - Regular Pickup,Air_CWT,N,1DP,CTP,PKG,GDL,REG
+UPS Next Day Air Saver^RM - Hundredweight - Regular Pickup,Air_CWT,N,1DP,CWT,ALL,GDL,REG
+UPS Next Day Air Saver^RM - Hundredweight - Package - Regular Pickup,Air_CWT,N,1DP,CWT,PKG,GDL,REG
+UPS Next Day Air Saver^RM - Single Piece Residential - Freight Collect,1DA,N,1DP,FFC,ALL,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Letter - Freight Collect Frt,1DA,N,1DP,FFC,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Package - Freight Collect Frt,1DA,N,1DP,FFC,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Multi Piece Package - Freight Collect,1DA,N,1DP,MFC,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Multi Piece Package,1DA,N,1DP,MSH,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Multi Piece Package - Third Party,1DA,N,1DP,MTP,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Undeliverable Return - Letter - Prepaid,1DA,N,1DP,RTB,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Undeliverable Return - Package - Prepaid,1DA,N,1DP,RTB,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Hundredweight - Undeliverable Return - Package - Prepaid,Air_CWT,N,1DP,RTM,PKG,GDL,REG
+UPS Next Day Air Saver^RM - Single Piece Undeliverable Return - Letter - Third Party,1DA,N,1DP,RXB,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Undeliverable Return - Package - Third Party,1DA,N,1DP,RXB,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Hundredweight - Undeliverable Return - Package - Third Party,Air_CWT,N,1DP,RXM,PKG,GDL,REG
+UPS Next Day Air Saver^RM - Undeliverable Return - Letter - Freight Collect,1DA,N,1DP,RZB,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Undeliverable Return - Package - Freight Collect,1DA,N,1DP,RZB,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Hundredweight - Undeliverable Package - Freight Collect,Air_CWT,N,1DP,RZM,PKG,GDL,REG
+UPS Next Day Air Saver^RM - Single Piece Residential Package - Prepaid,1DA,N,1DP,SCR,ALL,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Letter - Prepaid Frt,1DA,N,1DP,SCR,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Package - Prepaid Frt,1DA,N,1DP,SCR,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Letter - Prepaid Frt,1DA,N,1DP,SCX,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Package - Prepaid Frt,1DA,N,1DP,SCX,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Commercial - Freight Collect,1DA,N,1DP,SFC,ALL,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Commercial Letter - Freight Collect,1DA,N,1DP,SFC,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Commercial Package - Freight Collect,1DA,N,1DP,SFC,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential - Freight Collect,1DA,N,1DP,SFR,ALL,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Letter - Freight Collect,1DA,N,1DP,SFR,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Package - Freight Collect,1DA,N,1DP,SFR,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Commercial - Prepaid,1DA,N,1DP,SPB,ALL,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Commercial Letter - Prepaid,1DA,N,1DP,SPB,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Commercial Package - Prepaid,1DA,N,1DP,SPB,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Package - Prepaid,1DA,N,1DP,SPR,ALL,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Letter - Prepaid,1DA,N,1DP,SPR,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Package - Prepaid,1DA,N,1DP,SPR,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Letter - Prepaid,1DA,N,1DP,SPX,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Package - Prepaid,1DA,N,1DP,SPX,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential - Third Party,1DA,N,1DP,STC,ALL,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Letter - Third Party,1DA,N,1DP,STC,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Package - Third Party,1DA,N,1DP,STC,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Commercial - Third Party,1DA,N,1DP,STP,ALL,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Commercial Letter - Third Party,1DA,N,1DP,STP,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Commercial Package - Third Party,1DA,N,1DP,STP,PKG,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential - Third Party,1DA,N,1DP,STR,ALL,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Letter - Third Party,1DA,N,1DP,STR,LTR,GDL,ALL
+UPS Next Day Air Saver^RM - Single Piece Residential Package - Third Party,1DA,N,1DP,STR,PKG,GDL,ALL
+UPS 2nd Day Air^RM,2DA,N,2DA,ALL,ALL,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial  Letter - Return Service,2DA,N,2DA,APB,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial  Package - Return Service,2DA,N,2DA,APB,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential  Letter - Return Service,2DA,N,2DA,APC,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential  Package - Return Service,2DA,N,2DA,APC,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential  Letter - Return Service,2DA,N,2DA,APR,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential  Package - Return Service,2DA,N,2DA,APR,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Package - Authorized Return Service - Regular Pickup,2DA,N,2DA,ARS,PKG,GDL,REG
+UPS 2nd Day Air^RM - Single Piece Commercial Letter - Return Service - Third Party,2DA,N,2DA,ATB,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial Package - Return Service - Third Party,2DA,N,2DA,ATB,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Letter - Return Service - Third Party,2DA,N,2DA,ATC,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Package - Return Service - Third Party,2DA,N,2DA,ATC,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Letter - Return Service - Third Party,2DA,N,2DA,ATR,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Package - Return Service - Third Party,2DA,N,2DA,ATR,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Letter - Consignee Billing - Regular Pickup,2DA,N,2DA,CBB,LTR,GDL,REG
+UPS 2nd Day Air^RM - Package - Consignee Billing - Regular Pickup,2DA,N,2DA,CBB,PKG,GDL,REG
+UPS 2nd Day Air^RM - Hundredweight - Consignee Billing - Regular Pickup,Air_CWT,N,2DA,CBC,PKG,GDL,REG
+UPS 2nd Day Air^RM - Hundredweight - Freight Collect - Regular Pickup,Air_CWT,N,2DA,CFC,ALL,GDL,REG
+UPS 2nd Day Air^RM - Hundredweight - Package - Freight Collect - Regular Pickup,Air_CWT,N,2DA,CFC,PKG,GDL,REG
+UPS 2nd Day Air^RM - Hundredweight - Third Party - Regular Pickup,Air_CWT,N,2DA,CTP,ALL,GDL,REG
+UPS 2nd Day Air^RM - Hundredweight - Package - Third Party - Regular Pickup,Air_CWT,N,2DA,CTP,PKG,GDL,REG
+UPS 2nd Day Air^RM - Hundredweight - Regular Pickup,Air_CWT,N,2DA,CWT,ALL,GDL,REG
+UPS 2nd Day Air^RM - Hundredweight - Package - Regular Pickup,Air_CWT,N,2DA,CWT,PKG,GDL,REG
+UPS 2nd Day Air^RM - Single Piece Residential - Freight Collect,2DA,N,2DA,FFC,ALL,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Letter - Freight Collect Frt,2DA,N,2DA,FFC,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Package - Freight Collect Frt,2DA,N,2DA,FFC,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Multi Piece Package - Freight Collect,2DA,N,2DA,MFC,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Multi Piece Package,2DA,N,2DA,MSH,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Multi Piece Package - Third Party,2DA,N,2DA,MTP,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Undeliverable Return - Letter - Prepaid,2DA,N,2DA,RTB,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Undeliverable Return - Package - Prepaid,2DA,N,2DA,RTB,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Hundredweight - Undeliverable Return - Package - Prepaid,Air_CWT,N,2DA,RTM,PKG,GDL,REG
+UPS 2nd Day Air^RM - Single Piece Undeliverable Return - Letter - Third Party,2DA,N,2DA,RXB,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Undeliverable Return - Package - Third Party,2DA,N,2DA,RXB,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Hundredweight - Undeliverable Return - Package - Third Party,Air_CWT,N,2DA,RXM,PKG,GDL,REG
+UPS 2nd Day Air^RM - Undeliverable Return - Letter - Freight Collect,2DA,N,2DA,RZB,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Undeliverable Return - Package - Freight Collect,2DA,N,2DA,RZB,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Hundredweight - Undeliverable Package - Freight Collect,Air_CWT,N,2DA,RZM,PKG,GDL,REG
+UPS 2nd Day Air^RM - Single Piece Residential Package - Prepaid,2DA,N,2DA,SCR,ALL,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Letter - Prepaid Frt,2DA,N,2DA,SCR,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Package - Prepaid Frt,2DA,N,2DA,SCR,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Letter - Prepaid Frt,2DA,N,2DA,SCX,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Package - Prepaid Frt,2DA,N,2DA,SCX,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial - Freight Collect,2DA,N,2DA,SFC,ALL,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial Letter - Freight Collect,2DA,N,2DA,SFC,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial Package - Freight Collect,2DA,N,2DA,SFC,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential - Freight Collect,2DA,N,2DA,SFR,ALL,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Letter - Freight Collect,2DA,N,2DA,SFR,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Package - Freight Collect,2DA,N,2DA,SFR,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial - Prepaid,2DA,N,2DA,SPB,ALL,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial Letter - Prepaid,2DA,N,2DA,SPB,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial Package - Prepaid,2DA,N,2DA,SPB,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Package - Prepaid,2DA,N,2DA,SPR,ALL,GDL,ALL
+UPS 2nd Day Air^RM  - Single Piece Residential Letter - Prepaid,2DA,N,2DA,SPR,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Package - Prepaid,2DA,N,2DA,SPR,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Letter - Prepaid,2DA,N,2DA,SPX,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Package - Prepaid,2DA,N,2DA,SPX,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential - Third Party,2DA,N,2DA,STC,ALL,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Letter - Third Party,2DA,N,2DA,STC,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Package - Third Party,2DA,N,2DA,STC,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial - Third Party,2DA,N,2DA,STP,ALL,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial Letter - Third Party,2DA,N,2DA,STP,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Commercial Package - Third Party,2DA,N,2DA,STP,PKG,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential - Third Party,2DA,N,2DA,STR,ALL,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Letter - Third Party,2DA,N,2DA,STR,LTR,GDL,ALL
+UPS 2nd Day Air^RM - Single Piece Residential Package - Third Party,2DA,N,2DA,STR,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM,2DA,N,2DM,ALL,ALL,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Letter - Return Service,2DA,N,2DM,APR,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Package - Return Service,2DA,N,2DM,APR,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Letter - Return Service - Third Party,2DA,N,2DM,ATR,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Package - Return Service - Third Party,2DA,N,2DM,ATR,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Letter - Consignee Billing - Regular Pickup,2DA,N,2DM,CBB,LTR,GDL,REG
+UPS 2nd Day Air A.M.^RM - Package - Consignee Billing - Regular Pickup,2DA,N,2DM,CBB,PKG,GDL,REG
+UPS 2nd Day Air A.M.^RM - Hundredweight - Consignee Billing - Regular Pickup,Air_CWT,N,2DM,CBC,PKG,GDL,REG
+UPS 2nd Day Air A.M.^RM - Hundredweight - Freight Collect - Regular Pickup,Air_CWT,N,2DM,CFC,ALL,GDL,REG
+UPS 2nd Day Air A.M.^RM - Hundredweight - Package - Freight Collect - Regular Pickup,Air_CWT,N,2DM,CFC,PKG,GDL,REG
+UPS 2nd Day Air A.M.^RM - Hundredweight - Third Party - Regular Pickup,Air_CWT,N,2DM,CTP,ALL,GDL,REG
+UPS 2nd Day Air A.M.^RM - Hundredweight - Package - Third Party - Regular Pickup,Air_CWT,N,2DM,CTP,PKG,GDL,REG
+UPS 2nd Day Air A.M.^RM - Hundredweight - Regular Pickup,Air_CWT,N,2DM,CWT,ALL,GDL,REG
+UPS 2nd Day Air A.M.^RM - Hundredweight - Package - Regular Pickup,Air_CWT,N,2DM,CWT,PKG,GDL,REG
+UPS 2nd Day Air A.M.^RM - Single Piece Residential - Freight Collect,2DA,N,2DM,FFC,ALL,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Multi Piece Package - Freight Collect,2DA,N,2DM,MFC,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Multi Piece Package,2DA,N,2DM,MSH,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Multi Piece Package - Third Party,2DA,N,2DM,MTP,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Undeliverable Return - Letter - Prepaid,2DA,N,2DM,RTB,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Undeliverable Return - Package - Prepaid,2DA,N,2DM,RTB,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Hundredweight - Undeliverable Return - Package - Prepaid,Air_CWT,N,2DM,RTM,PKG,GDL,REG
+UPS 2nd Day Air A.M.^RM - Single Piece Undeliverable Return - Letter - Third Party,2DA,N,2DM,RXB,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Undeliverable Return - Package - Third Party,2DA,N,2DM,RXB,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Hundredweight - Undeliverable Return - Package - Third Party,Air_CWT,N,2DM,RXM,PKG,GDL,REG
+UPS 2nd Day Air A.M.^RM - Undeliverable Return - Letter - Freight Collect,2DA,N,2DM,RZB,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Undeliverable Return - Package - Freight Collect,2DA,N,2DM,RZB,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Hundredweight - Undeliverable Package - Freight Collect,Air_CWT,N,2DM,RZM,PKG,GDL,REG
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Package - Prepaid,2DA,N,2DM,SCR,ALL,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Commercial - Freight Collect,2DA,N,2DM,SFC,ALL,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Commercial Letter - Freight Collect,2DA,N,2DM,SFC,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Commercial Package - Freight Collect,2DA,N,2DM,SFC,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential - Freight Collect,2DA,N,2DM,SFR,ALL,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Letter - Freight Collect,2DA,N,2DM,SFR,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Package - Freight Collect,2DA,N,2DM,SFR,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Commercial - Prepaid,2DA,N,2DM,SPB,ALL,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Commercial Letter - Prepaid,2DA,N,2DM,SPB,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Commercial Package - Prepaid,2DA,N,2DM,SPB,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Package - Prepaid,2DA,N,2DM,SPR,ALL,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Letter - Prepaid,2DA,N,2DM,SPR,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Package - Prepaid,2DA,N,2DM,SPR,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential - Third Party,2DA,N,2DM,STC,ALL,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Commercial - Third Party,2DA,N,2DM,STP,ALL,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Commercial Letter - Third Party,2DA,N,2DM,STP,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Commercial Package - Third Party,2DA,N,2DM,STP,PKG,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential - Third Party,2DA,N,2DM,STR,ALL,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Letter - Third Party,2DA,N,2DM,STR,LTR,GDL,ALL
+UPS 2nd Day Air A.M.^RM - Single Piece Residential Package - Third Party,2DA,N,2DM,STR,PKG,GDL,ALL
+UPS 3 Day Select^RM,3DA,N,3DS,ALL,ALL,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Commercial Package - Return Service,3DA,N,3DS,APB,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Return Service,3DA,N,3DS,APC,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Return Service,3DA,N,3DS,APR,PKG,GDL,ALL
+UPS 3 Day Select^RM - Package - Authorized Return Service - Regular Pickup,3DA,N,3DS,ARS,PKG,GDL,REG
+UPS 3 Day Select^RM - Single Piece Commercial Package - Return Service - Third Party,3DA,N,3DS,ATB,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Return Service - Third Party,3DA,N,3DS,ATC,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Return Service - Third Party,3DA,N,3DS,ATR,PKG,GDL,ALL
+UPS 3 Day Select^RM - Package - Consignee Billing - Regular Pickup,3DA,N,3DS,CBB,PKG,GDL,REG
+UPS 3 Day Select^RM - Hundredweight - Consignee Billing - Regular Pickup,Air_CWT,N,3DS,CBC,PKG,GDL,REG
+UPS 3 Day Select^RM - Hundredweight - Freight Collect - Regular Pickup,Air_CWT,N,3DS,CFC,ALL,GDL,REG
+UPS 3 Day Select^RM - Hundredweight - Package - Freight Collect - Regular Pickup,Air_CWT,N,3DS,CFC,PKG,GDL,REG
+UPS 3 Day Select^RM - Hundredweight - Third Party - Regular Pickup,Air_CWT,N,3DS,CTP,ALL,GDL,REG
+UPS 3 Day Select^RM - Hundredweight - Package - Third Party - Regular Pickup,Air_CWT,N,3DS,CTP,PKG,GDL,REG
+UPS 3 Day Select^RM - Hundredweight - Regular Pickup,Air_CWT,N,3DS,CWT,ALL,GDL,REG
+UPS 3 Day Select^RM - Hundredweight - Package - Regular Pickup,Air_CWT,N,3DS,CWT,PKG,GDL,REG
+UPS 3 Day Select^RM - Single Piece Residential - Freight Collect,3DA,N,3DS,FFC,ALL,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Freight Collect Frt,3DA,N,3DS,FFC,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Undeliverable Return - Package - Prepaid,3DA,N,3DS,RTB,PKG,GDL,ALL
+UPS 3 Day Select^RM - Hundredweight - Undeliverable Return - Package - Prepaid,Air_CWT,N,3DS,RTM,PKG,GDL,REG
+UPS 3 Day Select^RM - Single Piece Undeliverable Return - Package - Third Party,3DA,N,3DS,RXB,PKG,GDL,ALL
+UPS 3 Day Select^RM - Hundredweight - Undeliverable Return - Package - Third Party,Air_CWT,N,3DS,RXM,PKG,GDL,REG
+UPS 3 Day Select^RM - Undeliverable Return - Package - Freight Collect,3DA,N,3DS,RZB,PKG,GDL,ALL
+UPS 3 Day Select^RM - Hundredweight - Undeliverable Package - Freight Collect,Air_CWT,N,3DS,RZM,PKG,GDL,REG
+UPS 3 Day Select^RM - Single Piece Residential Package - Prepaid,3DA,N,3DS,SCR,ALL,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Prepaid Frt,3DA,N,3DS,SCR,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Package - Prepaid Frt,3DA,N,3DS,SCX,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Commercial - Freight Collect,3DA,N,3DS,SFC,ALL,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Commercial Package - Freight Collect,3DA,N,3DS,SFC,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential - Freight Collect,3DA,N,3DS,SFR,ALL,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Freight Collect,3DA,N,3DS,SFR,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Commercial - Prepaid,3DA,N,3DS,SPB,ALL,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Commercial Package - Prepaid,3DA,N,3DS,SPB,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Prepaid,3DA,N,3DS,SPR,ALL,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Prepaid,3DA,N,3DS,SPR,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Package - Prepaid,3DA,N,3DS,SPX,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential - Third Party,3DA,N,3DS,STC,ALL,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Third Party,3DA,N,3DS,STC,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Commercial - Third Party,3DA,N,3DS,STP,ALL,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Commercial Package - Third Party,3DA,N,3DS,STP,PKG,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential - Third Party,3DA,N,3DS,STR,ALL,GDL,ALL
+UPS 3 Day Select^RM - Single Piece Residential Package - Third Party,3DA,N,3DS,STR,PKG,GDL,ALL
+UPS^RM Ground - Residential Delivery Surcharge,GND_Resi,N,GND,ALL,ALL,RES,ALL
+UPS^RM Ground,GND_Com,N,GND,ALL,ALL,GDL,ALL
+UPS^RM Ground - Single Piece Commercial Package - Return Service,GND_Com,N,GND,APB,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Residential Package - Return Service,GND_Resi,N,GND,APC,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Residential Package - Return Service,GND_Resi,N,GND,APR,PKG,GDL,ALL
+UPS^RM Ground - Package - Authorized Return Service - Regular Pickup,GND_Resi,N,GND,ARS,PKG,GDL,REG
+UPS^RM Ground - Single Piece Commercial Package - Return Service - Third Party,GND_Com,N,GND,ATB,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Residential Package - Return Service - Third Party,GND_Resi,N,GND,ATC,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Residential Package - Return Service - Third Party,GND_Resi,N,GND,ATR,PKG,GDL,ALL
+UPS^RM Ground - Package - Consignee Billing - Regular Pickup,GND_Unclassified,N,GND,CBB,PKG,GDL,REG
+UPS^RM Ground - Hundredweight - Consignee Billing - Regular Pickup,GND_CWT,N,GND,CBC,PKG,GDL,REG
+UPS^RM Ground - Hundredweight - Freight Collect - Regular Pickup,GND_CWT,N,GND,CFC,ALL,GDL,REG
+UPS^RM Ground - Hundredweight - Package - Freight Collect - Regular Pickup,GND_CWT,N,GND,CFC,PKG,GDL,REG
+UPS^RM Ground - Hundredweight - Third Party - Regular Pickup,GND_CWT,N,GND,CTP,ALL,GDL,REG
+UPS^RM Ground - Hundredweight - Package - Third Party - Regular Pickup,GND_CWT,N,GND,CTP,PKG,GDL,REG
+UPS^RM Ground - Hundredweight - Package - Regular Pickup,GND_CWT,N,GND,CWT,PKG,GDL,REG
+UPS^RM Ground - Hundredweight - Regular Pickup,GND_CWT,N,GND,CWT,ALL,GDL,REG
+UPS^RM Ground - Single Piece Residential - Freight Collect,GND_Resi,N,GND,FFC,ALL,GDL,ALL
+UPS^RM Ground - Single Piece Residential Package - Freight Collect Frt,GND_Resi,N,GND,FFC,PKG,GDL,ALL
+UPS^RM Ground - Package - Freight Rated,GND_Com,N,GND,FRS,PKG,GDL,REG
+UPS^RM Ground  - Multi Piece Package - Freight Collect,GND_Com,N,GND,MFC,PKG,GDL,ALL
+UPS^RM Ground  - Multi Piece Package,GND_Com,N,GND,MSH,PKG,GDL,ALL
+UPS^RM Ground  - Multi Piece Package - Third Party,GND_Com,N,GND,MTP,PKG,GDL,ALL
+UPS^RM Ground  - Single Piece Undeliverable Return - Package - Prepaid,GND_Com,N,GND,RTB,PKG,GDL,ALL
+UPS^RM Ground - Hundredweight  - Undeliverable Return - Package - Prepaid,GND_CWT,N,GND,RTM,PKG,GDL,REG
+UPS^RM Ground  - Single Piece Undeliverable Return - Package - Third Party,GND_Resi,N,GND,RXB,PKG,GDL,ALL
+UPS^RM Ground - Hundredweight - Undeliverable Return - Package - Third Party,GND_CWT,N,GND,RXM,PKG,GDL,REG
+UPS^RM Ground - Undeliverable Return - Package - Freight Collect,GND_Resi,N,GND,RZB,PKG,GDL,ALL
+UPS^RM Ground - Hundredweight - Undeliverable Package - Freight Collect,GND_CWT,N,GND,RZM,PKG,GDL,REG
+UPS^RM Ground - Single Piece Residential Package - Prepaid,GND_Resi,N,GND,SCR,ALL,GDL,ALL
+UPS^RM Ground  - Single Piece Residential Package - Prepaid Frt,GND_Resi,N,GND,SCR,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Commercial - Freight Collect,GND_Com,N,GND,SFC,ALL,GDL,ALL
+UPS^RM Ground  - Single Piece Commercial Package - Freight Collect,GND_Com,N,GND,SFC,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Residential - Freight Collect,GND_Resi,N,GND,SFR,ALL,GDL,ALL
+UPS^RM Ground  - Single Piece Residential Package - Freight Collect,GND_Resi,N,GND,SFR,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Commercial Package - Prepaid,GND_Com,N,GND,SPB,ALL,GDL,ALL
+UPS^RM Ground - Single Piece Commercial Package - Prepaid,GND_Com,N,GND,SPB,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Residential Package - Prepaid,GND_Resi,N,GND,SPR,ALL,GDL,ALL
+UPS^RM Ground  - Single Piece Residential Package - Prepaid,GND_Resi,N,GND,SPR,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Residential - Third Party,GND_Resi,N,GND,STC,ALL,GDL,ALL
+UPS^RM Ground  - Single Piece Residential Package - Third Party,GND_Resi,N,GND,STC,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Commercial - Third Party,GND_Com,N,GND,STP,ALL,GDL,ALL
+UPS^RM Ground  - Single Piece Commercial Package - Third Party,GND_Com,N,GND,STP,PKG,GDL,ALL
+UPS^RM Ground - Single Piece Residential - Third Party,GND_Resi,N,GND,STR,ALL,GDL,ALL
+UPS^RM Ground - Single Piece Residential Package - Third Party,GND_Resi,N,GND,STR,PKG,GDL,ALL
+UPS^RM Ground,GND_Resi,N,GND,ALL,ALL,GDL,ALL

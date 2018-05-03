@@ -1,0 +1,49 @@
+2018-04-12 16:27:20,355 INFO: Consumer started
+2018-04-12 16:27:20,355 INFO: cx_Oracle loaded with version: 5.2.1
+matplotlib loaded with version: 2.0.0
+numpy loaded with version: 1.11.3
+pandas loaded with version: 0.19.2
+sklearn loaded with version: 0.18.1
+scipy loaded with version: 0.18.1
+Environmental variable $TP2_HOME found: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2
+Environmental variable $DBUSER found.
+Environmental variable $DBPWD found.
+Environmental variable $ORACLE_SID found.
+Environmental variable $LOGDIR found.
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/settings.csv is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\logs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/analytics/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/inputs/ is accessible
+Directory C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ is accessible
+Logging file found and logger started successfully 
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/producer2consumer/init is accessible
+File C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/ipc/consumer2producer/init is accessible
+Oracle connection successfully made.
+
+2018-04-12 16:27:20,355 DEBUG: **********Started function main, memory in MB=85.96484375
+2018-04-12 16:27:20,355 INFO: Model Path loaded from: C:\Users\zln6bxn\Desktop\Phase2_Prod\tp2/data/
+2018-04-12 16:27:20,355 INFO: Loading air_logit_fit.p model...
+2018-04-12 16:27:21,184 INFO: Loading air_market_incentive.p model...
+2018-04-12 16:27:21,420 INFO: Loading air_mpt_reg.p model...
+2018-04-12 16:27:23,711 INFO: Loading data_prep.p model...
+2018-04-12 16:27:24,128 INFO: Loading data_preprocess.p model...
+2018-04-12 16:27:24,128 INFO: Loading eff_to_offer_air.p model...
+2018-04-12 16:27:24,190 INFO: Loading eff_to_offer_gnd.p model...
+2018-04-12 16:27:24,237 INFO: Loading eff_to_offer_impexp.p model...
+2018-04-12 16:27:24,285 INFO: Loading gnd_market_incentive.p model...
+2018-04-12 16:27:24,457 INFO: Loading gnd_mpt_reg.p model...
+2018-04-12 16:27:26,683 INFO: Loading ground_logit_fit.p model...
+2018-04-12 16:27:26,868 INFO: Loading ie_market_incentive.p model...
+2018-04-12 16:27:27,052 INFO: Loading impexp_logit_fit.p model...
+2018-04-12 16:27:27,091 INFO: Loading impexp_mpt_reg.p model...
+2018-04-12 16:27:28,155 INFO: All models loaded
+2018-04-12 16:27:28,155 DEBUG: ******************Exiting function main_Consumer
+2018-04-12 16:27:28,155 DEBUG: **********Started function run, memory in MB=2195.62890625
+2018-04-12 16:27:28,155 INFO: IPC folders cleaned
+2018-04-12 16:27:28,187 DEBUG: **********Started function OptimalIncentives, memory in MB=2197.2890625
+2018-04-12 16:27:28,187 INFO: Consumer up and running
+2018-04-12 16:27:28,187 DEBUG: ******************Middle of function run_Consumer
